@@ -1,12 +1,12 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-06T23:33:06.302Z",
+  "exportedAt": "2026-09-06T23:38:08.540Z",
   "states": {
     "practical": {
       "schemaVersion": "general-journal-27-v1",
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-06T23:32:38.803Z",
+      "updatedAt": "2026-09-06T23:38:08.539Z",
       "cards": {
         "0": {
           "rows": [],
@@ -668,13 +668,25 @@
       "fileName": "일반전표_28문제_학습기록_2026-09-07",
       "koAuto": true
     },
-    "theory": {},
+    "theory": {
+      "answers": {},
+      "checked": {},
+      "history": {},
+      "attempts": {},
+      "passed": {},
+      "archived": {},
+      "passedAt": {},
+      "archivedAt": {},
+      "restoredAt": {},
+      "trainingCenterRestored": {}
+    },
     "closing": {
-      "cards": {}
+      "cards": {},
+      "updatedAt": "2026-09-06T23:38:08.540Z"
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-06T15:13:50.413Z",
+      "updatedAt": "2026-09-06T23:38:08.540Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -1428,7 +1440,7 @@
       "fileName": "매입매출전표_오답연습_5문제_학습기록_2026-09-03"
     }
   },
-  "syncedAt": "2026-09-06T23:33:06.302Z",
+  "syncedAt": "2026-09-06T23:38:08.540Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
