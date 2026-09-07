@@ -1,11 +1,12 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-07T10:51:23.509Z",
+  "exportedAt": "2026-09-07T10:51:46.328Z",
   "states": {
     "practical": {
+      "schemaVersion": "general-journal-27-v1",
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-07T10:51:23.506Z",
+      "updatedAt": "2026-09-07T10:51:46.326Z",
       "cards": {
         "0": {
           "rows": [],
@@ -80,12 +81,12 @@
         "7": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false,
-          "correct": false
+          "archived": false
         },
         "8": {
           "rows": [],
@@ -263,7 +264,6 @@
             }
           ],
           "graded": true,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -309,6 +309,7 @@
           ],
           "passed": true,
           "archived": false,
+          "correct": true,
           "matched": 2,
           "passedAt": "2026-09-06T23:11:17.700Z"
         },
@@ -359,7 +360,6 @@
             }
           ],
           "graded": true,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -405,6 +405,7 @@
           ],
           "passed": true,
           "archived": false,
+          "correct": true,
           "matched": 2,
           "passedAt": "2026-09-06T23:00:52.760Z"
         },
@@ -444,7 +445,6 @@
             }
           ],
           "graded": true,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -490,6 +490,7 @@
           ],
           "passed": true,
           "archived": false,
+          "correct": true,
           "matched": 2,
           "passedAt": "2026-09-06T22:59:39.171Z"
         },
@@ -529,7 +530,6 @@
             }
           ],
           "graded": true,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -575,6 +575,7 @@
           ],
           "passed": false,
           "archived": true,
+          "correct": false,
           "matched": 2,
           "archivedAt": "2026-09-06T23:32:38.801Z"
         },
@@ -930,8 +931,7 @@
         }
       },
       "fileName": "일반전표_32문제_학습기록_2026-09-07",
-      "koAuto": true,
-      "schemaVersion": "general-journal-27-v1"
+      "koAuto": true
     },
     "theory": {
       "answers": {},
@@ -949,9 +949,11 @@
     },
     "closing": {
       "cards": {},
-      "updatedAt": "2026-09-07T10:51:23.507Z"
+      "updatedAt": "2026-09-07T10:51:46.327Z"
     },
     "voucher": {
+      "startedAt": "2026-09-04T04:31:57.985Z",
+      "updatedAt": "2026-09-07T10:51:46.327Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -2899,14 +2901,12 @@
           "selfPassedAt": "2026-09-07T10:51:09.483Z"
         }
       },
-      "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-07T10:51:23.507Z",
       "fileName": "매입매출전표_오답연습_5문제_학습기록_2026-09-03"
     }
   },
-  "syncedAt": "2026-09-07T10:51:23.509Z",
+  "syncedAt": "2026-09-07T10:51:46.328Z",
   "device": {
-    "id": "1a0652e8-c2c3-4055-a124-5604ce6144f2",
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
   }
 }
