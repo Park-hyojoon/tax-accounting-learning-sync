@@ -1,11 +1,11 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-08T12:22:42.637Z",
+  "exportedAt": "2026-09-08T12:22:50.006Z",
   "states": {
     "practical": {
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-08T12:22:42.636Z",
+      "updatedAt": "2026-09-08T12:22:50.004Z",
       "cards": {
         "0": {
           "deleted": true,
@@ -503,14 +503,14 @@
           "archived": false
         }
       },
-      "updatedAt": "2026-09-08T12:22:42.637Z",
+      "updatedAt": "2026-09-08T12:22:50.005Z",
       "startedAt": "2026-09-07T13:22:06.309Z",
       "fileName": "결산정리사항_14문제_학습기록_2026-09-07",
       "koAuto": true
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-08T12:22:42.637Z",
+      "updatedAt": "2026-09-08T12:22:50.005Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -3145,9 +3145,9 @@
     }
   ],
   "catalogAt": "2026-09-08T12:22:42.638Z",
-  "syncedAt": "2026-09-08T12:22:42.638Z",
+  "syncedAt": "2026-09-08T12:22:50.006Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "id": "1a0652e8-c2c3-4055-a124-5604ce6144f2",
     "name": "PC"
   }
 }
