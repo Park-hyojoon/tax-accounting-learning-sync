@@ -1,11 +1,11 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-07T23:53:42.143Z",
+  "exportedAt": "2026-09-08T00:57:06.157Z",
   "states": {
     "practical": {
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-07T23:53:42.139Z",
+      "updatedAt": "2026-09-08T00:57:06.155Z",
       "cards": {
         "0": {
           "rows": [],
@@ -208,14 +208,90 @@
           "archived": false
         },
         "20": {
-          "rows": [],
-          "graded": false,
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            }
+          ],
+          "graded": true,
           "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-09-08T00:28:34.799Z",
+              "correct": false,
+              "matched": 0,
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "partner": "",
+                  "memo": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "partner": "",
+                  "memo": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "partner": "",
+                  "memo": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "partner": "",
+                  "memo": ""
+                }
+              ]
+            }
+          ],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "matched": 0,
+          "starred": true,
+          "starredAt": "2026-09-08T00:47:43.402Z"
         },
         "21": {
           "rows": [],
@@ -224,8 +300,11 @@
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
-          "passed": false,
-          "archived": false
+          "passed": true,
+          "archived": false,
+          "passedAt": "2026-09-08T00:20:20.296Z",
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-08T00:20:20.296Z"
         },
         "22": {
           "rows": [
@@ -919,17 +998,120 @@
           "archivedAt": "2026-09-07T09:59:09.551Z"
         },
         "31": {
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            }
+          ],
+          "graded": true,
+          "correct": false,
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-09-08T00:11:44.867Z",
+              "correct": false,
+              "matched": 0,
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "partner": "",
+                  "memo": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "partner": "",
+                  "memo": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "partner": "",
+                  "memo": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "partner": "",
+                  "memo": ""
+                }
+              ]
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "matched": 0,
+          "passedAt": "2026-09-08T00:14:50.121Z",
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-08T00:14:50.121Z"
+        },
+        "32": {
           "rows": [],
           "graded": false,
           "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
-          "passed": false,
-          "archived": false
+          "passed": true,
+          "archived": false,
+          "passedAt": "2026-09-08T00:10:09.256Z",
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-08T00:10:09.256Z"
+        },
+        "33": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": true,
+          "archived": false,
+          "passedAt": "2026-09-08T00:04:39.345Z",
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-08T00:04:39.345Z"
         }
       },
-      "fileName": "일반전표_32문제_학습기록_2026-09-07",
+      "fileName": "일반전표_34문제_학습기록_2026-09-08",
       "koAuto": true,
       "schemaVersion": "general-journal-27-v1"
     },
@@ -1104,14 +1286,14 @@
           "archived": false
         }
       },
-      "updatedAt": "2026-09-07T23:53:42.141Z",
+      "updatedAt": "2026-09-08T00:57:06.156Z",
       "startedAt": "2026-09-07T13:22:06.309Z",
       "fileName": "결산정리사항_14문제_학습기록_2026-09-07",
       "koAuto": true
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-07T23:53:42.141Z",
+      "updatedAt": "2026-09-08T00:57:06.156Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -1862,20 +2044,36 @@
           "archived": false
         },
         "17": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "",
+            "trade": "purchase",
+            "type": "53.면세",
+            "item": "직무교육용 도서",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "260,000",
+            "vat": "",
+            "supplier": "새봄서점",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
+              "account": "도서인쇄비",
+              "amount": "NaN",
+              "division": "판",
+              "summary": "직무교육용 도서",
+              "autoRole": "base"
             },
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "미지급금",
+              "amount": "260,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -1897,7 +2095,7 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
+          "graded": true,
           "attempts": 5,
           "wrongCount": 5,
           "history": [
@@ -2204,28 +2402,44 @@
           "selfPassedAt": "2026-09-07T10:29:12.498Z"
         },
         "18": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "",
+            "trade": "sales",
+            "type": "11.과세",
+            "item": "제품 반품",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "-8,000,000",
+            "vat": "-800,000",
+            "supplier": "㈜한빛자동차",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "부가세예수금",
+              "amount": "NaN",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "제품 반품",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "제품매출",
+              "amount": "NaN",
+              "division": "",
+              "summary": "제품 반품",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "account": "외상매출금",
+              "amount": "8,800,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -2311,7 +2525,23 @@
           "correct": false
         },
         "19": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "",
+            "trade": "purchase",
+            "type": "",
+            "item": "업무용 휴대전화",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "",
+            "vat": "",
+            "supplier": "",
+            "electronic": "",
+            "journal": "",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
               "side": "D",
@@ -2477,28 +2707,44 @@
           "selfPassedAt": "2026-09-07T10:33:36.549Z"
         },
         "20": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "2026-11-14",
+            "trade": "purchase",
+            "type": "53.면세",
+            "item": "마케팅전략 교육",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "6,000,000",
+            "vat": "",
+            "supplier": "㈜새롬아카데미",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
               "side": "D",
-              "account": "",
-              "amount": "",
+              "account": "교육훈련비",
+              "amount": "6,000,000",
+              "division": "판",
+              "summary": "마케팅전략 교육",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "선급금",
+              "amount": "1,200,000",
               "division": "",
               "summary": "",
               "autoRole": ""
             },
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "보통예금",
+              "amount": "4,800,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -2512,7 +2758,7 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
+          "graded": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -2575,26 +2821,42 @@
           ],
           "passed": true,
           "archived": false,
-          "correct": false,
+          "correct": true,
           "passedAt": "2026-09-07T10:35:22.149Z"
         },
         "21": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "",
+            "trade": "purchase",
+            "type": "54.불공",
+            "item": "승용차 엔진오일·타이어",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "990,000",
+            "vat": "99,000",
+            "supplier": "드림카정비",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": "③비영업용 소형승용자동차 구입·유지 및 임차"
+          },
           "rows": [
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
+              "account": "차량유지비",
+              "amount": "NaN",
+              "division": "제",
+              "summary": "승용차 엔진오일·타이어",
+              "autoRole": "base"
             },
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "보통예금",
+              "amount": "1,089,000",
               "division": "",
-              "summary": "",
+              "summary": "승용차 엔진오일·타이어",
               "autoRole": ""
             },
             {
@@ -2614,7 +2876,7 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
+          "graded": true,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -2684,28 +2946,44 @@
           "correct": false
         },
         "22": {
-          "voucher": {},
+          "voucher": {
+            "deleted": true,
+            "date": "2026-11-23",
+            "trade": "purchase",
+            "type": "51.과세",
+            "item": "원재료 매입 운송비",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "400,000",
+            "vat": "40,000",
+            "supplier": "한결운송",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
               "side": "D",
-              "account": "",
-              "amount": "",
+              "account": "부가세대급금",
+              "amount": "40,000",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "원재료 매입 운송비",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
+              "account": "원재료",
+              "amount": "400,000",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "원재료 매입 운송비",
+              "autoRole": "base"
             },
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "현금",
+              "amount": "440,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -2719,7 +2997,7 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
+          "graded": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -2782,32 +3060,48 @@
           ],
           "passed": true,
           "archived": false,
-          "correct": false,
+          "correct": true,
           "passedAt": "2026-09-07T10:45:16.763Z"
         },
         "23": {
-          "voucher": {},
+          "voucher": {
+            "deleted": true,
+            "date": "2026-12-16",
+            "trade": "purchase",
+            "type": "51.과세",
+            "item": "제조공장 전기요금",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "180,000",
+            "vat": "18,000",
+            "supplier": "한국전력공사",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
               "side": "D",
-              "account": "",
-              "amount": "",
+              "account": "부가세대급금",
+              "amount": "18,000",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "제조공장 전기요금",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
+              "account": "전력비",
+              "amount": "180,000",
+              "division": "제",
+              "summary": "제조공장 전기요금",
+              "autoRole": "base"
             },
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "현금",
+              "amount": "198,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -2821,7 +3115,7 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
+          "graded": true,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -2942,18 +3236,106 @@
           ],
           "passed": true,
           "archived": false,
-          "correct": false,
+          "correct": true,
           "passedAt": "2026-09-07T10:51:09.483Z",
           "selfPassed": true,
           "selfPassedAt": "2026-09-07T10:51:09.483Z"
+        },
+        "24": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "25": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "fileName": "매입매출전표_오답연습_5문제_학습기록_2026-09-03"
     }
   },
-  "syncedAt": "2026-09-07T23:53:42.143Z",
+  "syncedAt": "2026-09-08T00:57:06.157Z",
   "device": {
-    "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
-    "name": "모바일"
+    "id": "1a0652e8-c2c3-4055-a124-5604ce6144f2",
+    "name": "PC"
   }
 }
