@@ -1,11 +1,11 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-09T07:33:03.828Z",
+  "exportedAt": "2026-09-09T07:33:36.695Z",
   "states": {
     "practical": {
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-09T07:33:03.825Z",
+      "updatedAt": "2026-09-09T07:33:36.693Z",
       "cards": {
         "0": {
           "deleted": true,
@@ -597,14 +597,14 @@
           "archived": false
         }
       },
-      "updatedAt": "2026-09-09T07:33:03.826Z",
+      "updatedAt": "2026-09-09T07:33:36.694Z",
       "startedAt": "2026-09-07T13:22:06.309Z",
       "fileName": "결산정리사항_14문제_학습기록_2026-09-07",
       "koAuto": true
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-09T07:33:03.827Z",
+      "updatedAt": "2026-09-09T07:33:36.694Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -2052,6 +2052,19 @@
       "archived": false
     },
     {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 43,
+      "title": "외상매입금과 외상매출금 상계 후 당좌수표 지급",
+      "type": "매입채무·매출채권 상계",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
       "source": "theory",
       "category": "이론",
       "id": "operating-profit",
@@ -2773,6 +2786,19 @@
     {
       "source": "voucher",
       "category": "매입매출전표",
+      "id": 28,
+      "title": "본사 사무실용 토지와 건물을 일괄 취득",
+      "type": "토지·건물 일괄취득과 계약금 정산",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
       "id": 29,
       "title": "총무부 소모품 구입과 지출증빙용 현금영수증",
       "type": "현금영수증 과세매입·소모품비",
@@ -2955,6 +2981,13 @@
     },
     {
       "type": "차입금 유동성 구분 수정",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "매입채무·매출채권 상계",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -3248,6 +3281,13 @@
       "score": 1
     },
     {
+      "type": "토지·건물 일괄취득과 계약금 정산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "현금영수증 과세매입·소모품비",
       "problems": 1,
       "wrong": 0,
@@ -3255,10 +3295,10 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-09T07:33:03.828Z",
-  "syncedAt": "2026-09-09T07:33:03.828Z",
+  "catalogAt": "2026-09-09T07:33:36.695Z",
+  "syncedAt": "2026-09-09T07:33:36.695Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "id": "1a0652e8-c2c3-4055-a124-5604ce6144f2",
     "name": "PC"
   }
 }
