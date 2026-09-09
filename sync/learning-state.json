@@ -1,11 +1,11 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-08T12:22:50.006Z",
+  "exportedAt": "2026-09-09T07:33:03.828Z",
   "states": {
     "practical": {
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-08T12:22:50.004Z",
+      "updatedAt": "2026-09-09T07:33:03.825Z",
       "cards": {
         "0": {
           "deleted": true,
@@ -324,9 +324,103 @@
         "33": {
           "deleted": true,
           "deletedAt": "2026-09-08T00:04:39.345Z"
+        },
+        "34": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "35": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "36": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "37": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "38": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "39": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "40": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "41": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "42": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "43": {
+          "deleted": true,
+          "deletedAt": "2026-09-09T07:24:49.288Z"
         }
       },
-      "fileName": "일반전표_43문제_학습기록_2026-09-08",
+      "fileName": "일반전표_44문제_학습기록_2026-09-09",
       "koAuto": true,
       "schemaVersion": "general-journal-27-v1"
     },
@@ -503,14 +597,14 @@
           "archived": false
         }
       },
-      "updatedAt": "2026-09-08T12:22:50.005Z",
+      "updatedAt": "2026-09-09T07:33:03.826Z",
       "startedAt": "2026-09-07T13:22:06.309Z",
       "fileName": "결산정리사항_14문제_학습기록_2026-09-07",
       "koAuto": true
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-08T12:22:50.005Z",
+      "updatedAt": "2026-09-09T07:33:03.827Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -1552,6 +1646,80 @@
           "history": [],
           "passed": false,
           "archived": false
+        },
+        "27": {
+          "voucher": {},
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "28": {
+          "deleted": true,
+          "deletedAt": "2026-09-09T07:28:35.339Z"
+        },
+        "29": {
+          "voucher": {
+            "deleted": false,
+            "date": "2026-09-21",
+            "trade": "purchase",
+            "type": "61.현과",
+            "item": "사무용 소모품",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "450,000",
+            "vat": "45,000",
+            "supplier": "새봄문구㈜",
+            "electronic": "",
+            "journal": "현금",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "D",
+              "account": "부가세대급금",
+              "amount": "45,000",
+              "division": "",
+              "summary": "사무용 소모품",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "소모품비",
+              "amount": "450,000",
+              "division": "",
+              "summary": "사무용 소모품",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "fileName": "매입매출전표_오답연습_5문제_학습기록_2026-09-03"
@@ -1561,77 +1729,12 @@
     {
       "source": "practical",
       "category": "일반전표",
-      "id": 0,
-      "title": "대주주로부터 토지 증여",
-      "type": "무상 증여",
-      "registered": "2026-09-01",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 1,
-      "title": "법인카드로 해외 항공권 결제",
-      "type": "출장비",
-      "registered": "2026-09-01",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 2,
-      "title": "출장 후 정산",
-      "type": "출장비",
-      "registered": "2026-09-01",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 3,
-      "title": "주식 취득과 수수료",
-      "type": "단기매매증권",
-      "registered": "2026-09-01",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 4,
-      "title": "단기매매증권 처분손실",
-      "type": "단기매매증권",
-      "registered": "2026-09-01",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
       "id": 5,
       "title": "단기매매증권 처분이익",
       "type": "단기매매증권",
       "registered": "2026-09-01",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -1825,60 +1928,8 @@
       "title": "이자수익의 원천징수 누락 수정",
       "type": "이자수익 원천징수 수정",
       "registered": "2026-09-03",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 21,
-      "title": "파산으로 회수할 수 없는 받을어음의 대손처리",
-      "type": "받을어음 대손처리",
-      "registered": "2026-09-04",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 31,
-      "title": "외상매입금 결제수단을 받을어음 배서로 수정",
-      "type": "받을어음 배서양도 수정",
-      "registered": "2026-09-07",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 32,
-      "title": "전기말 환율로 평가된 외화장기차입금 상환",
-      "type": "외화장기차입금 상환",
-      "registered": "2026-09-07",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 33,
-      "title": "미지급 중간배당금 지급과 원천징수",
-      "type": "중간배당금 지급과 원천징수",
-      "registered": "2026-09-07",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -2170,6 +2221,32 @@
       "archived": false
     },
     {
+      "source": "theory",
+      "category": "이론",
+      "id": "net-income-securities-property-20260909",
+      "title": "증권 평가손익과 투자부동산 처분손익의 당기순이익 영향",
+      "type": "당기순이익 증감 계산",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "ending-equity-equation-20260909",
+      "title": "기초자본·추가출자·배당·당기순이익으로 기말자본 계산",
+      "type": "기말자본 계산",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
       "source": "closing",
       "category": "결산",
       "id": "trading-security",
@@ -2373,6 +2450,34 @@
       "title": "외화 외상매입금의 기말 환산손실",
       "type": "외화평가",
       "registered": "2026-09-08",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "supplies-used-department-allocation",
+      "index": 15,
+      "title": "자산 처리한 소모품 사용액을 부서별로 배부",
+      "type": "소모품 결산·부서별 배부",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "cash-shortage-partly-explained",
+      "index": 16,
+      "title": "현금과부족 중 확인된 유류대와 원인불명액 대체",
+      "type": "현금과부족 원인 규명·잔액 결산",
+      "registered": "2026-09-09",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -2664,15 +2769,28 @@
       "passed": false,
       "selfPassed": false,
       "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 29,
+      "title": "총무부 소모품 구입과 지출증빙용 현금영수증",
+      "type": "현금영수증 과세매입·소모품비",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
     }
   ],
   "typeSummary": [
     {
       "type": "단기매매증권",
-      "problems": 5,
-      "wrong": 0,
-      "unpassed": 5,
-      "score": 5
+      "problems": 3,
+      "wrong": 1,
+      "unpassed": 3,
+      "score": 4
     },
     {
       "type": "외화평가",
@@ -2680,6 +2798,13 @@
       "wrong": 0,
       "unpassed": 4,
       "score": 4
+    },
+    {
+      "type": "이자수익 원천징수 수정",
+      "problems": 2,
+      "wrong": 1,
+      "unpassed": 2,
+      "score": 3
     },
     {
       "type": "부가가치세 정리",
@@ -2696,13 +2821,6 @@
       "score": 2
     },
     {
-      "type": "출장비",
-      "problems": 2,
-      "wrong": 0,
-      "unpassed": 2,
-      "score": 2
-    },
-    {
       "type": "매도가능증권 취득",
       "problems": 2,
       "wrong": 0,
@@ -2711,13 +2829,6 @@
     },
     {
       "type": "매도가능증권 평가",
-      "problems": 2,
-      "wrong": 0,
-      "unpassed": 2,
-      "score": 2
-    },
-    {
-      "type": "이자수익 원천징수 수정",
       "problems": 2,
       "wrong": 0,
       "unpassed": 2,
@@ -2743,13 +2854,6 @@
       "wrong": 0,
       "unpassed": 2,
       "score": 2
-    },
-    {
-      "type": "무상 증여",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
     },
     {
       "type": "정기예금 가입",
@@ -2816,34 +2920,6 @@
     },
     {
       "type": "퇴직금 지급",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "받을어음 대손처리",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "받을어음 배서양도 수정",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외화장기차입금 상환",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "중간배당금 지급과 원천징수",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -2962,6 +3038,20 @@
       "score": 1
     },
     {
+      "type": "당기순이익 증감 계산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "기말자본 계산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "단기매매증권 평가",
       "problems": 1,
       "wrong": 0,
@@ -3005,6 +3095,20 @@
     },
     {
       "type": "비정상 재고자산감모",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "소모품 결산·부서별 배부",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "현금과부족 원인 규명·잔액 결산",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -3142,12 +3246,19 @@
       "wrong": 0,
       "unpassed": 1,
       "score": 1
+    },
+    {
+      "type": "현금영수증 과세매입·소모품비",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
     }
   ],
-  "catalogAt": "2026-09-08T12:22:42.638Z",
-  "syncedAt": "2026-09-08T12:22:50.006Z",
+  "catalogAt": "2026-09-09T07:33:03.828Z",
+  "syncedAt": "2026-09-09T07:33:03.828Z",
   "device": {
-    "id": "1a0652e8-c2c3-4055-a124-5604ce6144f2",
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
   }
 }
