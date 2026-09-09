@@ -1,11 +1,11 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-09T07:33:36.695Z",
+  "exportedAt": "2026-09-09T10:55:00.298Z",
   "states": {
     "practical": {
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-09T07:33:36.693Z",
+      "updatedAt": "2026-09-09T10:55:00.295Z",
       "cards": {
         "0": {
           "deleted": true,
@@ -425,20 +425,50 @@
       "schemaVersion": "general-journal-27-v1"
     },
     "theory": {
-      "answers": {},
-      "checked": {},
-      "history": {},
-      "attempts": {},
-      "passed": {},
-      "archived": {},
+      "answers": {
+        "operating-profit": 3
+      },
+      "checked": {
+        "operating-profit": false
+      },
+      "history": {
+        "operating-profit": [
+          {
+            "at": "2026-09-09T08:28:39.609Z",
+            "choice": 3,
+            "correct": false
+          }
+        ]
+      },
+      "attempts": {
+        "operating-profit": 1
+      },
+      "passed": {
+        "operating-profit": false
+      },
+      "archived": {
+        "operating-profit": false
+      },
       "passedAt": {},
       "archivedAt": {},
       "restoredAt": {},
       "trainingCenterRestored": {},
       "selfPassed": {},
       "selfPassedAt": {},
-      "deleted": {},
-      "deletedAt": {}
+      "deleted": {
+        "service-dept": true,
+        "vat-taxpayer": true
+      },
+      "deletedAt": {
+        "service-dept": "2026-09-09T08:29:46.380Z",
+        "vat-taxpayer": "2026-09-09T08:30:48.459Z"
+      },
+      "startedAt": "2026-09-09T08:18:01.908Z",
+      "updatedAt": "2026-09-09T08:30:48.459Z",
+      "fileName": "이론_오답학습기록_2026-09-01",
+      "koAuto": true,
+      "starred": {},
+      "starredAt": {}
     },
     "closing": {
       "cards": {
@@ -595,16 +625,35 @@
           "history": [],
           "passed": false,
           "archived": false
+        },
+        "14": {
+          "rows": [],
+          "lookup": false,
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "15": {
+          "deleted": true,
+          "deletedAt": "2026-09-09T07:45:34.083Z"
+        },
+        "16": {
+          "deleted": true,
+          "deletedAt": "2026-09-09T07:52:26.705Z"
         }
       },
-      "updatedAt": "2026-09-09T07:33:36.694Z",
+      "updatedAt": "2026-09-09T10:55:00.297Z",
       "startedAt": "2026-09-07T13:22:06.309Z",
-      "fileName": "결산정리사항_14문제_학습기록_2026-09-07",
+      "fileName": "결산정리사항_17문제_학습기록_2026-09-09",
       "koAuto": true
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-09T07:33:36.694Z",
+      "updatedAt": "2026-09-09T10:55:00.298Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -648,7 +697,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "1": {
           "voucher": {},
@@ -692,7 +742,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "2": {
           "voucher": {},
@@ -736,7 +787,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "3": {
           "voucher": {},
@@ -780,7 +832,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "4": {
           "voucher": {},
@@ -824,7 +877,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "5": {
           "voucher": {},
@@ -868,7 +922,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "6": {
           "voucher": {},
@@ -912,7 +967,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "7": {
           "voucher": {},
@@ -956,7 +1012,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "8": {
           "voucher": {},
@@ -1000,7 +1057,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "9": {
           "voucher": {},
@@ -1044,7 +1102,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "10": {
           "voucher": {},
@@ -1088,7 +1147,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "11": {
           "voucher": {},
@@ -1132,7 +1192,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "12": {
           "voucher": {},
@@ -1176,7 +1237,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "13": {
           "voucher": {},
@@ -1220,7 +1282,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "14": {
           "voucher": {},
@@ -1264,7 +1327,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "15": {
           "voucher": {},
@@ -1308,7 +1372,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "16": {
           "voucher": {},
@@ -1352,7 +1417,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "17": {
           "deleted": true,
@@ -1489,7 +1555,8 @@
           ],
           "passed": false,
           "archived": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "22": {
           "deleted": true,
@@ -1541,7 +1608,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "25": {
           "voucher": {},
@@ -1585,7 +1653,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "26": {
           "voucher": {},
@@ -1645,57 +1714,27 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "27": {
           "voucher": {},
-          "rows": [],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
-        },
-        "28": {
-          "deleted": true,
-          "deletedAt": "2026-09-09T07:28:35.339Z"
-        },
-        "29": {
-          "voucher": {
-            "deleted": false,
-            "date": "2026-09-21",
-            "trade": "purchase",
-            "type": "61.현과",
-            "item": "사무용 소모품",
-            "quantity": "",
-            "unitPrice": "",
-            "supply": "450,000",
-            "vat": "45,000",
-            "supplier": "새봄문구㈜",
-            "electronic": "",
-            "journal": "현금",
-            "cardCompany": "",
-            "zeroRate": "",
-            "deductReason": ""
-          },
           "rows": [
             {
               "side": "D",
-              "account": "부가세대급금",
-              "amount": "45,000",
+              "account": "",
+              "amount": "",
               "division": "",
-              "summary": "사무용 소모품",
-              "autoRole": "base"
+              "summary": "",
+              "autoRole": ""
             },
             {
               "side": "D",
-              "account": "소모품비",
-              "amount": "450,000",
+              "account": "",
+              "amount": "",
               "division": "",
-              "summary": "사무용 소모품",
-              "autoRole": "base"
+              "summary": "",
+              "autoRole": ""
             },
             {
               "side": "D",
@@ -1715,11 +1754,21 @@
             }
           ],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
+        },
+        "28": {
+          "deleted": true,
+          "deletedAt": "2026-09-09T07:28:35.339Z"
+        },
+        "29": {
+          "deleted": true,
+          "deletedAt": "2026-09-09T07:41:41.957Z"
         }
       },
       "fileName": "매입매출전표_오답연습_5문제_학습기록_2026-09-03"
@@ -3296,9 +3345,9 @@
     }
   ],
   "catalogAt": "2026-09-09T07:33:36.695Z",
-  "syncedAt": "2026-09-09T07:33:36.695Z",
+  "syncedAt": "2026-09-09T10:55:00.298Z",
   "device": {
-    "id": "1a0652e8-c2c3-4055-a124-5604ce6144f2",
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
   }
 }
