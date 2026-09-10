@@ -1,11 +1,11 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-10T05:36:45.860Z",
+  "exportedAt": "2026-09-10T05:37:46.598Z",
   "states": {
     "practical": {
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-10T05:36:45.858Z",
+      "updatedAt": "2026-09-10T05:37:46.596Z",
       "cards": {
         "0": {
           "deleted": true,
@@ -598,14 +598,14 @@
           "deletedAt": "2026-09-09T23:44:56.042Z"
         }
       },
-      "updatedAt": "2026-09-10T05:36:45.858Z",
+      "updatedAt": "2026-09-10T05:37:46.596Z",
       "startedAt": "2026-09-07T13:22:06.309Z",
       "fileName": "결산정리사항_17문제_학습기록_2026-09-10",
       "koAuto": true
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-10T05:36:45.859Z",
+      "updatedAt": "2026-09-10T05:37:46.597Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -3622,7 +3622,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-10T05:36:45.860Z",
+  "catalogAt": "2026-09-10T05:37:46.598Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 3,
@@ -4765,7 +4765,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-10T05:36:45.861Z",
+  "syncedAt": "2026-09-10T05:37:46.598Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
