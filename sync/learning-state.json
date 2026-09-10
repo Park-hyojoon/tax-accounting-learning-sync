@@ -1,11 +1,11 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-09T22:12:37.644Z",
+  "exportedAt": "2026-09-10T00:02:47.430Z",
   "states": {
     "practical": {
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-09T22:12:37.641Z",
+      "updatedAt": "2026-09-10T00:02:47.428Z",
       "cards": {
         "0": {
           "deleted": true,
@@ -221,57 +221,8 @@
           "archived": false
         },
         "20": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
-          "attempts": 1,
-          "wrongCount": 1,
-          "history": [
-            {
-              "at": "2026-09-08T00:28:34.799Z",
-              "correct": false,
-              "matched": 0,
-              "rows": [
-                {
-                  "side": "D",
-                  "account": "",
-                  "amount": "",
-                  "division": "",
-                  "partner": "",
-                  "memo": ""
-                },
-                {
-                  "side": "D",
-                  "account": "",
-                  "amount": "",
-                  "division": "",
-                  "partner": "",
-                  "memo": ""
-                },
-                {
-                  "side": "D",
-                  "account": "",
-                  "amount": "",
-                  "division": "",
-                  "partner": "",
-                  "memo": ""
-                },
-                {
-                  "side": "D",
-                  "account": "",
-                  "amount": "",
-                  "division": "",
-                  "partner": "",
-                  "memo": ""
-                }
-              ]
-            }
-          ],
-          "passed": false,
-          "archived": false,
-          "matched": 0,
-          "starred": true,
-          "starredAt": "2026-09-08T00:47:43.402Z"
+          "deleted": true,
+          "deletedAt": "2026-09-09T23:59:40.855Z"
         },
         "21": {
           "deleted": true,
@@ -418,18 +369,40 @@
         "43": {
           "deleted": true,
           "deletedAt": "2026-09-09T07:24:49.288Z"
+        },
+        "44": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "45": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
-      "fileName": "일반전표_44문제_학습기록_2026-09-09",
+      "fileName": "일반전표_46문제_학습기록_2026-09-10",
       "koAuto": true,
       "schemaVersion": "general-journal-27-v1"
     },
     "theory": {
       "answers": {
-        "operating-profit": 3
+        "operating-profit": 3,
+        "declining-balance-depreciation-20260909": 1
       },
       "checked": {
-        "operating-profit": false
+        "operating-profit": false,
+        "declining-balance-depreciation-20260909": false
       },
       "history": {
         "operating-profit": [
@@ -438,16 +411,26 @@
             "choice": 3,
             "correct": false
           }
+        ],
+        "declining-balance-depreciation-20260909": [
+          {
+            "at": "2026-09-09T23:42:04.335Z",
+            "choice": 1,
+            "correct": false
+          }
         ]
       },
       "attempts": {
-        "operating-profit": 1
+        "operating-profit": 1,
+        "declining-balance-depreciation-20260909": 1
       },
       "passed": {
-        "operating-profit": false
+        "operating-profit": false,
+        "declining-balance-depreciation-20260909": false
       },
       "archived": {
-        "operating-profit": false
+        "operating-profit": false,
+        "declining-balance-depreciation-20260909": false
       },
       "passedAt": {},
       "archivedAt": {},
@@ -464,7 +447,7 @@
         "vat-taxpayer": "2026-09-09T08:30:48.459Z"
       },
       "startedAt": "2026-09-09T08:18:01.908Z",
-      "updatedAt": "2026-09-09T08:30:48.459Z",
+      "updatedAt": "2026-09-09T23:42:04.335Z",
       "fileName": "이론_오답학습기록_2026-09-01",
       "koAuto": true,
       "starred": {},
@@ -484,15 +467,8 @@
           "archived": false
         },
         "1": {
-          "rows": [],
-          "lookup": true,
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "deleted": true,
+          "deletedAt": "2026-09-09T23:56:15.109Z"
         },
         "2": {
           "rows": [],
@@ -550,15 +526,8 @@
           "archived": false
         },
         "7": {
-          "rows": [],
-          "lookup": false,
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "deleted": true,
+          "deletedAt": "2026-09-09T23:33:34.299Z"
         },
         "8": {
           "rows": [],
@@ -572,26 +541,12 @@
           "archived": false
         },
         "9": {
-          "rows": [],
-          "lookup": false,
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "deleted": true,
+          "deletedAt": "2026-09-09T23:57:47.285Z"
         },
         "10": {
-          "rows": [],
-          "lookup": false,
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "deleted": true,
+          "deletedAt": "2026-09-09T23:29:53.847Z"
         },
         "11": {
           "rows": [],
@@ -627,15 +582,8 @@
           "archived": false
         },
         "14": {
-          "rows": [],
-          "lookup": false,
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "deleted": true,
+          "deletedAt": "2026-09-09T23:59:13.859Z"
         },
         "15": {
           "deleted": true,
@@ -644,16 +592,20 @@
         "16": {
           "deleted": true,
           "deletedAt": "2026-09-09T07:52:26.705Z"
+        },
+        "17": {
+          "deleted": true,
+          "deletedAt": "2026-09-09T23:44:56.042Z"
         }
       },
-      "updatedAt": "2026-09-09T22:12:37.642Z",
+      "updatedAt": "2026-09-10T00:02:47.428Z",
       "startedAt": "2026-09-07T13:22:06.309Z",
-      "fileName": "결산정리사항_17문제_학습기록_2026-09-09",
+      "fileName": "결산정리사항_17문제_학습기록_2026-09-10",
       "koAuto": true
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-09T22:12:37.643Z",
+      "updatedAt": "2026-09-10T00:02:47.429Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -971,49 +923,8 @@
           "starred": false
         },
         "7": {
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
-          "starred": false
+          "deleted": true,
+          "deletedAt": "2026-09-09T23:54:04.062Z"
         },
         "8": {
           "voucher": {},
@@ -1061,49 +972,8 @@
           "starred": false
         },
         "9": {
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
-          "starred": false
+          "deleted": true,
+          "deletedAt": "2026-09-09T22:55:15.598Z"
         },
         "10": {
           "voucher": {},
@@ -1151,29 +1021,45 @@
           "starred": false
         },
         "11": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "2026-08-22",
+            "trade": "sales",
+            "type": "14.건별",
+            "item": "제품 무상제공",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "1,650,000",
+            "vat": "16,000",
+            "supplier": "",
+            "electronic": "",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "부가세예수금",
+              "amount": "NaN",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "제품 무상제공",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "제품",
+              "amount": "NaN",
+              "division": "",
+              "summary": "8",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
+              "account": "기업업무추진비",
+              "amount": "916,000",
+              "division": "판",
               "summary": "",
               "autoRole": ""
             },
@@ -1186,39 +1072,175 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
+          "graded": true,
           "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 2,
+          "wrongCount": 2,
+          "history": [
+            {
+              "at": "2026-09-09T22:15:37.169Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-08-22",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "제품 무상제공",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "900,000",
+                "vat": "90,000",
+                "supplier": "",
+                "electronic": "",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "amount": "990,000",
+                  "division": "판",
+                  "summary": "제품 무상제공",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형",
+                "공급가액·세액",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-09T22:36:14.949Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-08-22",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "제품 무상제공",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,650,000",
+                "vat": "16,000",
+                "supplier": "",
+                "electronic": "",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "amount": "16,000",
+                  "division": "",
+                  "summary": "제품 무상제공",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품",
+                  "amount": "900,000",
+                  "division": "",
+                  "summary": "8",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "amount": "916,000",
+                  "division": "판",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "공급가액·세액",
+                "분개 선택·계정·판/제·적요"
+              ]
+            }
+          ],
           "passed": false,
           "archived": false,
           "starred": false
         },
         "12": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "2026-09-04",
+            "trade": "sales",
+            "type": "14.건별",
+            "item": "제품 무상제공",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "2,000,000",
+            "vat": "200,000",
+            "supplier": "",
+            "electronic": "",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "부가세예수금",
+              "amount": "NaN",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "제품 무상제공",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "제품",
+              "amount": "NaN",
+              "division": "제",
+              "summary": "8",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
+              "account": "기업업무추진비",
+              "amount": "2,200,000",
+              "division": "제",
               "summary": "",
               "autoRole": ""
             },
@@ -1231,11 +1253,70 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
+          "graded": true,
           "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-09-09T22:41:00.653Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-09-04",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "제품 무상제공",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,000,000",
+                "vat": "200,000",
+                "supplier": "",
+                "electronic": "",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "amount": "200,000",
+                  "division": "",
+                  "summary": "제품 무상제공",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품",
+                  "amount": "1,200,000",
+                  "division": "제",
+                  "summary": "8",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "amount": "2,200,000",
+                  "division": "제",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            }
+          ],
           "passed": false,
           "archived": false,
           "starred": false
@@ -1769,6 +1850,108 @@
         "29": {
           "deleted": true,
           "deletedAt": "2026-09-09T07:41:41.957Z"
+        },
+        "30": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "31": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "32": {
+          "voucher": {},
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
         }
       },
       "fileName": "매입매출전표_오답연습_5문제_학습기록_2026-09-03"
@@ -4579,7 +4762,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-09T22:12:37.645Z",
+  "syncedAt": "2026-09-10T00:02:47.430Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
