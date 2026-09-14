@@ -2,12 +2,10 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-14T22:55:12.021Z",
+  "exportedAt": "2026-09-14T22:55:35.410Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
-      "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-14T22:55:12.020Z",
       "cards": {
         "0": {
           "rows": [],
@@ -40,10 +38,14 @@
           "archived": false
         }
       },
+      "startedAt": "2026-09-14T13:49:18.363Z",
+      "updatedAt": "2026-09-14T22:55:35.405Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
+      "deleted": {},
+      "deletedAt": {},
       "startedAt": "2026-09-14T13:51:41.229Z",
       "updatedAt": "2026-09-14T13:56:54.899Z",
       "answers": {
@@ -119,8 +121,6 @@
       "starredAt": {},
       "fileName": "이론_새학습_학습기록_2026-09-14",
       "koAuto": true,
-      "deleted": {},
-      "deletedAt": {},
       "selfPassed": {
         "exam121-reliability-variant": true
       },
@@ -130,8 +130,6 @@
       "restoredAt": {}
     },
     "voucher": {
-      "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-14T22:55:12.021Z",
       "cards": {
         "0": {
           "voucher": {
@@ -515,12 +513,14 @@
           "starred": false
         }
       },
+      "startedAt": "2026-09-14T10:08:47.880Z",
+      "updatedAt": "2026-09-14T22:55:35.408Z",
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
     }
   },
-  "syncedAt": "2026-09-14T22:55:12.021Z",
+  "syncedAt": "2026-09-14T22:55:35.410Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
+    "name": "모바일"
   }
 }
