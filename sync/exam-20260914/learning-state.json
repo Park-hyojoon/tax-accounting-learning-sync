@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-14T22:32:44.257Z",
+  "exportedAt": "2026-09-14T22:55:12.021Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-14T22:32:44.255Z",
+      "updatedAt": "2026-09-14T22:55:12.020Z",
       "cards": {
         "0": {
           "rows": [],
@@ -131,7 +131,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-14T22:32:44.256Z",
+      "updatedAt": "2026-09-14T22:55:12.021Z",
       "cards": {
         "0": {
           "voucher": {
@@ -454,7 +454,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "3": {
           "voucher": {},
@@ -465,7 +466,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "4": {
           "voucher": {},
@@ -509,13 +511,14 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
     }
   },
-  "syncedAt": "2026-09-14T22:32:44.257Z",
+  "syncedAt": "2026-09-14T22:55:12.021Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
