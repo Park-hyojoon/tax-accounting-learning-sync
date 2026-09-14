@@ -1,0 +1,461 @@
+{
+  "format": "tax-accounting-training-center-backup",
+  "version": 1,
+  "season": "exam-20260914",
+  "exportedAt": "2026-09-14T14:02:56.834Z",
+  "states": {
+    "practical": {
+      "schemaVersion": "exam-20260914-practical-schema",
+      "startedAt": "2026-09-14T13:49:18.363Z",
+      "updatedAt": "2026-09-14T13:51:33.400Z",
+      "cards": {
+        "0": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "655e08ff-ed0e-489b-a532-6de651bb45ac",
+              "at": "2026-09-14T13:51:33.400Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-14T13:51:33.400Z",
+          "trainingCenterRestored": false,
+          "passedAt": "2026-09-14T13:51:33.400Z"
+        },
+        "1": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        }
+      },
+      "fileName": "일반전표_새학습_학습기록_2026-09-14",
+      "koAuto": true
+    },
+    "theory": {
+      "startedAt": "2026-09-14T13:51:41.229Z",
+      "updatedAt": "2026-09-14T13:56:54.899Z",
+      "answers": {
+        "exam121-reliability-variant": 2,
+        "exam121-available-sale-variant": 1,
+        "exam121-contra-asset-variant": 2,
+        "exam121-vat-characteristics-variant": 2
+      },
+      "checked": {
+        "exam121-reliability-variant": true,
+        "exam121-available-sale-variant": true,
+        "exam121-contra-asset-variant": true,
+        "exam121-vat-characteristics-variant": true
+      },
+      "attempts": {
+        "exam121-reliability-variant": 1,
+        "exam121-available-sale-variant": 1,
+        "exam121-contra-asset-variant": 1,
+        "exam121-vat-characteristics-variant": 1
+      },
+      "history": {
+        "exam121-reliability-variant": [
+          {
+            "id": "bb54231c-d057-47da-babf-db80896685cd",
+            "at": "2026-09-14T13:52:52.724Z",
+            "correct": true,
+            "source": "notebook"
+          }
+        ],
+        "exam121-available-sale-variant": [
+          {
+            "at": "2026-09-14T13:53:37.078Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "exam121-contra-asset-variant": [
+          {
+            "at": "2026-09-14T13:56:43.362Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam121-vat-characteristics-variant": [
+          {
+            "at": "2026-09-14T13:56:54.899Z",
+            "choice": 2,
+            "correct": true
+          }
+        ]
+      },
+      "passed": {
+        "exam121-reliability-variant": true,
+        "exam121-available-sale-variant": true,
+        "exam121-contra-asset-variant": true,
+        "exam121-vat-characteristics-variant": true
+      },
+      "archived": {
+        "exam121-reliability-variant": false,
+        "exam121-available-sale-variant": false,
+        "exam121-contra-asset-variant": false,
+        "exam121-vat-characteristics-variant": false
+      },
+      "passedAt": {
+        "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
+        "exam121-available-sale-variant": "2026-09-14T13:53:37.078Z",
+        "exam121-contra-asset-variant": "2026-09-14T13:56:43.362Z",
+        "exam121-vat-characteristics-variant": "2026-09-14T13:56:54.899Z"
+      },
+      "archivedAt": {},
+      "trainingCenterRestored": {
+        "exam121-reliability-variant": false
+      },
+      "starred": {},
+      "starredAt": {},
+      "fileName": "이론_새학습_학습기록_2026-09-14",
+      "koAuto": true,
+      "deleted": {},
+      "deletedAt": {},
+      "selfPassed": {
+        "exam121-reliability-variant": true
+      },
+      "selfPassedAt": {
+        "exam121-reliability-variant": "2026-09-14T13:52:52.724Z"
+      }
+    },
+    "voucher": {
+      "startedAt": "2026-09-14T10:08:47.880Z",
+      "updatedAt": "2026-09-14T14:01:50.620Z",
+      "cards": {
+        "0": {
+          "voucher": {
+            "deleted": false,
+            "date": "2026-09-12",
+            "trade": "purchase",
+            "type": "61.현과",
+            "item": "제품 운송비",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "200,000",
+            "vat": "20,000",
+            "supplier": "(주)빠른물류",
+            "electronic": "",
+            "journal": "현금",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "D",
+              "account": "부가세대급금",
+              "amount": "20,000",
+              "division": "",
+              "summary": "제품 운송비",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "운반비",
+              "amount": "200,000",
+              "division": "판",
+              "summary": "제품 운송비",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": true,
+          "attempts": 3,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-09-14T13:59:14.364Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-09-12",
+                "trade": "purchase",
+                "type": "61.현과",
+                "item": "제품 운송비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "200,000",
+                "vat": "20,000",
+                "supplier": "(주)빠른물류",
+                "electronic": "",
+                "journal": "현금",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "amount": "20,000",
+                  "division": "",
+                  "summary": "제품 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "운반비",
+                  "amount": "200,000",
+                  "division": "",
+                  "summary": "제품 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-14T13:59:33.896Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-09-12",
+                "trade": "purchase",
+                "type": "61.현과",
+                "item": "제품 운송비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "200,000",
+                "vat": "20,000",
+                "supplier": "(주)빠른물류",
+                "electronic": "",
+                "journal": "현금",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "amount": "20,000",
+                  "division": "",
+                  "summary": "제품 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "운반비",
+                  "amount": "200,000",
+                  "division": "판",
+                  "summary": "제품 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            },
+            {
+              "id": "632d67f1-a7a9-4ca1-b1b5-fbfb3e909adb",
+              "at": "2026-09-14T14:00:24.180Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "correct": true,
+          "passedAt": "2026-09-14T14:00:24.180Z",
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-14T14:00:24.180Z",
+          "trainingCenterRestored": false
+        },
+        "1": {
+          "voucher": {
+            "deleted": false,
+            "date": "2026-11-06",
+            "trade": "purchase",
+            "type": "57.카과",
+            "item": "행사 기념품",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "1,500,000",
+            "vat": "150,000",
+            "supplier": "새봄기프트",
+            "electronic": "",
+            "journal": "카드",
+            "cardCompany": "신한카드(법인)",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "C",
+              "account": "미지급금",
+              "amount": "1,650,000",
+              "division": "",
+              "summary": "행사 기념품",
+              "autoRole": "counter"
+            },
+            {
+              "side": "D",
+              "account": "부가세대급금",
+              "amount": "150,000",
+              "division": "",
+              "summary": "행사 기념품",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "복리후생비",
+              "amount": "1,500,000",
+              "division": "제",
+              "summary": "행사 기념품",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": true,
+          "attempts": 2,
+          "wrongCount": 0,
+          "history": [
+            {
+              "at": "2026-09-14T14:01:48.874Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-11-06",
+                "trade": "purchase",
+                "type": "57.카과",
+                "item": "행사 기념품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,500,000",
+                "vat": "150,000",
+                "supplier": "새봄기프트",
+                "electronic": "",
+                "journal": "카드",
+                "cardCompany": "신한카드(법인)",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "amount": "1,650,000",
+                  "division": "",
+                  "summary": "행사 기념품",
+                  "autoRole": "counter"
+                },
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "amount": "150,000",
+                  "division": "",
+                  "summary": "행사 기념품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "복리후생비",
+                  "amount": "1,500,000",
+                  "division": "제",
+                  "summary": "행사 기념품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            },
+            {
+              "id": "e891542c-ec83-4746-946c-49fa3c41d34e",
+              "at": "2026-09-14T14:01:50.620Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "correct": true,
+          "passedAt": "2026-09-14T14:01:50.620Z",
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-14T14:01:50.620Z",
+          "trainingCenterRestored": false
+        }
+      },
+      "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
+    }
+  },
+  "syncedAt": "2026-09-14T14:02:56.834Z",
+  "device": {
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "name": "PC"
+  }
+}
