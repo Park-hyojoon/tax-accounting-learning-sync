@@ -1,11 +1,11 @@
 {
   "format": "tax-accounting-training-center-backup",
   "version": 1,
-  "exportedAt": "2026-09-10T05:37:46.598Z",
+  "exportedAt": "2026-09-14T13:48:51.112Z",
   "states": {
     "practical": {
       "startedAt": "2026-09-04T03:06:55.956Z",
-      "updatedAt": "2026-09-10T05:37:46.596Z",
+      "updatedAt": "2026-09-14T13:48:51.110Z",
       "cards": {
         "0": {
           "deleted": true,
@@ -598,14 +598,14 @@
           "deletedAt": "2026-09-09T23:44:56.042Z"
         }
       },
-      "updatedAt": "2026-09-10T05:37:46.596Z",
+      "updatedAt": "2026-09-14T13:48:51.111Z",
       "startedAt": "2026-09-07T13:22:06.309Z",
       "fileName": "결산정리사항_17문제_학습기록_2026-09-10",
       "koAuto": true
     },
     "voucher": {
       "startedAt": "2026-09-04T04:31:57.985Z",
-      "updatedAt": "2026-09-10T05:37:46.597Z",
+      "updatedAt": "2026-09-14T13:48:51.111Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -2277,6 +2277,19 @@
     {
       "source": "practical",
       "category": "일반전표",
+      "id": 20,
+      "title": "이자수익의 원천징수 누락 수정",
+      "type": "이자수익 원천징수 수정",
+      "registered": "2026-09-03",
+      "attempts": 1,
+      "wrong": 1,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
       "id": 34,
       "title": "단기매매증권 처분손실 (응용)",
       "type": "단기매매증권",
@@ -2418,14 +2431,79 @@
       "archived": false
     },
     {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 46,
+      "title": "서해시청에 판매용 제품 기부 · 성적표 훈련 ②",
+      "type": "지방자치단체 제품 기부",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 47,
+      "title": "세후 이자수익과 선납세금 · 성적표 훈련 ①",
+      "type": "이자수익 원천징수 수정",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 48,
+      "title": "생산부 외부강사료와 예수금 · 성적표 훈련 ②",
+      "type": "외부강사료 원천징수",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 49,
+      "title": "외상매출금 일부를 두 결제수단으로 회수",
+      "type": "외상매출금 회수·어음과 예금 분할",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
       "source": "theory",
       "category": "이론",
       "id": "operating-profit",
       "title": "영업이익 계산",
       "type": "영업이익 계산",
       "registered": "2026-09-01",
-      "attempts": 1,
-      "wrong": 1,
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "service-dept",
+      "title": "보조부문 원가배분",
+      "type": "보조부문 원가배분",
+      "registered": "2026-09-01",
+      "attempts": 0,
+      "wrong": 0,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -2436,6 +2514,19 @@
       "id": "predetermined-overhead",
       "title": "제조간접원가 예정배부",
       "type": "제조간접원가 예정배부",
+      "registered": "2026-09-01",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "vat-taxpayer",
+      "title": "부가가치세 납세의무자",
+      "type": "부가가치세 납세의무자",
       "registered": "2026-09-01",
       "attempts": 0,
       "wrong": 0,
@@ -2619,8 +2710,8 @@
       "title": "정률법과 월할계산에 의한 감가상각비",
       "type": "감가상각비 계산",
       "registered": "2026-09-09",
-      "attempts": 1,
-      "wrong": 1,
+      "attempts": 0,
+      "wrong": 0,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -2665,12 +2756,39 @@
       "archived": false
     },
     {
+      "source": "theory",
+      "category": "이론",
+      "id": "scorecard-declining-balance-a-20260910",
+      "title": "정률법 차년도 감가상각비 · 성적표 훈련 ①",
+      "type": "감가상각비 계산",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
       "source": "closing",
       "category": "결산",
       "id": "trading-security",
       "index": 0,
       "title": "회사별 단기매매증권 기말평가",
       "type": "단기매매증권 평가",
+      "registered": "2026-09-02",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "fx",
+      "index": 1,
+      "title": "외화 외상매출금 기말평가",
+      "type": "외화평가",
       "registered": "2026-09-02",
       "attempts": 0,
       "wrong": 0,
@@ -2751,11 +2869,53 @@
     {
       "source": "closing",
       "category": "결산",
+      "id": "prepaid-rent",
+      "index": 7,
+      "title": "기간 미경과 임차료의 선급비용 대체",
+      "type": "선급비용 결산",
+      "registered": "2026-09-03",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
       "id": "vat-close-deduction",
       "index": 8,
       "title": "공제세액이 있는 확정 부가가치세 결산",
       "type": "부가가치세 정리",
       "registered": "2026-09-04",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "fx-payable-gain",
+      "index": 9,
+      "title": "외화 외상매입금의 기말 환산이익",
+      "type": "외화평가",
+      "registered": "2026-09-05",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "prepaid-insurance-expensed",
+      "index": 10,
+      "title": "전액 비용 처리한 공장 화재보험료 결산",
+      "type": "보험료·선급비용 결산",
+      "registered": "2026-09-05",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -2798,6 +2958,104 @@
       "title": "도난·파손으로 발생한 제품 수량 부족",
       "type": "비정상 재고자산감모",
       "registered": "2026-09-07",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "fx-payable-loss-20260908",
+      "index": 14,
+      "title": "외화 외상매입금의 기말 환산손실",
+      "type": "외화평가",
+      "registered": "2026-09-08",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "supplies-used-department-allocation",
+      "index": 15,
+      "title": "자산 처리한 소모품 사용액을 부서별로 배부",
+      "type": "소모품 결산·부서별 배부",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "cash-shortage-partly-explained",
+      "index": 16,
+      "title": "현금과부족 중 확인된 유류대와 원인불명액 대체",
+      "type": "현금과부족 원인 규명·잔액 결산",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "manufacturing-truck-straight-line-depreciation-20260909",
+      "index": 17,
+      "title": "제조부 화물차의 정액법 감가상각",
+      "type": "차량운반구 감가상각·월할계산",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "scorecard-truck-depreciation-b-20260910",
+      "index": 18,
+      "title": "제조부 화물차 정액법 월할상각 · 성적표 훈련 ②",
+      "type": "차량운반구 감가상각·월할계산",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "scorecard-prepaid-rent-a-20260910",
+      "index": 19,
+      "title": "전액 비용 처리한 임차료의 미경과분 · 성적표 훈련 ①",
+      "type": "선급비용 결산",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "closing",
+      "category": "결산",
+      "id": "scorecard-prepaid-insurance-b-20260910",
+      "index": 20,
+      "title": "전액 선급비용 처리한 보험료의 경과분 · 성적표 훈련 ②",
+      "type": "보험료·선급비용 결산",
+      "registered": "2026-09-10",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -2898,9 +3156,35 @@
     {
       "source": "voucher",
       "category": "매입매출전표",
+      "id": 7,
+      "title": "건물 부착용 간판을 자산으로 취득",
+      "type": "과세매입·자산취득 혼합결제",
+      "registered": "2026-09-05",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
       "id": 8,
       "title": "비사업자에게 제품을 판매하고 현금영수증 발행",
       "type": "현금영수증 과세매출",
+      "registered": "2026-09-05",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 9,
+      "title": "원재료 매입처에 제품을 무상 제공",
+      "type": "사업상 증여·제품 타계정 대체",
       "registered": "2026-09-05",
       "attempts": 0,
       "wrong": 0,
@@ -2928,8 +3212,8 @@
       "title": "영업 거래처에 접대 목적으로 제품 무상제공",
       "type": "사업상증여·거래처 무상제공",
       "registered": "2026-09-05",
-      "attempts": 2,
-      "wrong": 2,
+      "attempts": 0,
+      "wrong": 0,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -2941,8 +3225,8 @@
       "title": "원재료 공급업체에 접대 목적으로 제품 무상제공",
       "type": "사업상증여·거래처 무상제공",
       "registered": "2026-09-05",
-      "attempts": 1,
-      "wrong": 1,
+      "attempts": 0,
+      "wrong": 0,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -3067,6 +3351,19 @@
     {
       "source": "voucher",
       "category": "매입매출전표",
+      "id": 29,
+      "title": "총무부 소모품 구입과 지출증빙용 현금영수증",
+      "type": "현금영수증 과세매입·소모품비",
+      "registered": "2026-09-09",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
       "id": 30,
       "title": "원재료 매입처에 접대용 제품 무상제공 ①",
       "type": "사업상증여·거래처 무상제공",
@@ -3128,15 +3425,93 @@
       "passed": false,
       "selfPassed": false,
       "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 35,
+      "title": "원재료 매입처에 접대용 제품 무상제공 · 성적표 훈련 ①",
+      "type": "사업상증여·거래처 무상제공",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 36,
+      "title": "원재료 운송비의 과세매입 수정 · 성적표 훈련 ①",
+      "type": "원재료 매입부대비용·과세매입 수정",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 37,
+      "title": "영업부 비용으로 잘못 처리한 공장 전기요금 · 성적표 훈련 ②",
+      "type": "제조부 전력비·과세매입 수정",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 38,
+      "title": "보유 토지 매각과 대금 회수",
+      "type": "토지 면세매각·대금 분할회수",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 39,
+      "title": "원재료 매입과 대금 결제",
+      "type": "원재료 과세매입·어음과 외상 분할결제",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 40,
+      "title": "대표이사 개인 결혼식장 대관료 지급",
+      "type": "사업무관 지출·매입세액 불공제",
+      "registered": "2026-09-10",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
     }
   ],
   "typeSummary": [
     {
       "type": "사업상증여·거래처 무상제공",
-      "problems": 4,
-      "wrong": 3,
-      "unpassed": 4,
-      "score": 7
+      "problems": 5,
+      "wrong": 0,
+      "unpassed": 5,
+      "score": 5
     },
     {
       "type": "단기매매증권",
@@ -3146,25 +3521,25 @@
       "score": 4
     },
     {
+      "type": "이자수익 원천징수 수정",
+      "problems": 3,
+      "wrong": 1,
+      "unpassed": 3,
+      "score": 4
+    },
+    {
+      "type": "외화평가",
+      "problems": 4,
+      "wrong": 0,
+      "unpassed": 4,
+      "score": 4
+    },
+    {
       "type": "부가가치세 정리",
       "problems": 3,
       "wrong": 0,
       "unpassed": 3,
       "score": 3
-    },
-    {
-      "type": "영업이익 계산",
-      "problems": 1,
-      "wrong": 1,
-      "unpassed": 1,
-      "score": 2
-    },
-    {
-      "type": "감가상각비 계산",
-      "problems": 1,
-      "wrong": 1,
-      "unpassed": 1,
-      "score": 2
     },
     {
       "type": "업무용승용차 유지비·매입세액 불공제",
@@ -3188,7 +3563,42 @@
       "score": 2
     },
     {
+      "type": "보조부문 원가배분",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 2,
+      "score": 2
+    },
+    {
+      "type": "감가상각비 계산",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 2,
+      "score": 2
+    },
+    {
       "type": "장기차입금 유동성 대체",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 2,
+      "score": 2
+    },
+    {
+      "type": "선급비용 결산",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 2,
+      "score": 2
+    },
+    {
+      "type": "보험료·선급비용 결산",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 2,
+      "score": 2
+    },
+    {
+      "type": "차량운반구 감가상각·월할계산",
       "problems": 2,
       "wrong": 0,
       "unpassed": 2,
@@ -3265,20 +3675,6 @@
       "score": 1
     },
     {
-      "type": "외화평가",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "이자수익 원천징수 수정",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "고용보험료 납부",
       "problems": 1,
       "wrong": 0,
@@ -3328,7 +3724,42 @@
       "score": 1
     },
     {
+      "type": "지방자치단체 제품 기부",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "외부강사료 원천징수",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "외상매출금 회수·어음과 예금 분할",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "영업이익 계산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "제조간접원가 예정배부",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "부가가치세 납세의무자",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -3357,13 +3788,6 @@
     },
     {
       "type": "기타포괄손익과 자본",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "보조부문 원가배분",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -3482,6 +3906,20 @@
       "score": 1
     },
     {
+      "type": "소모품 결산·부서별 배부",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "현금과부족 원인 규명·잔액 결산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "면세매입과 업무용 선물",
       "problems": 1,
       "wrong": 0,
@@ -3531,7 +3969,21 @@
       "score": 1
     },
     {
+      "type": "과세매입·자산취득 혼합결제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "현금영수증 과세매출",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "사업상 증여·제품 타계정 대체",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -3601,6 +4053,13 @@
       "score": 1
     },
     {
+      "type": "현금영수증 과세매입·소모품비",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "소형승용차 유류대·카드면세 수정",
       "problems": 1,
       "wrong": 0,
@@ -3620,9 +4079,44 @@
       "wrong": 0,
       "unpassed": 1,
       "score": 1
+    },
+    {
+      "type": "원재료 매입부대비용·과세매입 수정",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "제조부 전력비·과세매입 수정",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "토지 면세매각·대금 분할회수",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "원재료 과세매입·어음과 외상 분할결제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "사업무관 지출·매입세액 불공제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
     }
   ],
-  "catalogAt": "2026-09-10T05:37:46.598Z",
+  "catalogAt": "2026-09-14T13:48:51.112Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 3,
@@ -4765,9 +5259,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-10T05:37:46.598Z",
+  "syncedAt": "2026-09-14T13:48:51.113Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "id": "1a0652e8-c2c3-4055-a124-5604ce6144f2",
     "name": "PC"
   }
 }
