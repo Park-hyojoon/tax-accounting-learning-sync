@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-14T14:02:56.834Z",
+  "exportedAt": "2026-09-14T22:32:44.257Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-14T13:51:33.400Z",
+      "updatedAt": "2026-09-14T22:32:44.255Z",
       "cards": {
         "0": {
           "rows": [],
@@ -27,7 +27,6 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-14T13:51:33.400Z",
-          "trainingCenterRestored": false,
           "passedAt": "2026-09-14T13:51:33.400Z"
         },
         "1": {
@@ -115,9 +114,7 @@
         "exam121-vat-characteristics-variant": "2026-09-14T13:56:54.899Z"
       },
       "archivedAt": {},
-      "trainingCenterRestored": {
-        "exam121-reliability-variant": false
-      },
+      "trainingCenterRestored": {},
       "starred": {},
       "starredAt": {},
       "fileName": "이론_새학습_학습기록_2026-09-14",
@@ -129,11 +126,12 @@
       },
       "selfPassedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z"
-      }
+      },
+      "restoredAt": {}
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-14T14:01:50.620Z",
+      "updatedAt": "2026-09-14T22:32:44.256Z",
       "cards": {
         "0": {
           "voucher": {
@@ -318,8 +316,7 @@
           "correct": true,
           "passedAt": "2026-09-14T14:00:24.180Z",
           "selfPassed": true,
-          "selfPassedAt": "2026-09-14T14:00:24.180Z",
-          "trainingCenterRestored": false
+          "selfPassedAt": "2026-09-14T14:00:24.180Z"
         },
         "1": {
           "voucher": {
@@ -446,14 +443,79 @@
           "correct": true,
           "passedAt": "2026-09-14T14:01:50.620Z",
           "selfPassed": true,
-          "selfPassedAt": "2026-09-14T14:01:50.620Z",
-          "trainingCenterRestored": false
+          "selfPassedAt": "2026-09-14T14:01:50.620Z"
+        },
+        "2": {
+          "voucher": {},
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "3": {
+          "voucher": {},
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "4": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
     }
   },
-  "syncedAt": "2026-09-14T14:02:56.834Z",
+  "syncedAt": "2026-09-14T22:32:44.257Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
