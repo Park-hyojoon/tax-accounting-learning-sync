@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-14T23:22:09.623Z",
+  "exportedAt": "2026-09-15T11:14:19.130Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -36,10 +36,52 @@
           "history": [],
           "passed": false,
           "archived": false
+        },
+        "2": {
+          "rows": [
+            {
+              "side": "D",
+              "account": "개발비",
+              "amount": "24,000,000",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-14T23:22:09.621Z",
+      "updatedAt": "2026-09-15T11:14:19.123Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -131,7 +173,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-14T23:22:09.622Z",
+      "updatedAt": "2026-09-15T11:14:19.128Z",
       "cards": {
         "0": {
           "voucher": {
@@ -446,8 +488,57 @@
           "selfPassedAt": "2026-09-14T14:01:50.620Z"
         },
         "2": {
-          "voucher": {},
-          "rows": [],
+          "voucher": {
+            "deleted": false,
+            "date": "2026-08-14",
+            "trade": "sales",
+            "type": "",
+            "item": "제품",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "",
+            "vat": "",
+            "supplier": "",
+            "electronic": "",
+            "journal": "",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
           "graded": false,
           "correct": false,
           "attempts": 0,
@@ -459,7 +550,40 @@
         },
         "3": {
           "voucher": {},
-          "rows": [],
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
           "graded": false,
           "correct": false,
           "attempts": 0,
@@ -470,6 +594,51 @@
           "starred": false
         },
         "4": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "5": {
           "voucher": {},
           "rows": [
             {
@@ -1253,7 +1422,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-14T23:22:09.623Z",
+  "syncedAt": "2026-09-15T11:14:19.130Z",
   "device": {
     "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
     "name": "모바일"
