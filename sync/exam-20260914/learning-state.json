@@ -2,10 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-15T11:14:19.130Z",
+  "exportedAt": "2026-09-15T12:47:03.747Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
+      "startedAt": "2026-09-14T13:49:18.363Z",
+      "updatedAt": "2026-09-15T12:47:03.745Z",
       "cards": {
         "0": {
           "rows": [],
@@ -73,40 +75,63 @@
             }
           ],
           "graded": false,
-          "attempts": 0,
+          "correct": true,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "history": [
+            {
+              "id": "8fd6679f-27f9-41a9-a130-b05184851ba0",
+              "at": "2026-09-15T06:40:04.163Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-15T06:40:04.163Z",
+          "passedAt": "2026-09-15T06:40:04.163Z"
         }
       },
-      "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-15T11:14:19.123Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
-      "deleted": {},
-      "deletedAt": {},
+      "deleted": {
+        "exam124-operating-profit-items-variant": true
+      },
+      "deletedAt": {
+        "exam124-operating-profit-items-variant": "2026-09-15T12:27:07.559Z"
+      },
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-14T13:56:54.899Z",
+      "updatedAt": "2026-09-15T12:46:42.344Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
         "exam121-contra-asset-variant": 2,
-        "exam121-vat-characteristics-variant": 2
+        "exam121-vat-characteristics-variant": 2,
+        "exam124-retained-earnings-appropriation-variant": 2,
+        "exam124-inventory-nrv-variant": 0
       },
       "checked": {
         "exam121-reliability-variant": true,
         "exam121-available-sale-variant": true,
         "exam121-contra-asset-variant": true,
-        "exam121-vat-characteristics-variant": true
+        "exam121-vat-characteristics-variant": true,
+        "exam124-retained-earnings-appropriation-variant": true,
+        "exam124-inventory-nrv-variant": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
         "exam121-available-sale-variant": 1,
         "exam121-contra-asset-variant": 1,
-        "exam121-vat-characteristics-variant": 1
+        "exam121-vat-characteristics-variant": 1,
+        "exam123-overhead-allocation-variant": 1,
+        "exam124-retained-earnings-appropriation-variant": 2,
+        "exam124-inventory-nrv-variant": 2,
+        "exam124-moving-average-cogs-variant": 1,
+        "exam124-equivalent-units-methods-variant": 2,
+        "exam124-predetermined-overhead-rate-variant": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -137,25 +162,99 @@
             "choice": 2,
             "correct": true
           }
+        ],
+        "exam123-overhead-allocation-variant": [
+          {
+            "at": "2026-09-15T04:53:13.153Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam124-retained-earnings-appropriation-variant": [
+          {
+            "at": "2026-09-15T12:13:47.861Z",
+            "choice": 0,
+            "correct": false
+          },
+          {
+            "at": "2026-09-15T12:13:54.929Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam124-inventory-nrv-variant": [
+          {
+            "at": "2026-09-15T12:16:16.792Z",
+            "choice": 1,
+            "correct": false
+          },
+          {
+            "at": "2026-09-15T12:29:34.695Z",
+            "choice": 0,
+            "correct": true
+          }
+        ],
+        "exam124-moving-average-cogs-variant": [
+          {
+            "at": "2026-09-15T12:25:25.649Z",
+            "choice": 0,
+            "correct": false
+          }
+        ],
+        "exam124-equivalent-units-methods-variant": [
+          {
+            "at": "2026-09-15T12:27:14.687Z",
+            "choice": 1,
+            "correct": false
+          },
+          {
+            "at": "2026-09-15T12:27:28.539Z",
+            "choice": 0,
+            "correct": true
+          }
+        ],
+        "exam124-predetermined-overhead-rate-variant": [
+          {
+            "at": "2026-09-15T12:28:50.812Z",
+            "choice": 2,
+            "correct": true
+          }
         ]
       },
       "passed": {
         "exam121-reliability-variant": true,
         "exam121-available-sale-variant": true,
         "exam121-contra-asset-variant": true,
-        "exam121-vat-characteristics-variant": true
+        "exam121-vat-characteristics-variant": true,
+        "exam123-overhead-allocation-variant": true,
+        "exam124-retained-earnings-appropriation-variant": true,
+        "exam124-inventory-nrv-variant": true,
+        "exam124-moving-average-cogs-variant": false,
+        "exam124-equivalent-units-methods-variant": true,
+        "exam124-predetermined-overhead-rate-variant": true
       },
       "archived": {
         "exam121-reliability-variant": false,
         "exam121-available-sale-variant": false,
         "exam121-contra-asset-variant": false,
-        "exam121-vat-characteristics-variant": false
+        "exam121-vat-characteristics-variant": false,
+        "exam123-overhead-allocation-variant": false,
+        "exam124-retained-earnings-appropriation-variant": false,
+        "exam124-inventory-nrv-variant": false,
+        "exam124-moving-average-cogs-variant": false,
+        "exam124-equivalent-units-methods-variant": false,
+        "exam124-predetermined-overhead-rate-variant": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
         "exam121-available-sale-variant": "2026-09-14T13:53:37.078Z",
         "exam121-contra-asset-variant": "2026-09-14T13:56:43.362Z",
-        "exam121-vat-characteristics-variant": "2026-09-14T13:56:54.899Z"
+        "exam121-vat-characteristics-variant": "2026-09-14T13:56:54.899Z",
+        "exam123-overhead-allocation-variant": "2026-09-15T04:53:13.153Z",
+        "exam124-retained-earnings-appropriation-variant": "2026-09-15T12:13:54.929Z",
+        "exam124-equivalent-units-methods-variant": "2026-09-15T12:27:28.539Z",
+        "exam124-predetermined-overhead-rate-variant": "2026-09-15T12:28:50.812Z",
+        "exam124-inventory-nrv-variant": "2026-09-15T12:29:34.695Z"
       },
       "archivedAt": {},
       "trainingCenterRestored": {},
@@ -173,7 +272,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-15T11:14:19.128Z",
+      "updatedAt": "2026-09-15T12:47:03.746Z",
       "cards": {
         "0": {
           "voucher": {
@@ -540,13 +639,79 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-15T06:42:00.944Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-08-14",
+                "trade": "sales",
+                "type": "22.현과",
+                "item": "제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,500,000",
+                "vat": "150,000",
+                "supplier": "박정호",
+                "electronic": "",
+                "journal": "현금",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금",
+                  "amount": "150,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출",
+                  "amount": "1,500,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "C",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false,
+          "passedAt": "2026-09-15T06:42:00.944Z"
         },
         "3": {
           "voucher": {},
@@ -585,13 +750,280 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "attempts": 4,
+          "wrongCount": 3,
+          "history": [
+            {
+              "at": "2026-09-15T06:43:38.818Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-24",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "운동기구",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,000,000",
+                "vat": "200,000",
+                "supplier": "(주)편안생활",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "가지급금",
+                  "accountCode": "",
+                  "accountValue": "가지급금",
+                  "amount": "2,000,000",
+                  "division": "",
+                  "summary": "운동기구",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금",
+                  "amount": "2,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형",
+                "불공제사유",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-15T06:44:06.030Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-24",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "운동기구",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,000,000",
+                "vat": "200,000",
+                "supplier": "(주)편안생활",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "원재료",
+                  "accountCode": "",
+                  "accountValue": "원재료",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "운동기구",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "불공제사유",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-15T06:45:07.586Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-24",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "운동기구",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,000,000",
+                "vat": "200,000",
+                "supplier": "(주)편안생활",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "원재료",
+                  "accountCode": "",
+                  "accountValue": "원재료",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "운동기구",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-15T06:45:16.712Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-24",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "운동기구",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,000,000",
+                "vat": "200,000",
+                "supplier": "(주)편안생활",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "가지급금",
+                  "accountCode": "",
+                  "accountValue": "가지급금",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "운동기구",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false,
+          "passedAt": "2026-09-15T06:45:16.712Z"
         },
         "4": {
           "voucher": {},
@@ -630,13 +1062,145 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "attempts": 2,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-09-15T06:47:36.315Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-12-03",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "차량 운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,350,000",
+                "vat": "",
+                "supplier": "(주)새길캐피탈",
+                "electronic": "여",
+                "journal": "카드",
+                "cardCompany": "삼성카드(법인)",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금",
+                  "amount": "1,350,000",
+                  "division": "",
+                  "summary": "차량 운용리스료",
+                  "autoRole": "counter"
+                },
+                {
+                  "side": "D",
+                  "account": "임차료",
+                  "accountCode": "",
+                  "accountValue": "임차료",
+                  "amount": "1,350,000",
+                  "division": "",
+                  "summary": "차량 운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-15T06:49:21.386Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-12-03",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "차량 운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,350,000",
+                "vat": "",
+                "supplier": "(주)새길캐피탈",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "삼성카드(법인)",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "임차료",
+                  "accountCode": "",
+                  "accountValue": "임차료",
+                  "amount": "1,350,000",
+                  "division": "판",
+                  "summary": "차량 운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금",
+                  "amount": "1,350,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false,
+          "passedAt": "2026-09-15T06:49:21.386Z"
         },
         "5": {
           "voucher": {},
@@ -675,13 +1239,146 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "attempts": 2,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-09-15T06:50:49.351Z",
+              "correct": false,
+              "voucher": {
+                "deleted": true,
+                "date": "2026-09-23",
+                "trade": "purchase",
+                "type": "51.과세",
+                "item": "상품 매입 운송비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "330,000",
+                "vat": "33,000",
+                "supplier": "이음운송(주)",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금",
+                  "amount": "33,000",
+                  "division": "",
+                  "summary": "상품 매입 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "상품",
+                  "accountCode": "",
+                  "accountValue": "상품",
+                  "amount": "330,000",
+                  "division": "",
+                  "summary": "상품 매입 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "현금",
+                  "accountCode": "",
+                  "accountValue": "현금",
+                  "amount": "363,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "공급가액·세액",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-15T06:52:54.104Z",
+              "correct": true,
+              "voucher": {
+                "deleted": true,
+                "date": "2026-09-23",
+                "trade": "purchase",
+                "type": "51.과세",
+                "item": "상품 매입 운송비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "300,000",
+                "vat": "30,000",
+                "supplier": "이음운송(주)",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금",
+                  "amount": "30,000",
+                  "division": "",
+                  "summary": "상품 매입 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "상품",
+                  "accountCode": "",
+                  "accountValue": "상품",
+                  "amount": "300,000",
+                  "division": "",
+                  "summary": "상품 매입 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "현금",
+                  "accountCode": "",
+                  "accountValue": "현금",
+                  "amount": "330,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false,
+          "passedAt": "2026-09-15T06:52:54.104Z"
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -1422,9 +2119,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-15T11:14:19.130Z",
+  "syncedAt": "2026-09-15T12:47:03.747Z",
   "device": {
-    "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
-    "name": "모바일"
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "name": "PC"
   }
 }
