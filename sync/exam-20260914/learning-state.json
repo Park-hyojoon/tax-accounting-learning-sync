@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-15T12:47:03.747Z",
+  "exportedAt": "2026-09-16T08:39:44.429Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-15T12:47:03.745Z",
+      "updatedAt": "2026-09-16T08:39:44.426Z",
       "cards": {
         "0": {
           "rows": [],
@@ -272,7 +272,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-15T12:47:03.746Z",
+      "updatedAt": "2026-09-16T08:39:44.428Z",
       "cards": {
         "0": {
           "voucher": {
@@ -1418,6 +1418,45 @@
       "title": "외부기관 신제품 개발용역비 지급",
       "type": "신제품 개발비의 자산 처리",
       "registered": "2026-09-15",
+      "attempts": 1,
+      "wrong": 0,
+      "passed": true,
+      "selfPassed": true,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 3,
+      "title": "도난으로 발생한 제품 수량 부족",
+      "type": "비정상 재고자산감모손실",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 4,
+      "title": "파손으로 발생한 상품 수량 부족 (응용)",
+      "type": "비정상 재고자산감모손실",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 5,
+      "title": "사무실 임차보증금 잔금 지급",
+      "type": "임차보증금과 계약금 대체",
+      "registered": "2026-09-16",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -1483,6 +1522,188 @@
       "title": "제조지시서별 원가 배부",
       "type": "직접노무비 기준 제조간접비 배부",
       "registered": "2026-09-15",
+      "attempts": 1,
+      "wrong": 0,
+      "passed": true,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam124-retained-earnings-appropriation-variant",
+      "title": "이익잉여금 처분항목 구분",
+      "type": "이익잉여금처분계산서 구성항목",
+      "registered": "2026-09-15",
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam124-inventory-nrv-variant",
+      "title": "재고자산 순실현가능가치 계산",
+      "type": "재고자산 순실현가능가치",
+      "registered": "2026-09-15",
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam124-moving-average-cogs-variant",
+      "title": "이동평균법에 따른 매출원가 계산",
+      "type": "이동평균법 상품매출원가",
+      "registered": "2026-09-15",
+      "attempts": 1,
+      "wrong": 1,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam124-equivalent-units-methods-variant",
+      "title": "완성품환산량 계산방법의 차이 판단",
+      "type": "평균법과 선입선출법 완성품환산량",
+      "registered": "2026-09-15",
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam124-predetermined-overhead-rate-variant",
+      "title": "과대배부 자료를 이용한 예정배부율 계산",
+      "type": "제조간접원가 예정배부율",
+      "registered": "2026-09-15",
+      "attempts": 1,
+      "wrong": 0,
+      "passed": true,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-historical-cost-quality-variant",
+      "title": "역사적 원가 평가의 장단점",
+      "type": "역사적 원가와 질적특성",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-revenue-measurement-variant",
+      "title": "수익 유형별 인식시점 판단",
+      "type": "이자·배당금·로열티 수익 인식",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-periodic-cogs-variant",
+      "title": "상품계정을 이용한 매출원가 계산",
+      "type": "실지재고조사법 매출원가 계산",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-sales-cutoff-variant",
+      "title": "연말 상품 인도와 수익의 기간귀속",
+      "type": "결산일 매출 인식 누락 영향",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-semivariable-cost-variant",
+      "title": "기본요금과 사용료가 결합된 원가",
+      "type": "준변동원가의 원가행태",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-abnormal-spoilage-variant",
+      "title": "완성품 기준 정상공손과 비정상공손 계산",
+      "type": "비정상공손 수량 계산",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-vat-taxable-scope-variant",
+      "title": "부가가치세가 과세되는 거래 판단",
+      "type": "부가가치세 과세대상 범위",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-business-registration-variant",
+      "title": "사업자등록 신청 장소 판단",
+      "type": "부가가치세 사업자등록 절차",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam106-simplified-taxpayer-refund-variant",
+      "title": "간이과세자의 세액공제 한도",
+      "type": "간이과세자의 초과 매입세액 처리",
+      "registered": "2026-09-16",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -1522,9 +1743,9 @@
       "title": "개인 고객에게 제품 현금판매",
       "type": "비사업자 현금판매와 현금영수증",
       "registered": "2026-09-15",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -1535,9 +1756,9 @@
       "title": "대표이사 개인용 운동기구 구입",
       "type": "업무무관 지출과 매입세액 불공제",
       "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 4,
+      "wrong": 3,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -1548,9 +1769,9 @@
       "title": "영업부 차량 운용리스료 결제",
       "type": "운용리스료 면세매입과 카드결제",
       "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -1561,6 +1782,19 @@
       "title": "상품 입고 운송비의 입력 수정",
       "type": "상품 매입 운송비의 취득원가 처리",
       "registered": "2026-09-15",
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 6,
+      "title": "해외 거래처 제품 직수출",
+      "type": "직수출 선수금 대체와 외상매출",
+      "registered": "2026-09-16",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -1570,10 +1804,66 @@
   ],
   "typeSummary": [
     {
+      "type": "업무무관 지출과 매입세액 불공제",
+      "problems": 1,
+      "wrong": 3,
+      "unpassed": 0,
+      "score": 4
+    },
+    {
+      "type": "이익잉여금처분계산서 구성항목",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "재고자산 순실현가능가치",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "이동평균법 상품매출원가",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "평균법과 선입선출법 완성품환산량",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
       "type": "판매 운반비와 현금영수증 과세매입",
       "problems": 1,
       "wrong": 1,
       "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "운용리스료 면세매입과 카드결제",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "상품 매입 운송비의 취득원가 처리",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "비정상 재고자산감모손실",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 2,
       "score": 2
     },
     {
@@ -1592,6 +1882,13 @@
     },
     {
       "type": "신제품 개발비의 자산 처리",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 0,
+      "score": 1
+    },
+    {
+      "type": "임차보증금과 계약금 대체",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -1629,6 +1926,76 @@
       "type": "직접노무비 기준 제조간접비 배부",
       "problems": 1,
       "wrong": 0,
+      "unpassed": 0,
+      "score": 1
+    },
+    {
+      "type": "제조간접원가 예정배부율",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 0,
+      "score": 1
+    },
+    {
+      "type": "역사적 원가와 질적특성",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "이자·배당금·로열티 수익 인식",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "실지재고조사법 매출원가 계산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "결산일 매출 인식 누락 영향",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "준변동원가의 원가행태",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "비정상공손 수량 계산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "부가가치세 과세대상 범위",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "부가가치세 사업자등록 절차",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "간이과세자의 초과 매입세액 처리",
+      "problems": 1,
+      "wrong": 0,
       "unpassed": 1,
       "score": 1
     },
@@ -1643,32 +2010,18 @@
       "type": "비사업자 현금판매와 현금영수증",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
-      "type": "업무무관 지출과 매입세액 불공제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "운용리스료 면세매입과 카드결제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "상품 매입 운송비의 취득원가 처리",
+      "type": "직수출 선수금 대체와 외상매출",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-14T23:22:09.623Z",
+  "catalogAt": "2026-09-16T08:39:44.429Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -2119,7 +2472,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-15T12:47:03.747Z",
+  "syncedAt": "2026-09-16T08:39:44.429Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
