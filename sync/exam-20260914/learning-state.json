@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-16T08:39:44.429Z",
+  "exportedAt": "2026-09-16T13:51:07.498Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-16T08:39:44.426Z",
+      "updatedAt": "2026-09-16T13:51:07.496Z",
       "cards": {
         "0": {
           "rows": [],
@@ -91,6 +91,30 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-15T06:40:04.163Z",
           "passedAt": "2026-09-15T06:40:04.163Z"
+        },
+        "3": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "4": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "5": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
@@ -272,7 +296,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-16T08:39:44.428Z",
+      "updatedAt": "2026-09-16T13:51:07.497Z",
       "cards": {
         "0": {
           "voucher": {
@@ -1379,6 +1403,58 @@
           "starred": false,
           "correct": false,
           "passedAt": "2026-09-15T06:52:54.104Z"
+        },
+        "6": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -1456,6 +1532,19 @@
       "id": 5,
       "title": "사무실 임차보증금 잔금 지급",
       "type": "임차보증금과 계약금 대체",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 6,
+      "title": "장기차입금 상환기일의 유동성 분류",
+      "type": "장기차입금의 유동성 대체",
       "registered": "2026-09-16",
       "attempts": 0,
       "wrong": 0,
@@ -1711,6 +1800,110 @@
       "archived": false
     },
     {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam107-financial-statement-elements-variant",
+      "title": "재무제표 구성요소 정의 판단",
+      "type": "재무제표 구성요소의 정의",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam107-inventory-quantity-methods-variant",
+      "title": "재고 수량과 단가 결정 방법 구분",
+      "type": "기말재고 수량 결정 방법",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam107-ppe-acquisition-variant",
+      "title": "유형자산 취득과 후속지출 판단",
+      "type": "유형자산 취득원가와 감가상각",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam107-bond-issuance-variant",
+      "title": "사채 할인·할증발행의 이자 흐름",
+      "type": "사채 발행과 유효이자율법",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam107-capital-expenditure-error-variant",
+      "title": "자본적지출 비용처리의 기간별 영향",
+      "type": "자본적지출의 비용처리 오류 영향",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam107-variable-cost-behavior-variant",
+      "title": "조업도 변화에 따른 단위원가 판단",
+      "type": "변동원가와 고정원가의 행태",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam107-weighted-average-equivalent-units-variant",
+      "title": "공정초 투입 재료의 완성품환산량 계산",
+      "type": "평균법 재료·가공 완성품환산량",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam107-manufacturing-cogs-variant",
+      "title": "재공품과 제품 재고를 이용한 매출원가 계산",
+      "type": "제조기업의 매출원가 계산",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
       "source": "voucher",
       "category": "매입매출전표",
       "id": 0,
@@ -1794,6 +1987,19 @@
       "id": 6,
       "title": "해외 거래처 제품 직수출",
       "type": "직수출 선수금 대체와 외상매출",
+      "registered": "2026-09-16",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 7,
+      "title": "생산공장 전기요금 입력 수정",
+      "type": "공장 전기요금 과세매입 수정",
       "registered": "2026-09-16",
       "attempts": 0,
       "wrong": 0,
@@ -1889,6 +2095,13 @@
     },
     {
       "type": "임차보증금과 계약금 대체",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "장기차입금의 유동성 대체",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -2000,6 +2213,62 @@
       "score": 1
     },
     {
+      "type": "재무제표 구성요소의 정의",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "기말재고 수량 결정 방법",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "유형자산 취득원가와 감가상각",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "사채 발행과 유효이자율법",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "자본적지출의 비용처리 오류 영향",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "변동원가와 고정원가의 행태",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "평균법 재료·가공 완성품환산량",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "제조기업의 매출원가 계산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "생산부 복리후생비와 신용카드 과세매입",
       "problems": 1,
       "wrong": 0,
@@ -2019,9 +2288,16 @@
       "wrong": 0,
       "unpassed": 1,
       "score": 1
+    },
+    {
+      "type": "공장 전기요금 과세매입 수정",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
     }
   ],
-  "catalogAt": "2026-09-16T08:39:44.429Z",
+  "catalogAt": "2026-09-16T13:51:07.498Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -2472,7 +2748,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-16T08:39:44.429Z",
+  "syncedAt": "2026-09-16T13:51:07.498Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
