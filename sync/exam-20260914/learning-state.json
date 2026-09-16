@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-16T13:51:07.498Z",
+  "exportedAt": "2026-09-16T22:11:18.441Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-16T13:51:07.496Z",
+      "updatedAt": "2026-09-16T22:11:18.439Z",
       "cards": {
         "0": {
           "rows": [],
@@ -128,14 +128,15 @@
         "exam124-operating-profit-items-variant": "2026-09-15T12:27:07.559Z"
       },
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-15T12:46:42.344Z",
+      "updatedAt": "2026-09-16T22:03:45.766Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
         "exam121-contra-asset-variant": 2,
         "exam121-vat-characteristics-variant": 2,
         "exam124-retained-earnings-appropriation-variant": 2,
-        "exam124-inventory-nrv-variant": 0
+        "exam124-inventory-nrv-variant": 0,
+        "exam106-historical-cost-quality-variant": 1
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -143,7 +144,8 @@
         "exam121-contra-asset-variant": true,
         "exam121-vat-characteristics-variant": true,
         "exam124-retained-earnings-appropriation-variant": true,
-        "exam124-inventory-nrv-variant": true
+        "exam124-inventory-nrv-variant": true,
+        "exam106-historical-cost-quality-variant": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -155,7 +157,8 @@
         "exam124-inventory-nrv-variant": 2,
         "exam124-moving-average-cogs-variant": 1,
         "exam124-equivalent-units-methods-variant": 2,
-        "exam124-predetermined-overhead-rate-variant": 1
+        "exam124-predetermined-overhead-rate-variant": 1,
+        "exam106-historical-cost-quality-variant": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -243,6 +246,13 @@
             "choice": 2,
             "correct": true
           }
+        ],
+        "exam106-historical-cost-quality-variant": [
+          {
+            "at": "2026-09-16T22:03:45.766Z",
+            "choice": 1,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -255,7 +265,8 @@
         "exam124-inventory-nrv-variant": true,
         "exam124-moving-average-cogs-variant": false,
         "exam124-equivalent-units-methods-variant": true,
-        "exam124-predetermined-overhead-rate-variant": true
+        "exam124-predetermined-overhead-rate-variant": true,
+        "exam106-historical-cost-quality-variant": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -267,7 +278,8 @@
         "exam124-inventory-nrv-variant": false,
         "exam124-moving-average-cogs-variant": false,
         "exam124-equivalent-units-methods-variant": false,
-        "exam124-predetermined-overhead-rate-variant": false
+        "exam124-predetermined-overhead-rate-variant": false,
+        "exam106-historical-cost-quality-variant": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -278,7 +290,8 @@
         "exam124-retained-earnings-appropriation-variant": "2026-09-15T12:13:54.929Z",
         "exam124-equivalent-units-methods-variant": "2026-09-15T12:27:28.539Z",
         "exam124-predetermined-overhead-rate-variant": "2026-09-15T12:28:50.812Z",
-        "exam124-inventory-nrv-variant": "2026-09-15T12:29:34.695Z"
+        "exam124-inventory-nrv-variant": "2026-09-15T12:29:34.695Z",
+        "exam106-historical-cost-quality-variant": "2026-09-16T22:03:45.766Z"
       },
       "archivedAt": {},
       "trainingCenterRestored": {},
@@ -296,7 +309,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-16T13:51:07.497Z",
+      "updatedAt": "2026-09-16T22:11:18.440Z",
       "cards": {
         "0": {
           "voucher": {
@@ -2748,7 +2761,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-16T13:51:07.498Z",
+  "syncedAt": "2026-09-16T22:11:18.441Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
