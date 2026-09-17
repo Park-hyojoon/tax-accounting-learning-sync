@@ -2,18 +2,18 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-16T22:11:18.441Z",
+  "exportedAt": "2026-09-17T09:05:47.500Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-16T22:11:18.439Z",
+      "updatedAt": "2026-09-17T09:05:47.498Z",
       "cards": {
         "0": {
           "rows": [],
           "graded": true,
           "correct": true,
-          "attempts": 1,
+          "attempts": 3,
           "wrongCount": 0,
           "history": [
             {
@@ -21,13 +21,25 @@
               "at": "2026-09-14T13:51:33.400Z",
               "correct": true,
               "source": "notebook"
+            },
+            {
+              "id": "ebeac6b8-f18c-4e7d-8629-3fd4a101c7e1",
+              "at": "2026-09-17T08:59:05.410Z",
+              "correct": true,
+              "source": "notebook"
+            },
+            {
+              "id": "e27bb096-de43-40ac-8d0c-bfd3cde5583c",
+              "at": "2026-09-17T09:01:10.680Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
           "passed": true,
           "archived": false,
           "selfPassed": true,
-          "selfPassedAt": "2026-09-14T13:51:33.400Z",
-          "passedAt": "2026-09-14T13:51:33.400Z"
+          "selfPassedAt": "2026-09-17T09:01:10.680Z",
+          "passedAt": "2026-09-17T09:01:10.680Z"
         },
         "1": {
           "rows": [],
@@ -115,6 +127,13 @@
           "history": [],
           "passed": false,
           "archived": false
+        },
+        "6": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
@@ -128,7 +147,7 @@
         "exam124-operating-profit-items-variant": "2026-09-15T12:27:07.559Z"
       },
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-16T22:03:45.766Z",
+      "updatedAt": "2026-09-17T03:59:28.307Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -136,7 +155,12 @@
         "exam121-vat-characteristics-variant": 2,
         "exam124-retained-earnings-appropriation-variant": 2,
         "exam124-inventory-nrv-variant": 0,
-        "exam106-historical-cost-quality-variant": 1
+        "exam106-historical-cost-quality-variant": 1,
+        "exam106-semivariable-cost-variant": 2,
+        "exam106-abnormal-spoilage-variant": 2,
+        "exam106-vat-taxable-scope-variant": 1,
+        "exam106-business-registration-variant": 2,
+        "exam106-simplified-taxpayer-refund-variant": 2
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -145,7 +169,12 @@
         "exam121-vat-characteristics-variant": true,
         "exam124-retained-earnings-appropriation-variant": true,
         "exam124-inventory-nrv-variant": true,
-        "exam106-historical-cost-quality-variant": true
+        "exam106-historical-cost-quality-variant": true,
+        "exam106-semivariable-cost-variant": true,
+        "exam106-abnormal-spoilage-variant": true,
+        "exam106-vat-taxable-scope-variant": true,
+        "exam106-business-registration-variant": true,
+        "exam106-simplified-taxpayer-refund-variant": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -158,7 +187,15 @@
         "exam124-moving-average-cogs-variant": 1,
         "exam124-equivalent-units-methods-variant": 2,
         "exam124-predetermined-overhead-rate-variant": 1,
-        "exam106-historical-cost-quality-variant": 1
+        "exam106-historical-cost-quality-variant": 1,
+        "exam106-revenue-measurement-variant": 1,
+        "exam106-periodic-cogs-variant": 1,
+        "exam106-sales-cutoff-variant": 2,
+        "exam106-semivariable-cost-variant": 1,
+        "exam106-abnormal-spoilage-variant": 1,
+        "exam106-vat-taxable-scope-variant": 1,
+        "exam106-business-registration-variant": 1,
+        "exam106-simplified-taxpayer-refund-variant": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -253,6 +290,68 @@
             "choice": 1,
             "correct": true
           }
+        ],
+        "exam106-revenue-measurement-variant": [
+          {
+            "at": "2026-09-16T22:12:15.228Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "exam106-periodic-cogs-variant": [
+          {
+            "at": "2026-09-16T22:22:05.827Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "exam106-sales-cutoff-variant": [
+          {
+            "at": "2026-09-16T22:32:49.717Z",
+            "choice": 3,
+            "correct": false
+          },
+          {
+            "id": "1199ca56-0120-4bf0-872b-be2cd5385eac",
+            "at": "2026-09-16T22:40:29.905Z",
+            "correct": true,
+            "source": "notebook"
+          }
+        ],
+        "exam106-semivariable-cost-variant": [
+          {
+            "at": "2026-09-16T22:40:59.140Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam106-abnormal-spoilage-variant": [
+          {
+            "at": "2026-09-16T22:53:10.200Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam106-vat-taxable-scope-variant": [
+          {
+            "at": "2026-09-16T22:54:07.620Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "exam106-business-registration-variant": [
+          {
+            "at": "2026-09-16T23:19:29.554Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam106-simplified-taxpayer-refund-variant": [
+          {
+            "at": "2026-09-16T23:39:10.677Z",
+            "choice": 2,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -266,7 +365,15 @@
         "exam124-moving-average-cogs-variant": false,
         "exam124-equivalent-units-methods-variant": true,
         "exam124-predetermined-overhead-rate-variant": true,
-        "exam106-historical-cost-quality-variant": true
+        "exam106-historical-cost-quality-variant": true,
+        "exam106-revenue-measurement-variant": true,
+        "exam106-periodic-cogs-variant": true,
+        "exam106-sales-cutoff-variant": true,
+        "exam106-semivariable-cost-variant": true,
+        "exam106-abnormal-spoilage-variant": true,
+        "exam106-vat-taxable-scope-variant": true,
+        "exam106-business-registration-variant": true,
+        "exam106-simplified-taxpayer-refund-variant": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -279,7 +386,15 @@
         "exam124-moving-average-cogs-variant": false,
         "exam124-equivalent-units-methods-variant": false,
         "exam124-predetermined-overhead-rate-variant": false,
-        "exam106-historical-cost-quality-variant": false
+        "exam106-historical-cost-quality-variant": false,
+        "exam106-revenue-measurement-variant": false,
+        "exam106-periodic-cogs-variant": false,
+        "exam106-sales-cutoff-variant": false,
+        "exam106-semivariable-cost-variant": false,
+        "exam106-abnormal-spoilage-variant": false,
+        "exam106-vat-taxable-scope-variant": false,
+        "exam106-business-registration-variant": false,
+        "exam106-simplified-taxpayer-refund-variant": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -291,7 +406,15 @@
         "exam124-equivalent-units-methods-variant": "2026-09-15T12:27:28.539Z",
         "exam124-predetermined-overhead-rate-variant": "2026-09-15T12:28:50.812Z",
         "exam124-inventory-nrv-variant": "2026-09-15T12:29:34.695Z",
-        "exam106-historical-cost-quality-variant": "2026-09-16T22:03:45.766Z"
+        "exam106-historical-cost-quality-variant": "2026-09-16T22:03:45.766Z",
+        "exam106-revenue-measurement-variant": "2026-09-16T22:12:15.228Z",
+        "exam106-periodic-cogs-variant": "2026-09-16T22:22:05.827Z",
+        "exam106-sales-cutoff-variant": "2026-09-16T22:40:29.905Z",
+        "exam106-semivariable-cost-variant": "2026-09-16T22:40:59.140Z",
+        "exam106-abnormal-spoilage-variant": "2026-09-16T22:53:10.200Z",
+        "exam106-vat-taxable-scope-variant": "2026-09-16T22:54:07.620Z",
+        "exam106-business-registration-variant": "2026-09-16T23:19:29.554Z",
+        "exam106-simplified-taxpayer-refund-variant": "2026-09-16T23:39:10.677Z"
       },
       "archivedAt": {},
       "trainingCenterRestored": {},
@@ -300,16 +423,18 @@
       "fileName": "이론_새학습_학습기록_2026-09-14",
       "koAuto": true,
       "selfPassed": {
-        "exam121-reliability-variant": true
+        "exam121-reliability-variant": true,
+        "exam106-sales-cutoff-variant": true
       },
       "selfPassedAt": {
-        "exam121-reliability-variant": "2026-09-14T13:52:52.724Z"
+        "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
+        "exam106-sales-cutoff-variant": "2026-09-16T22:40:29.905Z"
       },
       "restoredAt": {}
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-16T22:11:18.440Z",
+      "updatedAt": "2026-09-17T09:05:47.500Z",
       "cards": {
         "0": {
           "voucher": {
@@ -2761,7 +2886,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-16T22:11:18.441Z",
+  "syncedAt": "2026-09-17T09:05:47.500Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
