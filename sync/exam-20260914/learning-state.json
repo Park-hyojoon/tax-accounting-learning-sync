@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-17T09:05:47.500Z",
+  "exportedAt": "2026-09-18T14:28:06.878Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-17T09:05:47.498Z",
+      "updatedAt": "2026-09-18T14:28:06.874Z",
       "cards": {
         "0": {
           "rows": [],
@@ -45,11 +45,21 @@
           "rows": [],
           "graded": false,
           "correct": false,
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "history": [
+            {
+              "id": "6b0c66f9-60e9-4266-9691-5bc1e0548ae6",
+              "at": "2026-09-17T09:07:22.807Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-17T09:07:22.807Z",
+          "passedAt": "2026-09-17T09:07:22.807Z"
         },
         "2": {
           "rows": [
@@ -105,35 +115,75 @@
           "passedAt": "2026-09-15T06:40:04.163Z"
         },
         "3": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "history": [
+            {
+              "id": "6cc5c388-d026-4c42-ac0a-cd7188327e88",
+              "at": "2026-09-17T09:12:30.296Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-17T09:12:30.296Z",
+          "passedAt": "2026-09-17T09:12:30.296Z"
         },
         "4": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "history": [
+            {
+              "id": "b868e826-d3b6-4669-a4ce-3fa859cb413b",
+              "at": "2026-09-17T09:13:37.507Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-17T09:13:37.507Z",
+          "passedAt": "2026-09-17T09:13:37.507Z"
         },
         "5": {
           "rows": [],
           "graded": false,
           "correct": false,
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "history": [
+            {
+              "id": "6e0d295f-6e82-41d9-9bcb-e4758100e5df",
+              "at": "2026-09-17T09:47:44.130Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-17T09:47:44.130Z",
+          "passedAt": "2026-09-17T09:47:44.130Z"
         },
         "6": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "history": [
+            {
+              "id": "e99a6977-a854-473c-99cf-37a410bf8fe5",
+              "at": "2026-09-17T09:19:25.674Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-17T09:19:25.674Z",
+          "passedAt": "2026-09-17T09:19:25.674Z"
         }
       },
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
@@ -141,13 +191,15 @@
     },
     "theory": {
       "deleted": {
-        "exam124-operating-profit-items-variant": true
+        "exam124-operating-profit-items-variant": true,
+        "exam124-moving-average-cogs-variant": true
       },
       "deletedAt": {
-        "exam124-operating-profit-items-variant": "2026-09-15T12:27:07.559Z"
+        "exam124-operating-profit-items-variant": "2026-09-15T12:27:07.559Z",
+        "exam124-moving-average-cogs-variant": "2026-09-18T09:00:33.561Z"
       },
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-17T03:59:28.307Z",
+      "updatedAt": "2026-09-18T10:30:04.474Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -160,7 +212,9 @@
         "exam106-abnormal-spoilage-variant": 2,
         "exam106-vat-taxable-scope-variant": 1,
         "exam106-business-registration-variant": 2,
-        "exam106-simplified-taxpayer-refund-variant": 2
+        "exam106-simplified-taxpayer-refund-variant": 2,
+        "exam108-tax-invoice-exemption-variant": 2,
+        "exam108-business-place-scope-variant": 3
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -174,7 +228,9 @@
         "exam106-abnormal-spoilage-variant": true,
         "exam106-vat-taxable-scope-variant": true,
         "exam106-business-registration-variant": true,
-        "exam106-simplified-taxpayer-refund-variant": true
+        "exam106-simplified-taxpayer-refund-variant": true,
+        "exam108-tax-invoice-exemption-variant": true,
+        "exam108-business-place-scope-variant": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -184,7 +240,6 @@
         "exam123-overhead-allocation-variant": 1,
         "exam124-retained-earnings-appropriation-variant": 2,
         "exam124-inventory-nrv-variant": 2,
-        "exam124-moving-average-cogs-variant": 1,
         "exam124-equivalent-units-methods-variant": 2,
         "exam124-predetermined-overhead-rate-variant": 1,
         "exam106-historical-cost-quality-variant": 1,
@@ -195,7 +250,25 @@
         "exam106-abnormal-spoilage-variant": 1,
         "exam106-vat-taxable-scope-variant": 1,
         "exam106-business-registration-variant": 1,
-        "exam106-simplified-taxpayer-refund-variant": 1
+        "exam106-simplified-taxpayer-refund-variant": 1,
+        "exam125-depreciation-start-variant": 1,
+        "exam125-current-assets-variant": 1,
+        "exam125-relevant-range-costs-variant": 1,
+        "exam125-fifo-equivalent-units-variant": 1,
+        "exam125-service-department-allocation-variant": 1,
+        "exam125-zero-rate-vs-exemption-variant": 1,
+        "exam107-financial-statement-elements-variant": 1,
+        "exam107-inventory-quantity-methods-variant": 2,
+        "exam107-ppe-acquisition-variant": 1,
+        "exam107-bond-issuance-variant": 1,
+        "exam107-capital-expenditure-error-variant": 1,
+        "exam108-inventory-lower-cost-nrv-variant": 1,
+        "exam107-variable-cost-behavior-variant": 1,
+        "exam107-weighted-average-equivalent-units-variant": 1,
+        "exam107-manufacturing-cogs-variant": 1,
+        "exam108-cost-statement-components-variant": 3,
+        "exam108-tax-invoice-exemption-variant": 2,
+        "exam108-business-place-scope-variant": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -256,13 +329,6 @@
             "at": "2026-09-15T12:29:34.695Z",
             "choice": 0,
             "correct": true
-          }
-        ],
-        "exam124-moving-average-cogs-variant": [
-          {
-            "at": "2026-09-15T12:25:25.649Z",
-            "choice": 0,
-            "correct": false
           }
         ],
         "exam124-equivalent-units-methods-variant": [
@@ -352,6 +418,152 @@
             "choice": 2,
             "correct": true
           }
+        ],
+        "exam125-depreciation-start-variant": [
+          {
+            "at": "2026-09-18T08:07:29.119Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam125-current-assets-variant": [
+          {
+            "at": "2026-09-18T08:07:39.217Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam125-relevant-range-costs-variant": [
+          {
+            "at": "2026-09-18T08:08:46.622Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam125-fifo-equivalent-units-variant": [
+          {
+            "at": "2026-09-18T08:36:05.024Z",
+            "choice": 0,
+            "correct": true
+          }
+        ],
+        "exam125-service-department-allocation-variant": [
+          {
+            "at": "2026-09-18T08:37:05.349Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam125-zero-rate-vs-exemption-variant": [
+          {
+            "at": "2026-09-18T08:38:02.541Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam107-financial-statement-elements-variant": [
+          {
+            "at": "2026-09-18T08:39:48.533Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam107-inventory-quantity-methods-variant": [
+          {
+            "at": "2026-09-18T08:40:59.385Z",
+            "choice": 0,
+            "correct": false
+          },
+          {
+            "at": "2026-09-18T08:41:13.168Z",
+            "choice": 2,
+            "correct": false
+          }
+        ],
+        "exam107-ppe-acquisition-variant": [
+          {
+            "at": "2026-09-18T08:45:39.783Z",
+            "choice": 0,
+            "correct": true
+          }
+        ],
+        "exam107-bond-issuance-variant": [
+          {
+            "at": "2026-09-18T08:46:03.287Z",
+            "choice": 2,
+            "correct": false
+          }
+        ],
+        "exam107-capital-expenditure-error-variant": [
+          {
+            "at": "2026-09-18T08:48:05.496Z",
+            "choice": 1,
+            "correct": false
+          }
+        ],
+        "exam108-inventory-lower-cost-nrv-variant": [
+          {
+            "at": "2026-09-18T08:51:20.505Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam107-variable-cost-behavior-variant": [
+          {
+            "at": "2026-09-18T09:01:03.445Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "exam107-weighted-average-equivalent-units-variant": [
+          {
+            "at": "2026-09-18T09:01:51.372Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "exam107-manufacturing-cogs-variant": [
+          {
+            "at": "2026-09-18T09:04:01.236Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam108-cost-statement-components-variant": [
+          {
+            "at": "2026-09-18T09:08:22.299Z",
+            "choice": 0,
+            "correct": false
+          },
+          {
+            "at": "2026-09-18T09:08:30.341Z",
+            "choice": 3,
+            "correct": false
+          },
+          {
+            "at": "2026-09-18T09:09:38.350Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam108-tax-invoice-exemption-variant": [
+          {
+            "at": "2026-09-18T09:12:09.915Z",
+            "choice": 0,
+            "correct": false
+          },
+          {
+            "at": "2026-09-18T09:14:33.894Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam108-business-place-scope-variant": [
+          {
+            "at": "2026-09-18T09:25:34.366Z",
+            "choice": 3,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -362,7 +574,6 @@
         "exam123-overhead-allocation-variant": true,
         "exam124-retained-earnings-appropriation-variant": true,
         "exam124-inventory-nrv-variant": true,
-        "exam124-moving-average-cogs-variant": false,
         "exam124-equivalent-units-methods-variant": true,
         "exam124-predetermined-overhead-rate-variant": true,
         "exam106-historical-cost-quality-variant": true,
@@ -373,7 +584,25 @@
         "exam106-abnormal-spoilage-variant": true,
         "exam106-vat-taxable-scope-variant": true,
         "exam106-business-registration-variant": true,
-        "exam106-simplified-taxpayer-refund-variant": true
+        "exam106-simplified-taxpayer-refund-variant": true,
+        "exam125-depreciation-start-variant": true,
+        "exam125-current-assets-variant": true,
+        "exam125-relevant-range-costs-variant": true,
+        "exam125-fifo-equivalent-units-variant": true,
+        "exam125-service-department-allocation-variant": true,
+        "exam125-zero-rate-vs-exemption-variant": true,
+        "exam107-financial-statement-elements-variant": true,
+        "exam107-inventory-quantity-methods-variant": false,
+        "exam107-ppe-acquisition-variant": true,
+        "exam107-bond-issuance-variant": false,
+        "exam107-capital-expenditure-error-variant": false,
+        "exam108-inventory-lower-cost-nrv-variant": true,
+        "exam107-variable-cost-behavior-variant": true,
+        "exam107-weighted-average-equivalent-units-variant": true,
+        "exam107-manufacturing-cogs-variant": true,
+        "exam108-cost-statement-components-variant": true,
+        "exam108-tax-invoice-exemption-variant": true,
+        "exam108-business-place-scope-variant": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -383,7 +612,6 @@
         "exam123-overhead-allocation-variant": false,
         "exam124-retained-earnings-appropriation-variant": false,
         "exam124-inventory-nrv-variant": false,
-        "exam124-moving-average-cogs-variant": false,
         "exam124-equivalent-units-methods-variant": false,
         "exam124-predetermined-overhead-rate-variant": false,
         "exam106-historical-cost-quality-variant": false,
@@ -394,7 +622,25 @@
         "exam106-abnormal-spoilage-variant": false,
         "exam106-vat-taxable-scope-variant": false,
         "exam106-business-registration-variant": false,
-        "exam106-simplified-taxpayer-refund-variant": false
+        "exam106-simplified-taxpayer-refund-variant": false,
+        "exam125-depreciation-start-variant": false,
+        "exam125-current-assets-variant": false,
+        "exam125-relevant-range-costs-variant": false,
+        "exam125-fifo-equivalent-units-variant": false,
+        "exam125-service-department-allocation-variant": false,
+        "exam125-zero-rate-vs-exemption-variant": false,
+        "exam107-financial-statement-elements-variant": false,
+        "exam107-inventory-quantity-methods-variant": false,
+        "exam107-ppe-acquisition-variant": false,
+        "exam107-bond-issuance-variant": false,
+        "exam107-capital-expenditure-error-variant": false,
+        "exam108-inventory-lower-cost-nrv-variant": false,
+        "exam107-variable-cost-behavior-variant": false,
+        "exam107-weighted-average-equivalent-units-variant": false,
+        "exam107-manufacturing-cogs-variant": false,
+        "exam108-cost-statement-components-variant": false,
+        "exam108-tax-invoice-exemption-variant": false,
+        "exam108-business-place-scope-variant": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -414,7 +660,22 @@
         "exam106-abnormal-spoilage-variant": "2026-09-16T22:53:10.200Z",
         "exam106-vat-taxable-scope-variant": "2026-09-16T22:54:07.620Z",
         "exam106-business-registration-variant": "2026-09-16T23:19:29.554Z",
-        "exam106-simplified-taxpayer-refund-variant": "2026-09-16T23:39:10.677Z"
+        "exam106-simplified-taxpayer-refund-variant": "2026-09-16T23:39:10.677Z",
+        "exam125-depreciation-start-variant": "2026-09-18T08:07:29.119Z",
+        "exam125-current-assets-variant": "2026-09-18T08:07:39.217Z",
+        "exam125-relevant-range-costs-variant": "2026-09-18T08:08:46.622Z",
+        "exam125-fifo-equivalent-units-variant": "2026-09-18T08:36:05.024Z",
+        "exam125-service-department-allocation-variant": "2026-09-18T08:37:05.349Z",
+        "exam125-zero-rate-vs-exemption-variant": "2026-09-18T08:38:02.541Z",
+        "exam107-financial-statement-elements-variant": "2026-09-18T08:39:48.533Z",
+        "exam107-ppe-acquisition-variant": "2026-09-18T08:45:39.783Z",
+        "exam108-inventory-lower-cost-nrv-variant": "2026-09-18T08:51:20.505Z",
+        "exam107-variable-cost-behavior-variant": "2026-09-18T09:01:03.445Z",
+        "exam107-weighted-average-equivalent-units-variant": "2026-09-18T09:01:51.372Z",
+        "exam107-manufacturing-cogs-variant": "2026-09-18T09:04:01.236Z",
+        "exam108-cost-statement-components-variant": "2026-09-18T09:09:38.350Z",
+        "exam108-tax-invoice-exemption-variant": "2026-09-18T09:14:33.894Z",
+        "exam108-business-place-scope-variant": "2026-09-18T09:25:34.366Z"
       },
       "archivedAt": {},
       "trainingCenterRestored": {},
@@ -434,7 +695,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-17T09:05:47.500Z",
+      "updatedAt": "2026-09-18T14:28:06.876Z",
       "cards": {
         "0": {
           "voucher": {
@@ -1543,7 +1804,157 @@
           "passedAt": "2026-09-15T06:52:54.104Z"
         },
         "6": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "2026-09-18",
+            "trade": "sales",
+            "type": "16.수출",
+            "item": "수출 제품",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "72,000,000",
+            "vat": "",
+            "supplier": "Aster LLC",
+            "electronic": "",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "①직접수출(대행수출 포함)",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "C",
+              "account": "제품매출",
+              "accountCode": "",
+              "accountValue": "제품매출",
+              "amount": "72,000,000",
+              "division": "",
+              "summary": "수출 제품",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": true,
+          "correct": true,
+          "attempts": 2,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-09-17T09:51:03.079Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-09-18",
+                "trade": "sales",
+                "type": "16.수출",
+                "item": "수출 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "72,000,000",
+                "vat": "",
+                "supplier": "Aster LLC",
+                "electronic": "",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출",
+                  "amount": "72,000,000",
+                  "division": "",
+                  "summary": "수출 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "선수금",
+                  "accountCode": "",
+                  "accountValue": "선수금",
+                  "amount": "12,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "외상매출금",
+                  "accountCode": "",
+                  "accountValue": "외상매출금",
+                  "amount": "60,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "영세율 구분"
+              ]
+            },
+            {
+              "id": "c5257438-8d5f-4801-bf29-50b952d33660",
+              "at": "2026-09-17T09:57:08.344Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-17T09:57:08.344Z",
+          "passedAt": "2026-09-17T09:57:08.344Z"
+        },
+        "7": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
           "rows": [
             {
               "side": "D",
@@ -1585,14 +1996,612 @@
               "summary": "",
               "autoRole": ""
             }
-          ],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
+          ]
+        },
+        "8": {
+          "attempts": 2,
           "wrongCount": 0,
-          "history": [],
+          "history": [
+            {
+              "at": "2026-09-17T09:58:20.447Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-08-19",
+                "trade": "sales",
+                "type": "17.카과",
+                "item": "제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "7,000,000",
+                "vat": "700,000",
+                "supplier": "(주)한빛상사",
+                "electronic": "",
+                "journal": "카드",
+                "cardCompany": "삼성카드",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "미수금",
+                  "accountCode": "",
+                  "accountValue": "미수금",
+                  "amount": "7,700,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "counter"
+                },
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금",
+                  "amount": "700,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출",
+                  "amount": "7,000,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            },
+            {
+              "id": "d348afd7-23ac-444b-82aa-6cc00d774352",
+              "at": "2026-09-17T09:58:22.248Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "rows": [
+            {
+              "side": "D",
+              "account": "미수금",
+              "accountCode": "",
+              "accountValue": "미수금",
+              "amount": "7,700,000",
+              "division": "",
+              "summary": "제품",
+              "autoRole": "counter"
+            },
+            {
+              "side": "C",
+              "account": "부가세예수금",
+              "accountCode": "",
+              "accountValue": "부가세예수금",
+              "amount": "700,000",
+              "division": "",
+              "summary": "제품",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "제품매출",
+              "accountCode": "",
+              "accountValue": "제품매출",
+              "amount": "7,000,000",
+              "division": "",
+              "summary": "제품",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "voucher": {
+            "deleted": false,
+            "date": "2026-08-19",
+            "trade": "sales",
+            "type": "17.카과",
+            "item": "제품",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "7,000,000",
+            "vat": "700,000",
+            "supplier": "(주)한빛상사",
+            "electronic": "",
+            "journal": "카드",
+            "cardCompany": "삼성카드",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "graded": true,
+          "correct": true,
+          "passedAt": "2026-09-17T09:58:22.248Z",
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-17T09:58:22.248Z"
+        },
+        "9": {
+          "attempts": 3,
+          "wrongCount": 3,
+          "history": [
+            {
+              "at": "2026-09-17T09:24:44.895Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-07",
+                "trade": "purchase",
+                "type": "51.과세",
+                "item": "기증용 공기청정기",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "4,000,000",
+                "vat": "400,000",
+                "supplier": "(주)안전기술",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금",
+                  "amount": "400,000",
+                  "division": "",
+                  "summary": "기증용 공기청정기",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기부금",
+                  "accountCode": "",
+                  "accountValue": "기부금",
+                  "amount": "4,000,000",
+                  "division": "",
+                  "summary": "기증용 공기청정기",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금",
+                  "amount": "4,400,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형",
+                "불공제사유",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-17T09:38:43.828Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "",
+                "trade": "purchase",
+                "type": "51.과세",
+                "item": "기증용 공기청정기",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "4,000,000",
+                "vat": "400,000",
+                "supplier": "(주)안전기술",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금",
+                  "amount": "400,000",
+                  "division": "",
+                  "summary": "기증용 공기청정기",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기부금",
+                  "accountCode": "",
+                  "accountValue": "기부금",
+                  "amount": "4,000,000",
+                  "division": "",
+                  "summary": "기증용 공기청정기",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금",
+                  "amount": "4,400,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "거래일자",
+                "유형",
+                "불공제사유",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-17T09:39:38.491Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "기증용 공기청정기",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "4,000,000",
+                "vat": "400,000",
+                "supplier": "(주)안전기술",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "기부금",
+                  "accountCode": "",
+                  "accountValue": "기부금",
+                  "amount": "4,400,000",
+                  "division": "",
+                  "summary": "기증용 공기청정기",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금",
+                  "amount": "4,400,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "거래일자"
+              ]
+            }
+          ],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false,
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ]
+        },
+        "10": {
+          "attempts": 3,
+          "wrongCount": 2,
+          "history": [
+            {
+              "at": "2026-09-17T09:42:28.184Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-06-28",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "업무용승용차",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,200,000",
+                "vat": "220,000",
+                "supplier": "동부자동차",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": "③비영업용 소형승용자동차 구입·유지 및 임차"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "차량운반구",
+                  "accountCode": "",
+                  "accountValue": "차량운반구",
+                  "amount": "2,420,000",
+                  "division": "",
+                  "summary": "업무용승용차",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금",
+                  "amount": "2,420,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "공급가액·세액",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-17T09:43:06.826Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-06-28",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "업무용승용차",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,200,000",
+                "vat": "220,000",
+                "supplier": "동부자동차",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": "③비영업용 소형승용자동차 구입·유지 및 임차"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "차량운반구",
+                  "accountCode": "",
+                  "accountValue": "차량운반구",
+                  "amount": "2,420,000",
+                  "division": "",
+                  "summary": "업무용승용차",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금",
+                  "amount": "2,420,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "공급가액·세액",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-17T09:43:32.053Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-06-28",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "업무용승용차",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "22,000,000",
+                "vat": "2,200,000",
+                "supplier": "동부자동차",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompany": "",
+                "zeroRate": "",
+                "deductReason": "③비영업용 소형승용자동차 구입·유지 및 임차"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "차량운반구",
+                  "accountCode": "",
+                  "accountValue": "차량운반구",
+                  "amount": "24,200,000",
+                  "division": "",
+                  "summary": "업무용승용차",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금",
+                  "amount": "24,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "passedAt": "2026-09-17T09:43:32.053Z"
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -2886,7 +3895,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-17T09:05:47.500Z",
+  "syncedAt": "2026-09-18T14:28:06.878Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
