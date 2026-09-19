@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-19T02:12:11.016Z",
+  "exportedAt": "2026-09-19T02:33:15.779Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -678,7 +678,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-19T02:12:11.008Z",
+      "updatedAt": "2026-09-19T02:33:15.775Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -1188,7 +1188,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-19T02:12:11.014Z",
+      "updatedAt": "2026-09-19T02:33:15.777Z",
       "cards": {
         "0": {
           "voucher": {
@@ -1579,7 +1579,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1651,6 +1650,7 @@
           "passed": true,
           "archived": false,
           "starred": false,
+          "correct": false,
           "passedAt": "2026-09-15T06:42:00.944Z"
         },
         "3": {
@@ -1698,7 +1698,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 4,
           "wrongCount": 3,
           "history": [
@@ -1971,6 +1970,7 @@
           "passed": true,
           "archived": false,
           "starred": false,
+          "correct": false,
           "passedAt": "2026-09-15T06:45:16.712Z"
         },
         "4": {
@@ -2018,7 +2018,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -2156,6 +2155,7 @@
           "passed": true,
           "archived": false,
           "starred": false,
+          "correct": false,
           "passedAt": "2026-09-15T06:49:21.386Z"
         },
         "5": {
@@ -2203,7 +2203,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -2342,6 +2341,7 @@
           "passed": true,
           "archived": false,
           "starred": false,
+          "correct": false,
           "passedAt": "2026-09-15T06:52:54.104Z"
         },
         "6": {
@@ -5474,9 +5474,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-19T02:12:11.017Z",
+  "syncedAt": "2026-09-19T02:33:15.779Z",
   "device": {
-    "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
-    "name": "모바일"
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "name": "PC"
   }
 }
