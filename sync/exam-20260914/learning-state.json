@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-18T14:28:06.878Z",
+  "exportedAt": "2026-09-19T00:01:21.890Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-18T14:28:06.874Z",
+      "updatedAt": "2026-09-19T00:01:21.886Z",
       "cards": {
         "0": {
           "rows": [],
@@ -184,6 +184,97 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:19:25.674Z",
           "passedAt": "2026-09-17T09:19:25.674Z"
+        },
+        "7": {
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "timedPending": {
+            "id": "d89ded19-82e4-4927-a1a9-9c6a02d7cf82",
+            "phase": "stopped",
+            "startedMs": 1789775736109,
+            "targetSeconds": 60,
+            "assisted": false,
+            "elapsedMs": 9174,
+            "stoppedAt": "2026-09-18T23:55:45.283Z"
+          }
+        },
+        "8": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "9": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "10": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "11": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
@@ -695,7 +786,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-18T14:28:06.876Z",
+      "updatedAt": "2026-09-19T00:01:21.888Z",
       "cards": {
         "0": {
           "voucher": {
@@ -2602,6 +2693,162 @@
           "archived": false,
           "starred": false,
           "passedAt": "2026-09-17T09:43:32.053Z"
+        },
+        "11": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "12": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
+        },
+        "13": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -3895,7 +4142,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-18T14:28:06.878Z",
+  "syncedAt": "2026-09-19T00:01:21.890Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
