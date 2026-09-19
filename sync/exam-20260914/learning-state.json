@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-19T01:25:33.812Z",
+  "exportedAt": "2026-09-19T01:55:24.067Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-19T01:25:33.808Z",
+      "updatedAt": "2026-09-19T01:55:24.063Z",
       "cards": {
         "0": {
           "rows": [],
@@ -376,7 +376,17 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "timedPending": {
+            "id": "7f4ba02d-42c9-461c-8c67-ead469a4c6ed",
+            "phase": "stopped",
+            "startedMs": 1789781222841,
+            "pausedTotalMs": 0,
+            "targetSeconds": 60,
+            "assisted": false,
+            "elapsedMs": 0,
+            "stoppedAt": "2026-09-19T01:27:05.773Z"
+          }
         },
         "19": {
           "rows": [
@@ -418,7 +428,17 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "timedPending": {
+            "id": "3791be17-8155-4e16-b6ba-6152d82b94ef",
+            "phase": "stopped",
+            "startedMs": 1789781229106,
+            "pausedTotalMs": 0,
+            "targetSeconds": 60,
+            "assisted": false,
+            "elapsedMs": 0,
+            "stoppedAt": "2026-09-19T01:27:09.824Z"
+          }
         },
         "20": {
           "rows": [
@@ -460,7 +480,17 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "timedPending": {
+            "id": "b7f25fea-5f95-4c30-ada4-cd40c64804cc",
+            "phase": "stopped",
+            "startedMs": 1789781234601,
+            "pausedTotalMs": 0,
+            "targetSeconds": 60,
+            "assisted": false,
+            "elapsedMs": 0,
+            "stoppedAt": "2026-09-19T01:29:35.736Z"
+          }
         },
         "21": {
           "rows": [
@@ -1158,7 +1188,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-19T01:25:33.810Z",
+      "updatedAt": "2026-09-19T01:55:24.065Z",
       "cards": {
         "0": {
           "voucher": {
@@ -4625,7 +4655,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-19T01:25:33.812Z",
+  "syncedAt": "2026-09-19T01:55:24.067Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
