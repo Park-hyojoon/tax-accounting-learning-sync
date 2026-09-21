@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-21T09:46:08.962Z",
+  "exportedAt": "2026-09-21T09:46:25.363Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-21T09:46:08.957Z",
+      "updatedAt": "2026-09-21T09:46:25.355Z",
       "cards": {
         "0": {
           "rows": [],
@@ -1196,7 +1196,7 @@
         "exam124-moving-average-cogs-variant": "2026-09-18T09:00:33.561Z"
       },
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-18T10:30:04.474Z",
+      "updatedAt": "2026-09-20T02:10:39.240Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -1211,7 +1211,8 @@
         "exam106-business-registration-variant": 2,
         "exam106-simplified-taxpayer-refund-variant": 2,
         "exam108-tax-invoice-exemption-variant": 2,
-        "exam108-business-place-scope-variant": 3
+        "exam108-business-place-scope-variant": 3,
+        "exam108-process-costing-methods-variant": 0
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -1227,7 +1228,8 @@
         "exam106-business-registration-variant": true,
         "exam106-simplified-taxpayer-refund-variant": true,
         "exam108-tax-invoice-exemption-variant": true,
-        "exam108-business-place-scope-variant": true
+        "exam108-business-place-scope-variant": true,
+        "exam108-process-costing-methods-variant": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -1255,17 +1257,19 @@
         "exam125-service-department-allocation-variant": 1,
         "exam125-zero-rate-vs-exemption-variant": 1,
         "exam107-financial-statement-elements-variant": 1,
-        "exam107-inventory-quantity-methods-variant": 2,
+        "exam107-inventory-quantity-methods-variant": 3,
         "exam107-ppe-acquisition-variant": 1,
         "exam107-bond-issuance-variant": 1,
-        "exam107-capital-expenditure-error-variant": 1,
+        "exam107-capital-expenditure-error-variant": 2,
         "exam108-inventory-lower-cost-nrv-variant": 1,
         "exam107-variable-cost-behavior-variant": 1,
         "exam107-weighted-average-equivalent-units-variant": 1,
         "exam107-manufacturing-cogs-variant": 1,
         "exam108-cost-statement-components-variant": 3,
         "exam108-tax-invoice-exemption-variant": 2,
-        "exam108-business-place-scope-variant": 1
+        "exam108-business-place-scope-variant": 1,
+        "exam108-intangible-amortization-variant": 1,
+        "exam108-process-costing-methods-variant": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -1475,6 +1479,11 @@
             "at": "2026-09-18T08:41:13.168Z",
             "choice": 2,
             "correct": false
+          },
+          {
+            "at": "2026-09-20T02:06:30.309Z",
+            "choice": 1,
+            "correct": true
           }
         ],
         "exam107-ppe-acquisition-variant": [
@@ -1496,6 +1505,11 @@
             "at": "2026-09-18T08:48:05.496Z",
             "choice": 1,
             "correct": false
+          },
+          {
+            "at": "2026-09-20T02:07:34.242Z",
+            "choice": 2,
+            "correct": true
           }
         ],
         "exam108-inventory-lower-cost-nrv-variant": [
@@ -1561,6 +1575,20 @@
             "choice": 3,
             "correct": true
           }
+        ],
+        "exam108-intangible-amortization-variant": [
+          {
+            "at": "2026-09-20T02:07:56.040Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam108-process-costing-methods-variant": [
+          {
+            "at": "2026-09-20T02:08:53.172Z",
+            "choice": 0,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -1589,17 +1617,19 @@
         "exam125-service-department-allocation-variant": true,
         "exam125-zero-rate-vs-exemption-variant": true,
         "exam107-financial-statement-elements-variant": true,
-        "exam107-inventory-quantity-methods-variant": false,
+        "exam107-inventory-quantity-methods-variant": true,
         "exam107-ppe-acquisition-variant": true,
         "exam107-bond-issuance-variant": false,
-        "exam107-capital-expenditure-error-variant": false,
+        "exam107-capital-expenditure-error-variant": true,
         "exam108-inventory-lower-cost-nrv-variant": true,
         "exam107-variable-cost-behavior-variant": true,
         "exam107-weighted-average-equivalent-units-variant": true,
         "exam107-manufacturing-cogs-variant": true,
         "exam108-cost-statement-components-variant": true,
         "exam108-tax-invoice-exemption-variant": true,
-        "exam108-business-place-scope-variant": true
+        "exam108-business-place-scope-variant": true,
+        "exam108-intangible-amortization-variant": true,
+        "exam108-process-costing-methods-variant": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -1637,7 +1667,9 @@
         "exam107-manufacturing-cogs-variant": false,
         "exam108-cost-statement-components-variant": false,
         "exam108-tax-invoice-exemption-variant": false,
-        "exam108-business-place-scope-variant": false
+        "exam108-business-place-scope-variant": false,
+        "exam108-intangible-amortization-variant": false,
+        "exam108-process-costing-methods-variant": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -1672,7 +1704,11 @@
         "exam107-manufacturing-cogs-variant": "2026-09-18T09:04:01.236Z",
         "exam108-cost-statement-components-variant": "2026-09-18T09:09:38.350Z",
         "exam108-tax-invoice-exemption-variant": "2026-09-18T09:14:33.894Z",
-        "exam108-business-place-scope-variant": "2026-09-18T09:25:34.366Z"
+        "exam108-business-place-scope-variant": "2026-09-18T09:25:34.366Z",
+        "exam107-inventory-quantity-methods-variant": "2026-09-20T02:06:30.309Z",
+        "exam107-capital-expenditure-error-variant": "2026-09-20T02:07:34.242Z",
+        "exam108-intangible-amortization-variant": "2026-09-20T02:07:56.041Z",
+        "exam108-process-costing-methods-variant": "2026-09-20T02:08:53.172Z"
       },
       "archivedAt": {},
       "trainingCenterRestored": {},
@@ -1692,7 +1728,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-21T09:46:08.961Z",
+      "updatedAt": "2026-09-21T09:46:25.360Z",
       "cards": {
         "0": {
           "voucher": {
@@ -5832,8 +5868,8 @@
       "title": "만기 전 받을어음 할인(103회 1번)",
       "type": "받을어음 할인(매각거래)",
       "registered": "2026-09-19",
-      "attempts": 2,
-      "wrong": 2,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -5858,8 +5894,8 @@
       "title": "정기예금 만기 해지 입금(103회 3번)",
       "type": "정기예금 만기 해지와 선납세금",
       "registered": "2026-09-19",
-      "attempts": 1,
-      "wrong": 1,
+      "attempts": 0,
+      "wrong": 0,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -5975,162 +6011,6 @@
       "title": "연말 불우이웃돕기 성금 지급(104회 6번)",
       "type": "불우이웃돕기 성금",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 30,
-      "title": "영업부 사무실 유리창 교체 대금 지급(105회 1번)",
-      "type": "수익적 지출과 당좌수표 발행",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 31,
-      "title": "외상매출금 조기 회수와 할인(105회 2번)",
-      "type": "외상매출금 조기 회수와 매출할인",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 32,
-      "title": "보통주 유상 발행과 신주 발행비(105회 3번)",
-      "type": "유상증자 신주발행비와 주식발행초과금",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 33,
-      "title": "수입 원재료 관세와 통관수수료 이체(105회 5번)",
-      "type": "수입 원재료 관세와 통관수수료",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 34,
-      "title": "제품홍보물 제작비용 국민카드 결제(105회 6번)",
-      "type": "광고선전비 카드 결제와 미지급금",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 35,
-      "title": "거래처 파산 단기대여금 대손 처리(105회 7번)",
-      "type": "단기대여금 대손과 기타의대손상각비",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 36,
-      "title": "외화장기차입금 일부 상환(103회)",
-      "type": "외화장기차입금 상환과 외환차손",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 37,
-      "title": "미지급 중간배당금 지급(103회)",
-      "type": "중간배당금 지급과 원천징수",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 38,
-      "title": "외상매출금의 현금·어음 회수(103회)",
-      "type": "외상매출금 현금·받을어음 회수",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 39,
-      "title": "단기매매증권의 현금배당 수령(110회)",
-      "type": "단기매매증권의 현금배당과 주식배당",
-      "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 40,
-      "title": "기계장치 매각대금 당좌수표 회수(110회)",
-      "type": "자산 매각 미수금의 당좌수표 회수",
-      "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "practical",
-      "category": "일반전표",
-      "id": 41,
-      "title": "수출 외상매출금 회수와 환율 상승(110회)",
-      "type": "수출 외상매출금 회수와 외환차익",
-      "registered": "2026-09-21",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -6391,9 +6271,9 @@
       "title": "재고 수량과 단가 결정 방법 구분",
       "type": "기말재고 수량 결정 방법",
       "registered": "2026-09-16",
-      "attempts": 2,
+      "attempts": 3,
       "wrong": 2,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6430,9 +6310,9 @@
       "title": "자본적지출 비용처리의 기간별 영향",
       "type": "자본적지출의 비용처리 오류 영향",
       "registered": "2026-09-16",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6482,9 +6362,9 @@
       "title": "무형자산 상각 원칙 판단",
       "type": "무형자산 상각기간과 방법",
       "registered": "2026-09-17",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6521,9 +6401,9 @@
       "title": "평균법과 선입선출법의 원가 일치 조건",
       "type": "종합원가계산 평균법과 선입선출법",
       "registered": "2026-09-17",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6628,32 +6508,6 @@
       "attempts": 1,
       "wrong": 0,
       "passed": true,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "theory",
-      "category": "이론",
-      "id": "exam122-nonoperating-expense-total-variant",
-      "title": "비용 항목별 영업외비용 합계",
-      "type": "영업외비용 분류와 합계",
-      "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "theory",
-      "category": "이론",
-      "id": "exam122-inventory-lower-of-cost-variant",
-      "title": "저가법 적용 후 재고자산별 기말평가액",
-      "type": "재고자산 저가법 평가",
-      "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
       "selfPassed": false,
       "archived": false
     },
@@ -6846,9 +6700,9 @@
       "title": "기계장치 원상회복 카드 결제(103회 1번)",
       "type": "신용카드 과세매입과 미지급금",
       "registered": "2026-09-19",
-      "attempts": 1,
+      "attempts": 0,
       "wrong": 0,
-      "passed": true,
+      "passed": false,
       "selfPassed": false,
       "archived": false
     },
@@ -6859,9 +6713,9 @@
       "title": "화물자동차 매입과 어음 배서 지급(103회 2번)",
       "type": "차량 매입과 받을어음 배서양도",
       "registered": "2026-09-19",
-      "attempts": 1,
+      "attempts": 0,
       "wrong": 0,
-      "passed": true,
+      "passed": false,
       "selfPassed": false,
       "archived": false
     },
@@ -6872,9 +6726,9 @@
       "title": "수입전자세금계산서 부가세 이체(103회 3번)",
       "type": "수입 전자세금계산서와 부가세 납부",
       "registered": "2026-09-19",
-      "attempts": 1,
+      "attempts": 0,
       "wrong": 0,
-      "passed": true,
+      "passed": false,
       "selfPassed": false,
       "archived": false
     },
@@ -6885,9 +6739,9 @@
       "title": "제조부문 안전용품 구입(103회 4번)",
       "type": "소모품 과세매입과 현금 일부 지급",
       "registered": "2026-09-19",
-      "attempts": 1,
+      "attempts": 0,
       "wrong": 0,
-      "passed": true,
+      "passed": false,
       "selfPassed": false,
       "archived": false
     },
@@ -6994,149 +6848,6 @@
       "passed": false,
       "selfPassed": false,
       "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 26,
-      "title": "택배 운임 지급과 현금영수증 수취(105회 1번)",
-      "type": "현금영수증 지출증빙 운임의 취득원가 처리",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 27,
-      "title": "제품 판매 전자세금계산서 발급(105회 2번)",
-      "type": "전자세금계산서 제품매출과 어음 수령",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 28,
-      "title": "해외 거래처 직수출 선적(105회 3번)",
-      "type": "직수출 외화 외상 제품매출",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 29,
-      "title": "비사업자 제품 현금판매(영수증 미발급)(105회 4번)",
-      "type": "현금영수증 미발급 현금판매(건별)",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 30,
-      "title": "생산부 직원 간식 카드 구매(105회 5번)",
-      "type": "신용카드 과세매입과 복리후생비(제)",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 31,
-      "title": "거래처 창립기념 선물용 집기비품 구입(105회 6번)",
-      "type": "거래처 선물 구입 매입세액 불공제",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 32,
-      "title": "원재료 매입대금의 현금·외상 혼합결제(103회)",
-      "type": "원재료 과세매입과 현금·외상 혼합결제",
-      "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 33,
-      "title": "거래처 증정용 와인 선물세트 구입(122회)",
-      "type": "거래처 접대용 선물 매입세액 불공제",
-      "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 34,
-      "title": "본사 사무실용 토지·건물 일괄취득(110회)",
-      "type": "토지·건물 일괄취득과 계약금 대체",
-      "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 35,
-      "title": "원재료 매입처에 자사 제품 무상 제공(110회)",
-      "type": "거래처 증정 제품의 개인적 공급",
-      "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "voucher",
-      "category": "매입매출전표",
-      "id": 36,
-      "title": "원재료 매입대금의 받을어음 배서 지급(110회)",
-      "type": "원재료 매입과 받을어음 배서양도",
-      "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
     }
   ],
   "typeSummary": [
@@ -7155,17 +6866,10 @@
       "score": 4
     },
     {
-      "type": "받을어음 할인(매각거래)",
-      "problems": 1,
-      "wrong": 2,
-      "unpassed": 1,
-      "score": 3
-    },
-    {
       "type": "기말재고 수량 결정 방법",
       "problems": 1,
       "wrong": 2,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 3
     },
     {
@@ -7183,14 +6887,14 @@
       "score": 3
     },
     {
-      "type": "국민연금 납부와 예수금",
+      "type": "받을어음 할인(매각거래)",
       "problems": 1,
       "wrong": 1,
       "unpassed": 1,
       "score": 2
     },
     {
-      "type": "정기예금 만기 해지와 선납세금",
+      "type": "국민연금 납부와 예수금",
       "problems": 1,
       "wrong": 1,
       "unpassed": 1,
@@ -7235,7 +6939,7 @@
       "type": "자본적지출의 비용처리 오류 영향",
       "problems": 1,
       "wrong": 1,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
@@ -7372,6 +7076,13 @@
       "score": 1
     },
     {
+      "type": "정기예금 만기 해지와 선납세금",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "유상증자와 주식할인발행차금",
       "problems": 1,
       "wrong": 0,
@@ -7429,90 +7140,6 @@
     },
     {
       "type": "불우이웃돕기 성금",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "수익적 지출과 당좌수표 발행",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외상매출금 조기 회수와 매출할인",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "유상증자 신주발행비와 주식발행초과금",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "수입 원재료 관세와 통관수수료",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "광고선전비 카드 결제와 미지급금",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "단기대여금 대손과 기타의대손상각비",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외화장기차입금 상환과 외환차손",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "중간배당금 지급과 원천징수",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외상매출금 현금·받을어음 회수",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "단기매매증권의 현금배당과 주식배당",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "자산 매각 미수금의 당좌수표 회수",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "수출 외상매출금 회수와 외환차익",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -7655,7 +7282,7 @@
       "type": "무형자산 상각기간과 방법",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -7669,7 +7296,7 @@
       "type": "종합원가계산 평균법과 선입선출법",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -7719,20 +7346,6 @@
       "problems": 1,
       "wrong": 0,
       "unpassed": 0,
-      "score": 1
-    },
-    {
-      "type": "영업외비용 분류와 합계",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "재고자산 저가법 평가",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
       "score": 1
     },
     {
@@ -7788,28 +7401,28 @@
       "type": "신용카드 과세매입과 미지급금",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 0,
+      "unpassed": 1,
       "score": 1
     },
     {
       "type": "차량 매입과 받을어음 배서양도",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 0,
+      "unpassed": 1,
       "score": 1
     },
     {
       "type": "수입 전자세금계산서와 부가세 납부",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 0,
+      "unpassed": 1,
       "score": 1
     },
     {
       "type": "소모품 과세매입과 현금 일부 지급",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 0,
+      "unpassed": 1,
       "score": 1
     },
     {
@@ -7867,86 +7480,9 @@
       "wrong": 0,
       "unpassed": 1,
       "score": 1
-    },
-    {
-      "type": "현금영수증 지출증빙 운임의 취득원가 처리",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "전자세금계산서 제품매출과 어음 수령",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "직수출 외화 외상 제품매출",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "현금영수증 미발급 현금판매(건별)",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "신용카드 과세매입과 복리후생비(제)",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "거래처 선물 구입 매입세액 불공제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "원재료 과세매입과 현금·외상 혼합결제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "거래처 접대용 선물 매입세액 불공제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "토지·건물 일괄취득과 계약금 대체",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "거래처 증정 제품의 개인적 공급",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "원재료 매입과 받을어음 배서양도",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
     }
   ],
-  "catalogAt": "2026-09-21T09:46:08.963Z",
+  "catalogAt": "2026-09-21T09:46:25.364Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -8397,9 +7933,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-21T09:46:08.963Z",
+  "syncedAt": "2026-09-21T09:46:25.364Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
+    "name": "모바일"
   }
 }
