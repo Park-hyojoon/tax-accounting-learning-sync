@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-21T14:34:38.142Z",
+  "exportedAt": "2026-09-22T08:07:14.878Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-21T14:34:38.137Z",
+      "updatedAt": "2026-09-22T08:07:14.863Z",
       "cards": {
         "0": {
           "rows": [],
@@ -1728,7 +1728,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-21T14:34:38.140Z",
+      "updatedAt": "2026-09-22T08:07:14.873Z",
       "cards": {
         "0": {
           "voucher": {
@@ -5868,8 +5868,8 @@
       "title": "만기 전 받을어음 할인(103회 1번)",
       "type": "받을어음 할인(매각거래)",
       "registered": "2026-09-19",
-      "attempts": 1,
-      "wrong": 1,
+      "attempts": 2,
+      "wrong": 2,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -5894,8 +5894,8 @@
       "title": "정기예금 만기 해지 입금(103회 3번)",
       "type": "정기예금 만기 해지와 선납세금",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6011,6 +6011,227 @@
       "title": "연말 불우이웃돕기 성금 지급(104회 6번)",
       "type": "불우이웃돕기 성금",
       "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 30,
+      "title": "영업부 사무실 유리창 교체 대금 지급(105회 1번)",
+      "type": "수익적 지출과 당좌수표 발행",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 31,
+      "title": "외상매출금 조기 회수와 할인(105회 2번)",
+      "type": "외상매출금 조기 회수와 매출할인",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 32,
+      "title": "보통주 유상 발행과 신주 발행비(105회 3번)",
+      "type": "유상증자 신주발행비와 주식발행초과금",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 33,
+      "title": "수입 원재료 관세와 통관수수료 이체(105회 5번)",
+      "type": "수입 원재료 관세와 통관수수료",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 34,
+      "title": "제품홍보물 제작비용 국민카드 결제(105회 6번)",
+      "type": "광고선전비 카드 결제와 미지급금",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 35,
+      "title": "거래처 파산 단기대여금 대손 처리(105회 7번)",
+      "type": "단기대여금 대손과 기타의대손상각비",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 36,
+      "title": "외화장기차입금 일부 상환(103회)",
+      "type": "외화장기차입금 상환과 외환차손",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 37,
+      "title": "미지급 중간배당금 지급(103회)",
+      "type": "중간배당금 지급과 원천징수",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 38,
+      "title": "외상매출금의 현금·어음 회수(103회)",
+      "type": "외상매출금 현금·받을어음 회수",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 39,
+      "title": "단기매매증권의 현금배당 수령(110회)",
+      "type": "단기매매증권의 현금배당과 주식배당",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 40,
+      "title": "기계장치 매각대금 당좌수표 회수(110회)",
+      "type": "자산 매각 미수금의 당좌수표 회수",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 41,
+      "title": "수출 외상매출금 회수와 환율 상승(110회)",
+      "type": "수출 외상매출금 회수와 외환차익",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 42,
+      "title": "운영자금 이자 원천징수 누락 정정(107회)",
+      "type": "차입이자 원천징수 누락 수정",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 43,
+      "title": "임시 보관창고 보증금 계정 정정(107회)",
+      "type": "임대보증금 계정 수정",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 44,
+      "title": "외화 단기차입금 환산손실 인식(107회)",
+      "type": "외화단기차입금 결산환산",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 45,
+      "title": "미사용 홍보물의 소모품 대체(107회)",
+      "type": "미사용 홍보용 소모품 결산정리",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 46,
+      "title": "특허권 당기 정액법 상각(107회)",
+      "type": "특허권 정액법 상각",
+      "registered": "2026-09-21",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -6512,6 +6733,32 @@
       "archived": false
     },
     {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam122-nonoperating-expense-total-variant",
+      "title": "비용 항목별 영업외비용 합계",
+      "type": "영업외비용 분류와 합계",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "exam122-inventory-lower-of-cost-variant",
+      "title": "저가법 적용 후 재고자산별 기말평가액",
+      "type": "재고자산 저가법 평가",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
       "source": "voucher",
       "category": "매입매출전표",
       "id": 0,
@@ -6700,9 +6947,9 @@
       "title": "기계장치 원상회복 카드 결제(103회 1번)",
       "type": "신용카드 과세매입과 미지급금",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6713,9 +6960,9 @@
       "title": "화물자동차 매입과 어음 배서 지급(103회 2번)",
       "type": "차량 매입과 받을어음 배서양도",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6726,9 +6973,9 @@
       "title": "수입전자세금계산서 부가세 이체(103회 3번)",
       "type": "수입 전자세금계산서와 부가세 납부",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6739,9 +6986,9 @@
       "title": "제조부문 안전용품 구입(103회 4번)",
       "type": "소모품 과세매입과 현금 일부 지급",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6848,6 +7095,149 @@
       "passed": false,
       "selfPassed": false,
       "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 26,
+      "title": "택배 운임 지급과 현금영수증 수취(105회 1번)",
+      "type": "현금영수증 지출증빙 운임의 취득원가 처리",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 27,
+      "title": "제품 판매 전자세금계산서 발급(105회 2번)",
+      "type": "전자세금계산서 제품매출과 어음 수령",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 28,
+      "title": "해외 거래처 직수출 선적(105회 3번)",
+      "type": "직수출 외화 외상 제품매출",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 29,
+      "title": "비사업자 제품 현금판매(영수증 미발급)(105회 4번)",
+      "type": "현금영수증 미발급 현금판매(건별)",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 30,
+      "title": "생산부 직원 간식 카드 구매(105회 5번)",
+      "type": "신용카드 과세매입과 복리후생비(제)",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 31,
+      "title": "거래처 창립기념 선물용 집기비품 구입(105회 6번)",
+      "type": "거래처 선물 구입 매입세액 불공제",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 32,
+      "title": "원재료 매입대금의 현금·외상 혼합결제(103회)",
+      "type": "원재료 과세매입과 현금·외상 혼합결제",
+      "registered": "2026-09-19",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 33,
+      "title": "거래처 증정용 와인 선물세트 구입(122회)",
+      "type": "거래처 접대용 선물 매입세액 불공제",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 34,
+      "title": "본사 사무실용 토지·건물 일괄취득(110회)",
+      "type": "토지·건물 일괄취득과 계약금 대체",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 35,
+      "title": "원재료 매입처에 자사 제품 무상 제공(110회)",
+      "type": "거래처 증정 제품의 개인적 공급",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 36,
+      "title": "원재료 매입대금의 받을어음 배서 지급(110회)",
+      "type": "원재료 매입과 받을어음 배서양도",
+      "registered": "2026-09-21",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
     }
   ],
   "typeSummary": [
@@ -6864,6 +7254,13 @@
       "wrong": 3,
       "unpassed": 1,
       "score": 4
+    },
+    {
+      "type": "받을어음 할인(매각거래)",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 1,
+      "score": 3
     },
     {
       "type": "기말재고 수량 결정 방법",
@@ -6887,14 +7284,14 @@
       "score": 3
     },
     {
-      "type": "받을어음 할인(매각거래)",
+      "type": "국민연금 납부와 예수금",
       "problems": 1,
       "wrong": 1,
       "unpassed": 1,
       "score": 2
     },
     {
-      "type": "국민연금 납부와 예수금",
+      "type": "정기예금 만기 해지와 선납세금",
       "problems": 1,
       "wrong": 1,
       "unpassed": 1,
@@ -7076,13 +7473,6 @@
       "score": 1
     },
     {
-      "type": "정기예금 만기 해지와 선납세금",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "유상증자와 주식할인발행차금",
       "problems": 1,
       "wrong": 0,
@@ -7140,6 +7530,125 @@
     },
     {
       "type": "불우이웃돕기 성금",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "수익적 지출과 당좌수표 발행",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "외상매출금 조기 회수와 매출할인",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "유상증자 신주발행비와 주식발행초과금",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "수입 원재료 관세와 통관수수료",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "광고선전비 카드 결제와 미지급금",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "단기대여금 대손과 기타의대손상각비",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "외화장기차입금 상환과 외환차손",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "중간배당금 지급과 원천징수",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "외상매출금 현금·받을어음 회수",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "단기매매증권의 현금배당과 주식배당",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "자산 매각 미수금의 당좌수표 회수",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "수출 외상매출금 회수와 외환차익",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "차입이자 원천징수 누락 수정",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "임대보증금 계정 수정",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "외화단기차입금 결산환산",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "미사용 홍보용 소모품 결산정리",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "특허권 정액법 상각",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -7349,6 +7858,20 @@
       "score": 1
     },
     {
+      "type": "영업외비용 분류와 합계",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "재고자산 저가법 평가",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "생산부 복리후생비와 신용카드 과세매입",
       "problems": 1,
       "wrong": 0,
@@ -7401,28 +7924,28 @@
       "type": "신용카드 과세매입과 미지급금",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "차량 매입과 받을어음 배서양도",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "수입 전자세금계산서와 부가세 납부",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "소모품 과세매입과 현금 일부 지급",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -7480,9 +8003,86 @@
       "wrong": 0,
       "unpassed": 1,
       "score": 1
+    },
+    {
+      "type": "현금영수증 지출증빙 운임의 취득원가 처리",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "전자세금계산서 제품매출과 어음 수령",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "직수출 외화 외상 제품매출",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "현금영수증 미발급 현금판매(건별)",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "신용카드 과세매입과 복리후생비(제)",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "거래처 선물 구입 매입세액 불공제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "원재료 과세매입과 현금·외상 혼합결제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "거래처 접대용 선물 매입세액 불공제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "토지·건물 일괄취득과 계약금 대체",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "거래처 증정 제품의 개인적 공급",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "원재료 매입과 받을어음 배서양도",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
     }
   ],
-  "catalogAt": "2026-09-21T09:46:25.364Z",
+  "catalogAt": "2026-09-22T08:07:14.879Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -7933,9 +8533,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-21T14:34:38.142Z",
+  "syncedAt": "2026-09-22T08:07:14.879Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
+    "name": "모바일"
   }
 }
