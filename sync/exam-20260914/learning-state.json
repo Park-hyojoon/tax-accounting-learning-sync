@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-22T08:07:14.878Z",
+  "exportedAt": "2026-09-22T08:32:40.979Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-22T08:07:14.863Z",
+      "updatedAt": "2026-09-22T08:32:40.965Z",
       "cards": {
         "0": {
           "rows": [],
@@ -1181,6 +1181,169 @@
           "history": [],
           "passed": false,
           "archived": false
+        },
+        "39": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "fddde3b9-9f59-4e63-bea8-02467105d30d",
+              "at": "2026-09-22T08:32:03.620Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-22T08:32:03.620Z",
+          "passedAt": "2026-09-22T08:32:03.620Z"
+        },
+        "40": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "44d48500-74a9-4a4f-89b4-4ea27535b41c",
+              "at": "2026-09-22T08:30:47.601Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-22T08:30:47.601Z",
+          "passedAt": "2026-09-22T08:30:47.601Z"
+        },
+        "41": {
+          "rows": [],
+          "graded": true,
+          "correct": false,
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "ad711ee6-5f1e-4dd3-900e-ada00d533be3",
+              "at": "2026-09-22T08:25:22.368Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
+          "passed": false,
+          "archived": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-22T08:25:22.368Z"
+        },
+        "42": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "2c943eca-e8a9-47a3-924f-e124f347e970",
+              "at": "2026-09-22T08:22:19.465Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-22T08:22:19.465Z",
+          "passedAt": "2026-09-22T08:22:19.465Z"
+        },
+        "43": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "2375bc06-fb04-4796-a5cd-2c7b6180e9c3",
+              "at": "2026-09-22T08:20:49.127Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-22T08:20:49.127Z",
+          "passedAt": "2026-09-22T08:20:49.127Z"
+        },
+        "44": {
+          "rows": [],
+          "graded": true,
+          "correct": false,
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "54ce51a6-bc7f-4489-9728-bc4b7a223038",
+              "at": "2026-09-22T08:18:43.780Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
+          "passed": false,
+          "archived": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-22T08:18:43.780Z"
+        },
+        "45": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "7b79bc39-9878-4aca-adec-087a71a78d66",
+              "at": "2026-09-22T08:15:44.617Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-22T08:15:44.617Z",
+          "passedAt": "2026-09-22T08:15:44.617Z"
+        },
+        "46": {
+          "rows": [],
+          "graded": true,
+          "correct": false,
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "28dade50-ab38-4219-9c23-b827c9c74f15",
+              "at": "2026-09-22T08:19:08.657Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
+          "passed": false,
+          "archived": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-22T08:19:08.657Z"
         }
       },
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
@@ -1728,7 +1891,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-22T08:07:14.873Z",
+      "updatedAt": "2026-09-22T08:32:40.974Z",
       "cards": {
         "0": {
           "voucher": {
@@ -6141,10 +6304,10 @@
       "title": "단기매매증권의 현금배당 수령(110회)",
       "type": "단기매매증권의 현금배당과 주식배당",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6154,10 +6317,10 @@
       "title": "기계장치 매각대금 당좌수표 회수(110회)",
       "type": "자산 매각 미수금의 당좌수표 회수",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6167,8 +6330,8 @@
       "title": "수출 외상매출금 회수와 환율 상승(110회)",
       "type": "수출 외상매출금 회수와 외환차익",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6180,10 +6343,10 @@
       "title": "운영자금 이자 원천징수 누락 정정(107회)",
       "type": "차입이자 원천징수 누락 수정",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6193,10 +6356,10 @@
       "title": "임시 보관창고 보증금 계정 정정(107회)",
       "type": "임대보증금 계정 수정",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6206,8 +6369,8 @@
       "title": "외화 단기차입금 환산손실 인식(107회)",
       "type": "외화단기차입금 결산환산",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6219,10 +6382,10 @@
       "title": "미사용 홍보물의 소모품 대체(107회)",
       "type": "미사용 홍보용 소모품 결산정리",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6232,8 +6395,8 @@
       "title": "특허권 당기 정액법 상각(107회)",
       "type": "특허권 정액법 상각",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -7298,6 +7461,27 @@
       "score": 2
     },
     {
+      "type": "수출 외상매출금 회수와 외환차익",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "외화단기차입금 결산환산",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "특허권 정액법 상각",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
       "type": "이익잉여금처분계산서 구성항목",
       "problems": 1,
       "wrong": 1,
@@ -7602,56 +7786,35 @@
       "type": "단기매매증권의 현금배당과 주식배당",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "자산 매각 미수금의 당좌수표 회수",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "수출 외상매출금 회수와 외환차익",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "차입이자 원천징수 누락 수정",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "임대보증금 계정 수정",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외화단기차입금 결산환산",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "미사용 홍보용 소모품 결산정리",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "특허권 정액법 상각",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -8082,7 +8245,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-22T08:07:14.879Z",
+  "catalogAt": "2026-09-22T08:32:40.980Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -8533,7 +8696,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-22T08:07:14.879Z",
+  "syncedAt": "2026-09-22T08:32:40.980Z",
   "device": {
     "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
     "name": "모바일"
