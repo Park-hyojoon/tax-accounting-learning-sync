@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-23T10:11:01.832Z",
+  "exportedAt": "2026-09-23T10:11:19.689Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-23T10:11:01.824Z",
+      "updatedAt": "2026-09-23T10:11:19.678Z",
       "cards": {
         "0": {
           "rows": [],
@@ -157,9 +157,6 @@
           "passedAt": "2026-09-17T09:13:37.507Z"
         },
         "5": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -174,7 +171,10 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:47:44.130Z",
-          "passedAt": "2026-09-17T09:47:44.130Z"
+          "passedAt": "2026-09-17T09:47:44.130Z",
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "6": {
           "attempts": 1,
@@ -194,6 +194,20 @@
           "passedAt": "2026-09-17T09:19:25.674Z"
         },
         "7": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "timedPending": {
+            "id": "d89ded19-82e4-4927-a1a9-9c6a02d7cf82",
+            "phase": "stopped",
+            "startedMs": 1789775736109,
+            "targetSeconds": 60,
+            "assisted": false,
+            "elapsedMs": 9174,
+            "stoppedAt": "2026-09-18T23:55:45.283Z"
+          },
           "rows": [
             {
               "side": "D",
@@ -228,41 +242,27 @@
               "memo": ""
             }
           ],
-          "graded": false,
+          "graded": false
+        },
+        "8": {
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "timedPending": {
-            "id": "d89ded19-82e4-4927-a1a9-9c6a02d7cf82",
-            "phase": "stopped",
-            "startedMs": 1789775736109,
-            "targetSeconds": 60,
-            "assisted": false,
-            "elapsedMs": 9174,
-            "stoppedAt": "2026-09-18T23:55:45.283Z"
-          }
-        },
-        "8": {
           "rows": [],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "correct": false
         },
         "9": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "10": {
           "rows": [],
@@ -285,101 +285,66 @@
           "archived": false
         },
         "12": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "13": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "14": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "15": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "16": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "17": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "18": {
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            }
-          ],
-          "graded": false,
           "attempts": 2,
           "wrongCount": 2,
           "history": [
@@ -496,31 +461,28 @@
             "elapsedMs": 0,
             "stoppedAt": "2026-09-19T01:27:05.773Z"
           },
-          "matched": 1
-        },
-        "19": {
           "rows": [
             {
-              "side": "C",
-              "account": "현금",
-              "amount": "540,000",
+              "side": "D",
+              "account": "",
+              "amount": "",
               "division": "",
               "partner": "",
               "memo": ""
             },
             {
               "side": "D",
-              "account": "세금과공과",
-              "amount": "180,000",
-              "division": "제",
+              "account": "",
+              "amount": "",
+              "division": "",
               "partner": "",
               "memo": ""
             },
             {
               "side": "D",
-              "account": "세금과공과",
-              "amount": "360,000",
-              "division": "판",
+              "account": "",
+              "amount": "",
+              "division": "",
               "partner": "",
               "memo": ""
             },
@@ -533,7 +495,10 @@
               "memo": ""
             }
           ],
-          "graded": true,
+          "graded": false,
+          "matched": 1
+        },
+        "19": {
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -600,32 +565,28 @@
             "elapsedMs": 89600,
             "stoppedAt": "2026-09-19T03:41:07.279Z"
           },
-          "correct": false,
-          "matched": 2
-        },
-        "20": {
           "rows": [
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "현금",
+              "amount": "540,000",
               "division": "",
               "partner": "",
               "memo": ""
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
+              "account": "세금과공과",
+              "amount": "180,000",
+              "division": "제",
               "partner": "",
               "memo": ""
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
+              "account": "세금과공과",
+              "amount": "360,000",
+              "division": "판",
               "partner": "",
               "memo": ""
             },
@@ -638,7 +599,11 @@
               "memo": ""
             }
           ],
-          "graded": false,
+          "graded": true,
+          "correct": false,
+          "matched": 2
+        },
+        "20": {
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -705,10 +670,50 @@
             "elapsedMs": 0,
             "stoppedAt": "2026-09-19T01:29:35.736Z"
           },
-          "matched": 1,
-          "starred": false
+          "starred": false,
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            }
+          ],
+          "graded": false,
+          "matched": 1
         },
         "21": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -743,14 +748,14 @@
               "memo": ""
             }
           ],
-          "graded": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "graded": false
         },
         "22": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -785,14 +790,14 @@
               "memo": ""
             }
           ],
-          "graded": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "graded": false
         },
         "23": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -827,14 +832,14 @@
               "memo": ""
             }
           ],
-          "graded": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "graded": false
         },
         "24": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -870,14 +875,14 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "correct": false
         },
         "25": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -913,14 +918,14 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "correct": false
         },
         "26": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -956,14 +961,14 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "correct": false
         },
         "27": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -999,14 +1004,14 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "correct": false
         },
         "28": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -1042,14 +1047,14 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "correct": false
         },
         "29": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -1085,87 +1090,79 @@
             }
           ],
           "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "correct": false
         },
         "30": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "31": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "32": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "33": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "34": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "35": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "36": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "37": {
-          "rows": [],
-          "graded": true,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -1181,12 +1178,12 @@
           "selfPassed": false,
           "selfPassedAt": null,
           "trainingCenterRestored": true,
-          "restoredAt": "2026-09-23T09:22:47.055Z"
-        },
-        "38": {
+          "restoredAt": "2026-09-23T09:22:47.055Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": false
+        },
+        "38": {
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1201,12 +1198,12 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:21:31.912Z",
-          "passedAt": "2026-09-23T09:21:31.912Z"
-        },
-        "39": {
+          "passedAt": "2026-09-23T09:21:31.912Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": true
+        },
+        "39": {
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1221,12 +1218,12 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:32:03.620Z",
-          "passedAt": "2026-09-22T08:32:03.620Z"
-        },
-        "40": {
+          "passedAt": "2026-09-22T08:32:03.620Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": true
+        },
+        "40": {
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1241,12 +1238,12 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:30:47.601Z",
-          "passedAt": "2026-09-22T08:30:47.601Z"
-        },
-        "41": {
+          "passedAt": "2026-09-22T08:30:47.601Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": true
+        },
+        "41": {
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -1268,12 +1265,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:19:46.145Z",
           "restoredAt": "2026-09-22T08:25:22.368Z",
-          "passedAt": "2026-09-23T09:19:46.145Z"
-        },
-        "42": {
+          "passedAt": "2026-09-23T09:19:46.145Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": true
+        },
+        "42": {
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1288,12 +1285,12 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:22:19.465Z",
-          "passedAt": "2026-09-22T08:22:19.465Z"
-        },
-        "43": {
+          "passedAt": "2026-09-22T08:22:19.465Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": true
+        },
+        "43": {
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1308,12 +1305,12 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:20:49.127Z",
-          "passedAt": "2026-09-22T08:20:49.127Z"
-        },
-        "44": {
+          "passedAt": "2026-09-22T08:20:49.127Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": true
+        },
+        "44": {
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -1335,12 +1332,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:18:30.351Z",
           "restoredAt": "2026-09-22T08:18:43.780Z",
-          "passedAt": "2026-09-23T09:18:30.351Z"
-        },
-        "45": {
+          "passedAt": "2026-09-23T09:18:30.351Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": true
+        },
+        "45": {
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1355,12 +1352,12 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:15:44.617Z",
-          "passedAt": "2026-09-22T08:15:44.617Z"
-        },
-        "46": {
+          "passedAt": "2026-09-22T08:15:44.617Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": true
+        },
+        "46": {
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -1382,12 +1379,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:17:09.334Z",
           "restoredAt": "2026-09-22T08:19:08.657Z",
-          "passedAt": "2026-09-23T09:17:09.334Z"
-        },
-        "47": {
+          "passedAt": "2026-09-23T09:17:09.334Z",
           "rows": [],
           "graded": true,
-          "correct": false,
+          "correct": true
+        },
+        "47": {
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -1403,12 +1400,12 @@
           "selfPassed": false,
           "selfPassedAt": null,
           "trainingCenterRestored": true,
-          "restoredAt": "2026-09-23T09:13:21.115Z"
-        },
-        "48": {
+          "restoredAt": "2026-09-23T09:13:21.115Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": false
+        },
+        "48": {
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1423,12 +1420,12 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:11:40.165Z",
-          "passedAt": "2026-09-23T09:11:40.165Z"
-        },
-        "49": {
+          "passedAt": "2026-09-23T09:11:40.165Z",
           "rows": [],
           "graded": true,
-          "correct": false,
+          "correct": true
+        },
+        "49": {
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -1444,12 +1441,12 @@
           "selfPassed": false,
           "selfPassedAt": null,
           "trainingCenterRestored": true,
-          "restoredAt": "2026-09-23T09:08:20.210Z"
-        },
-        "50": {
+          "restoredAt": "2026-09-23T09:08:20.210Z",
           "rows": [],
           "graded": true,
-          "correct": true,
+          "correct": false
+        },
+        "50": {
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1464,7 +1461,10 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:05:24.294Z",
-          "passedAt": "2026-09-23T09:05:24.294Z"
+          "passedAt": "2026-09-23T09:05:24.294Z",
+          "rows": [],
+          "graded": true,
+          "correct": true
         }
       },
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
@@ -2012,7 +2012,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-23T10:11:01.829Z",
+      "updatedAt": "2026-09-23T10:11:19.685Z",
       "cards": {
         "0": {
           "voucher": {
@@ -6399,8 +6399,8 @@
       "title": "미지급 중간배당금 지급(103회)",
       "type": "중간배당금 지급과 원천징수",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6412,10 +6412,10 @@
       "title": "외상매출금의 현금·어음 회수(103회)",
       "type": "외상매출금 현금·받을어음 회수",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6451,10 +6451,10 @@
       "title": "수출 외상매출금 회수와 환율 상승(110회)",
       "type": "수출 외상매출금 회수와 외환차익",
       "registered": "2026-09-21",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6490,10 +6490,10 @@
       "title": "외화 단기차입금 환산손실 인식(107회)",
       "type": "외화단기차입금 결산환산",
       "registered": "2026-09-21",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6516,10 +6516,10 @@
       "title": "특허권 당기 정액법 상각(107회)",
       "type": "특허권 정액법 상각",
       "registered": "2026-09-21",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6529,8 +6529,8 @@
       "title": "외화 단기대여금 환산이익 인식(108회)",
       "type": "외화단기대여금 결산환산",
       "registered": "2026-09-22",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6542,10 +6542,10 @@
       "title": "외상매출금의 어음·계좌 혼합 회수(114회)",
       "type": "외상매출금의 받을어음·보통예금 회수",
       "registered": "2026-09-23",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6555,8 +6555,8 @@
       "title": "외화 장기대여금 환산이익 인식(114회)",
       "type": "외화장기대여금 결산환산",
       "registered": "2026-09-23",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6568,10 +6568,10 @@
       "title": "유상증자와 기존 주식할인발행차금 상계 ★",
       "type": "유상증자와 주식할인발행차금",
       "registered": "2026-09-23",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -7745,21 +7745,42 @@
       "score": 2
     },
     {
-      "type": "수출 외상매출금 회수와 외환차익",
+      "type": "중간배당금 지급과 원천징수",
       "problems": 1,
       "wrong": 1,
       "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "수출 외상매출금 회수와 외환차익",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
       "type": "외화단기차입금 결산환산",
       "problems": 1,
       "wrong": 1,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
       "type": "특허권 정액법 상각",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "외화단기대여금 결산환산",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "외화장기대여금 결산환산",
       "problems": 1,
       "wrong": 1,
       "unpassed": 1,
@@ -7867,7 +7888,7 @@
       "type": "유상증자와 주식할인발행차금",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 2,
+      "unpassed": 1,
       "score": 2
     },
     {
@@ -8046,17 +8067,10 @@
       "score": 1
     },
     {
-      "type": "중간배당금 지급과 원천징수",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "외상매출금 현금·받을어음 회수",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -8095,24 +8109,10 @@
       "score": 1
     },
     {
-      "type": "외화단기대여금 결산환산",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "외상매출금의 받을어음·보통예금 회수",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외화장기대여금 결산환산",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -8592,7 +8592,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-23T09:45:55.540Z",
+  "catalogAt": "2026-09-23T10:11:19.690Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -9043,9 +9043,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-23T10:11:01.832Z",
+  "syncedAt": "2026-09-23T10:11:19.690Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
+    "name": "모바일"
   }
 }
