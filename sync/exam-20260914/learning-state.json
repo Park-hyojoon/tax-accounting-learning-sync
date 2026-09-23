@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-23T08:59:41.642Z",
+  "exportedAt": "2026-09-23T09:00:29.674Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-23T08:59:41.638Z",
+      "updatedAt": "2026-09-23T09:00:29.666Z",
       "cards": {
         "0": {
           "rows": [],
@@ -1359,7 +1359,7 @@
         "exam124-moving-average-cogs-variant": "2026-09-18T09:00:33.561Z"
       },
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-20T02:10:39.240Z",
+      "updatedAt": "2026-09-22T14:21:14.731Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -1891,7 +1891,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-23T08:59:41.640Z",
+      "updatedAt": "2026-09-23T09:00:29.671Z",
       "cards": {
         "0": {
           "voucher": {
@@ -6304,10 +6304,10 @@
       "title": "단기매매증권의 현금배당 수령(110회)",
       "type": "단기매매증권의 현금배당과 주식배당",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6317,10 +6317,10 @@
       "title": "기계장치 매각대금 당좌수표 회수(110회)",
       "type": "자산 매각 미수금의 당좌수표 회수",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6330,8 +6330,8 @@
       "title": "수출 외상매출금 회수와 환율 상승(110회)",
       "type": "수출 외상매출금 회수와 외환차익",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6343,10 +6343,10 @@
       "title": "운영자금 이자 원천징수 누락 정정(107회)",
       "type": "차입이자 원천징수 누락 수정",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6356,10 +6356,10 @@
       "title": "임시 보관창고 보증금 계정 정정(107회)",
       "type": "임대보증금 계정 수정",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6369,8 +6369,8 @@
       "title": "외화 단기차입금 환산손실 인식(107회)",
       "type": "외화단기차입금 결산환산",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6382,10 +6382,10 @@
       "title": "미사용 홍보물의 소모품 대체(107회)",
       "type": "미사용 홍보용 소모품 결산정리",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6395,8 +6395,8 @@
       "title": "특허권 당기 정액법 상각(107회)",
       "type": "특허권 정액법 상각",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -7624,6 +7624,27 @@
       "score": 2
     },
     {
+      "type": "수출 외상매출금 회수와 외환차익",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "외화단기차입금 결산환산",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "특허권 정액법 상각",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
       "type": "이익잉여금처분계산서 구성항목",
       "problems": 1,
       "wrong": 1,
@@ -7921,56 +7942,35 @@
       "type": "단기매매증권의 현금배당과 주식배당",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "자산 매각 미수금의 당좌수표 회수",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "수출 외상매출금 회수와 외환차익",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "차입이자 원천징수 누락 수정",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "임대보증금 계정 수정",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외화단기차입금 결산환산",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "미사용 홍보용 소모품 결산정리",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "특허권 정액법 상각",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -8471,7 +8471,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-23T08:59:41.643Z",
+  "catalogAt": "2026-09-23T09:00:29.675Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -8922,9 +8922,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-23T08:59:41.643Z",
+  "syncedAt": "2026-09-23T09:00:29.675Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
+    "name": "모바일"
   }
 }
