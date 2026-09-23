@@ -2,12 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-23T09:00:29.674Z",
+  "exportedAt": "2026-09-23T09:23:03.002Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-23T09:00:29.666Z",
+      "updatedAt": "2026-09-23T09:23:02.988Z",
       "cards": {
         "0": {
           "rows": [],
@@ -1164,23 +1164,44 @@
         },
         "37": {
           "rows": [],
-          "graded": false,
+          "graded": true,
           "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "1fb6c1fd-c864-45f3-8490-caf6f86c3899",
+              "at": "2026-09-23T09:22:47.055Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-23T09:22:47.055Z"
         },
         "38": {
           "rows": [],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false
+          "history": [
+            {
+              "id": "fad49f4e-a993-4bb3-9767-089c4072b0b6",
+              "at": "2026-09-23T09:21:31.912Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-23T09:21:31.912Z",
+          "passedAt": "2026-09-23T09:21:31.912Z"
         },
         "39": {
           "rows": [],
@@ -1225,8 +1246,8 @@
         "41": {
           "rows": [],
           "graded": true,
-          "correct": false,
-          "attempts": 1,
+          "correct": true,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
@@ -1234,14 +1255,20 @@
               "at": "2026-09-22T08:25:22.368Z",
               "correct": false,
               "source": "notebook"
+            },
+            {
+              "id": "a1f8299d-c4b1-4fd3-a511-a8289d4aba66",
+              "at": "2026-09-23T09:19:46.145Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
-          "selfPassed": false,
-          "selfPassedAt": null,
-          "trainingCenterRestored": true,
-          "restoredAt": "2026-09-22T08:25:22.368Z"
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-23T09:19:46.145Z",
+          "restoredAt": "2026-09-22T08:25:22.368Z",
+          "passedAt": "2026-09-23T09:19:46.145Z"
         },
         "42": {
           "rows": [],
@@ -1286,8 +1313,8 @@
         "44": {
           "rows": [],
           "graded": true,
-          "correct": false,
-          "attempts": 1,
+          "correct": true,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
@@ -1295,14 +1322,20 @@
               "at": "2026-09-22T08:18:43.780Z",
               "correct": false,
               "source": "notebook"
+            },
+            {
+              "id": "b14d74dd-5494-418a-a08e-9f60e10ba0ff",
+              "at": "2026-09-23T09:18:30.351Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
-          "selfPassed": false,
-          "selfPassedAt": null,
-          "trainingCenterRestored": true,
-          "restoredAt": "2026-09-22T08:18:43.780Z"
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-23T09:18:30.351Z",
+          "restoredAt": "2026-09-22T08:18:43.780Z",
+          "passedAt": "2026-09-23T09:18:30.351Z"
         },
         "45": {
           "rows": [],
@@ -1327,13 +1360,40 @@
         "46": {
           "rows": [],
           "graded": true,
-          "correct": false,
-          "attempts": 1,
+          "correct": true,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
               "id": "28dade50-ab38-4219-9c23-b827c9c74f15",
               "at": "2026-09-22T08:19:08.657Z",
+              "correct": false,
+              "source": "notebook"
+            },
+            {
+              "id": "1490b3c8-65e2-40f8-a48e-c531194918ff",
+              "at": "2026-09-23T09:17:09.334Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-23T09:17:09.334Z",
+          "restoredAt": "2026-09-22T08:19:08.657Z",
+          "passedAt": "2026-09-23T09:17:09.334Z"
+        },
+        "47": {
+          "rows": [],
+          "graded": true,
+          "correct": false,
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "1ba3dca9-a201-4b12-af75-9f8780d0227e",
+              "at": "2026-09-23T09:13:21.115Z",
               "correct": false,
               "source": "notebook"
             }
@@ -1343,7 +1403,68 @@
           "selfPassed": false,
           "selfPassedAt": null,
           "trainingCenterRestored": true,
-          "restoredAt": "2026-09-22T08:19:08.657Z"
+          "restoredAt": "2026-09-23T09:13:21.115Z"
+        },
+        "48": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "a034879e-b7b4-4a92-8761-f0d833f10bca",
+              "at": "2026-09-23T09:11:40.165Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-23T09:11:40.165Z",
+          "passedAt": "2026-09-23T09:11:40.165Z"
+        },
+        "49": {
+          "rows": [],
+          "graded": true,
+          "correct": false,
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "06e268fd-29e5-465c-8e30-a53fd05a7132",
+              "at": "2026-09-23T09:08:20.210Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
+          "passed": false,
+          "archived": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-23T09:08:20.210Z"
+        },
+        "50": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "224bb8b3-4e01-454e-9a42-da6acf474d4b",
+              "at": "2026-09-23T09:05:24.294Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-23T09:05:24.294Z",
+          "passedAt": "2026-09-23T09:05:24.294Z"
         }
       },
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
@@ -1891,7 +2012,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-23T09:00:29.671Z",
+      "updatedAt": "2026-09-23T09:23:02.998Z",
       "cards": {
         "0": {
           "voucher": {
@@ -8922,7 +9043,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-23T09:00:29.675Z",
+  "syncedAt": "2026-09-23T09:23:03.002Z",
   "device": {
     "id": "f37847ec-00ca-4876-80b7-99b83a6c9d30",
     "name": "모바일"
