@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-23T10:14:29.855Z",
+  "exportedAt": "2026-09-25T02:36:55.598Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -37,7 +37,8 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:01:10.680Z",
-          "passedAt": "2026-09-17T09:01:10.680Z"
+          "passedAt": "2026-09-17T09:01:10.680Z",
+          "starred": false
         },
         "1": {
           "rows": [],
@@ -57,7 +58,8 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:07:22.807Z",
-          "passedAt": "2026-09-17T09:07:22.807Z"
+          "passedAt": "2026-09-17T09:07:22.807Z",
+          "starred": false
         },
         "2": {
           "rows": [
@@ -118,7 +120,8 @@
             "targetSeconds": 90,
             "assisted": false
           },
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "3": {
           "attempts": 1,
@@ -135,7 +138,8 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:12:30.296Z",
-          "passedAt": "2026-09-17T09:12:30.296Z"
+          "passedAt": "2026-09-17T09:12:30.296Z",
+          "starred": false
         },
         "4": {
           "attempts": 1,
@@ -152,7 +156,8 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:13:37.507Z",
-          "passedAt": "2026-09-17T09:13:37.507Z"
+          "passedAt": "2026-09-17T09:13:37.507Z",
+          "starred": false
         },
         "5": {
           "attempts": 1,
@@ -172,7 +177,8 @@
           "passedAt": "2026-09-17T09:47:44.130Z",
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "6": {
           "attempts": 1,
@@ -189,7 +195,8 @@
           "archived": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:19:25.674Z",
-          "passedAt": "2026-09-17T09:19:25.674Z"
+          "passedAt": "2026-09-17T09:19:25.674Z",
+          "starred": false
         },
         "7": {
           "attempts": 0,
@@ -240,7 +247,8 @@
               "memo": ""
             }
           ],
-          "graded": false
+          "graded": false,
+          "starred": false
         },
         "8": {
           "attempts": 0,
@@ -250,7 +258,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "9": {
           "attempts": 0,
@@ -260,7 +269,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "10": {
           "rows": [],
@@ -270,7 +280,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "11": {
           "rows": [],
@@ -280,7 +291,8 @@
           "wrongCount": 0,
           "history": [],
           "passed": false,
-          "archived": false
+          "archived": false,
+          "starred": false
         },
         "12": {
           "attempts": 0,
@@ -290,7 +302,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "13": {
           "attempts": 0,
@@ -300,7 +313,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "14": {
           "attempts": 0,
@@ -310,7 +324,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "15": {
           "attempts": 0,
@@ -320,7 +335,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "16": {
           "attempts": 0,
@@ -330,7 +346,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "17": {
           "attempts": 0,
@@ -340,7 +357,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "18": {
           "attempts": 2,
@@ -494,7 +512,8 @@
             }
           ],
           "graded": false,
-          "matched": 1
+          "matched": 1,
+          "starred": false
         },
         "19": {
           "attempts": 1,
@@ -599,7 +618,8 @@
           ],
           "graded": true,
           "correct": false,
-          "matched": 2
+          "matched": 2,
+          "starred": false
         },
         "20": {
           "attempts": 1,
@@ -746,7 +766,8 @@
               "memo": ""
             }
           ],
-          "graded": false
+          "graded": false,
+          "starred": false
         },
         "22": {
           "attempts": 0,
@@ -788,7 +809,8 @@
               "memo": ""
             }
           ],
-          "graded": false
+          "graded": false,
+          "starred": false
         },
         "23": {
           "attempts": 0,
@@ -830,7 +852,8 @@
               "memo": ""
             }
           ],
-          "graded": false
+          "graded": false,
+          "starred": false
         },
         "24": {
           "attempts": 0,
@@ -873,7 +896,8 @@
             }
           ],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "25": {
           "attempts": 0,
@@ -916,7 +940,8 @@
             }
           ],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "26": {
           "attempts": 0,
@@ -959,7 +984,8 @@
             }
           ],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "27": {
           "attempts": 0,
@@ -1002,7 +1028,8 @@
             }
           ],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "28": {
           "attempts": 0,
@@ -1045,7 +1072,8 @@
             }
           ],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "29": {
           "attempts": 0,
@@ -1088,7 +1116,8 @@
             }
           ],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "30": {
           "attempts": 0,
@@ -1098,7 +1127,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "31": {
           "attempts": 0,
@@ -1108,7 +1138,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "32": {
           "attempts": 0,
@@ -1118,7 +1149,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "33": {
           "attempts": 0,
@@ -1128,7 +1160,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "34": {
           "attempts": 0,
@@ -1138,7 +1171,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "35": {
           "attempts": 0,
@@ -1148,7 +1182,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "36": {
           "attempts": 0,
@@ -1158,7 +1193,8 @@
           "archived": false,
           "rows": [],
           "graded": false,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "37": {
           "attempts": 1,
@@ -1179,7 +1215,8 @@
           "restoredAt": "2026-09-23T09:22:47.055Z",
           "rows": [],
           "graded": true,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "38": {
           "attempts": 1,
@@ -1199,7 +1236,8 @@
           "passedAt": "2026-09-23T09:21:31.912Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "39": {
           "attempts": 1,
@@ -1219,7 +1257,8 @@
           "passedAt": "2026-09-22T08:32:03.620Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "40": {
           "attempts": 1,
@@ -1239,7 +1278,8 @@
           "passedAt": "2026-09-22T08:30:47.601Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "41": {
           "attempts": 2,
@@ -1266,7 +1306,8 @@
           "passedAt": "2026-09-23T09:19:46.145Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "42": {
           "attempts": 1,
@@ -1286,7 +1327,8 @@
           "passedAt": "2026-09-22T08:22:19.465Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "43": {
           "attempts": 1,
@@ -1306,7 +1348,8 @@
           "passedAt": "2026-09-22T08:20:49.127Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "44": {
           "attempts": 2,
@@ -1333,7 +1376,8 @@
           "passedAt": "2026-09-23T09:18:30.351Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "45": {
           "attempts": 1,
@@ -1353,7 +1397,8 @@
           "passedAt": "2026-09-22T08:15:44.617Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "46": {
           "attempts": 2,
@@ -1380,7 +1425,8 @@
           "passedAt": "2026-09-23T09:17:09.334Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "47": {
           "attempts": 1,
@@ -1401,7 +1447,8 @@
           "restoredAt": "2026-09-23T09:13:21.115Z",
           "rows": [],
           "graded": true,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "48": {
           "attempts": 1,
@@ -1421,7 +1468,8 @@
           "passedAt": "2026-09-23T09:11:40.165Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         },
         "49": {
           "attempts": 1,
@@ -1442,7 +1490,8 @@
           "restoredAt": "2026-09-23T09:08:20.210Z",
           "rows": [],
           "graded": true,
-          "correct": false
+          "correct": false,
+          "starred": false
         },
         "50": {
           "attempts": 1,
@@ -1462,11 +1511,12 @@
           "passedAt": "2026-09-23T09:05:24.294Z",
           "rows": [],
           "graded": true,
-          "correct": true
+          "correct": true,
+          "starred": false
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-23T10:14:29.846Z",
+      "updatedAt": "2026-09-25T02:36:55.589Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -5906,7 +5956,7 @@
         }
       },
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-23T10:14:29.851Z",
+      "updatedAt": "2026-09-25T02:36:55.595Z",
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
     }
   },
@@ -5918,10 +5968,10 @@
       "title": "영업부 차량 보험료의 결산 정리",
       "type": "보험료 기간배분과 선급비용",
       "registered": "2026-09-14",
-      "attempts": 0,
+      "attempts": 3,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -5931,10 +5981,10 @@
       "title": "장기차입금 이자의 결산 정리",
       "type": "기간경과 이자비용과 미지급비용",
       "registered": "2026-09-14",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -5944,10 +5994,10 @@
       "title": "외부기관 신제품 개발용역비 지급",
       "type": "신제품 개발비의 자산 처리",
       "registered": "2026-09-15",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -5957,10 +6007,10 @@
       "title": "도난으로 발생한 제품 수량 부족",
       "type": "비정상 재고자산감모손실",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -5970,10 +6020,10 @@
       "title": "파손으로 발생한 상품 수량 부족 (응용)",
       "type": "비정상 재고자산감모손실",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -5983,10 +6033,10 @@
       "title": "사무실 임차보증금 잔금 지급",
       "type": "임차보증금과 계약금 대체",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -5996,10 +6046,10 @@
       "title": "장기차입금 상환기일의 유동성 분류",
       "type": "장기차입금의 유동성 대체",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6152,8 +6202,8 @@
       "title": "만기 전 받을어음 할인(103회 1번)",
       "type": "받을어음 할인(매각거래)",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 2,
+      "wrong": 2,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6165,8 +6215,8 @@
       "title": "7월분 국민연금보험료 현금 납부(103회 2번)",
       "type": "국민연금 납부와 예수금",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6178,8 +6228,8 @@
       "title": "정기예금 만기 해지 입금(103회 3번)",
       "type": "정기예금 만기 해지와 선납세금",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6399,8 +6449,8 @@
       "title": "미지급 중간배당금 지급(103회)",
       "type": "중간배당금 지급과 원천징수",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6412,10 +6462,10 @@
       "title": "외상매출금의 현금·어음 회수(103회)",
       "type": "외상매출금 현금·받을어음 회수",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6425,10 +6475,10 @@
       "title": "단기매매증권의 현금배당 수령(110회)",
       "type": "단기매매증권의 현금배당과 주식배당",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6438,10 +6488,10 @@
       "title": "기계장치 매각대금 당좌수표 회수(110회)",
       "type": "자산 매각 미수금의 당좌수표 회수",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6451,10 +6501,10 @@
       "title": "수출 외상매출금 회수와 환율 상승(110회)",
       "type": "수출 외상매출금 회수와 외환차익",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6464,10 +6514,10 @@
       "title": "운영자금 이자 원천징수 누락 정정(107회)",
       "type": "차입이자 원천징수 누락 수정",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6477,10 +6527,10 @@
       "title": "임시 보관창고 보증금 계정 정정(107회)",
       "type": "임대보증금 계정 수정",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6490,10 +6540,10 @@
       "title": "외화 단기차입금 환산손실 인식(107회)",
       "type": "외화단기차입금 결산환산",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6503,10 +6553,10 @@
       "title": "미사용 홍보물의 소모품 대체(107회)",
       "type": "미사용 홍보용 소모품 결산정리",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6516,10 +6566,10 @@
       "title": "특허권 당기 정액법 상각(107회)",
       "type": "특허권 정액법 상각",
       "registered": "2026-09-21",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6529,8 +6579,8 @@
       "title": "외화 단기대여금 환산이익 인식(108회)",
       "type": "외화단기대여금 결산환산",
       "registered": "2026-09-22",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6542,10 +6592,10 @@
       "title": "외상매출금의 어음·계좌 혼합 회수(114회)",
       "type": "외상매출금의 받을어음·보통예금 회수",
       "registered": "2026-09-23",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6555,8 +6605,8 @@
       "title": "외화 장기대여금 환산이익 인식(114회)",
       "type": "외화장기대여금 결산환산",
       "registered": "2026-09-23",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6568,6 +6618,32 @@
       "title": "유상증자와 기존 주식할인발행차금 상계 ★",
       "type": "유상증자와 주식할인발행차금",
       "registered": "2026-09-23",
+      "attempts": 1,
+      "wrong": 0,
+      "passed": true,
+      "selfPassed": true,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 51,
+      "title": "외상매입금의 당좌수표 결제",
+      "type": "당좌수표 발행과 당좌차월",
+      "registered": "2026-09-24",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 52,
+      "title": "영업부 승용차 수리비 카드 결제 수정",
+      "type": "비영업용 승용차 수리비와 매입세액 불공제",
+      "registered": "2026-09-24",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -6581,10 +6657,10 @@
       "title": "회계정보의 질적 특성 판단",
       "type": "회계정보의 신뢰성 구성요소",
       "registered": "2026-09-14",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6594,9 +6670,9 @@
       "title": "유가증권 회계처리 판단",
       "type": "매도가능증권 처분손익",
       "registered": "2026-09-14",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6607,9 +6683,9 @@
       "title": "재무상태표 항목의 성격 판단",
       "type": "자산 차감항목과 충당부채",
       "registered": "2026-09-14",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6620,9 +6696,9 @@
       "title": "부가가치세의 기본 성격 판단",
       "type": "우리나라 부가가치세의 특징",
       "registered": "2026-09-14",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6633,9 +6709,9 @@
       "title": "제조지시서별 원가 배부",
       "type": "직접노무비 기준 제조간접비 배부",
       "registered": "2026-09-15",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6646,9 +6722,9 @@
       "title": "이익잉여금 처분항목 구분",
       "type": "이익잉여금처분계산서 구성항목",
       "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6659,35 +6735,9 @@
       "title": "재고자산 순실현가능가치 계산",
       "type": "재고자산 순실현가능가치",
       "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "theory",
-      "category": "이론",
-      "id": "exam124-moving-average-cogs-variant",
-      "title": "이동평균법에 따른 매출원가 계산",
-      "type": "이동평균법 상품매출원가",
-      "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
-      "archived": false
-    },
-    {
-      "source": "theory",
-      "category": "이론",
-      "id": "exam124-operating-profit-items-variant",
-      "title": "영업이익에 반영되는 비용 구분",
-      "type": "영업이익 영향 항목 구분",
-      "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6698,9 +6748,9 @@
       "title": "완성품환산량 계산방법의 차이 판단",
       "type": "평균법과 선입선출법 완성품환산량",
       "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6711,9 +6761,9 @@
       "title": "과대배부 자료를 이용한 예정배부율 계산",
       "type": "제조간접원가 예정배부율",
       "registered": "2026-09-15",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6724,9 +6774,9 @@
       "title": "역사적 원가 평가의 장단점",
       "type": "역사적 원가와 질적특성",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6737,9 +6787,9 @@
       "title": "수익 유형별 인식시점 판단",
       "type": "이자·배당금·로열티 수익 인식",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6750,9 +6800,9 @@
       "title": "상품계정을 이용한 매출원가 계산",
       "type": "실지재고조사법 매출원가 계산",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6763,10 +6813,10 @@
       "title": "연말 상품 인도와 수익의 기간귀속",
       "type": "결산일 매출 인식 누락 영향",
       "registered": "2026-09-16",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -6776,9 +6826,9 @@
       "title": "기본요금과 사용료가 결합된 원가",
       "type": "준변동원가의 원가행태",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6789,9 +6839,9 @@
       "title": "완성품 기준 정상공손과 비정상공손 계산",
       "type": "비정상공손 수량 계산",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6802,9 +6852,9 @@
       "title": "부가가치세가 과세되는 거래 판단",
       "type": "부가가치세 과세대상 범위",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6815,9 +6865,9 @@
       "title": "사업자등록 신청 장소 판단",
       "type": "부가가치세 사업자등록 절차",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6828,9 +6878,9 @@
       "title": "간이과세자의 세액공제 한도",
       "type": "간이과세자의 초과 매입세액 처리",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6841,9 +6891,9 @@
       "title": "재무제표 구성요소 정의 판단",
       "type": "재무제표 구성요소의 정의",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6854,9 +6904,9 @@
       "title": "재고 수량과 단가 결정 방법 구분",
       "type": "기말재고 수량 결정 방법",
       "registered": "2026-09-16",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 3,
+      "wrong": 2,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6867,9 +6917,9 @@
       "title": "유형자산 취득과 후속지출 판단",
       "type": "유형자산 취득원가와 감가상각",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6880,8 +6930,8 @@
       "title": "사채 할인·할증발행의 이자 흐름",
       "type": "사채 발행과 유효이자율법",
       "registered": "2026-09-16",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -6893,9 +6943,9 @@
       "title": "자본적지출 비용처리의 기간별 영향",
       "type": "자본적지출의 비용처리 오류 영향",
       "registered": "2026-09-16",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6906,9 +6956,9 @@
       "title": "조업도 변화에 따른 단위원가 판단",
       "type": "변동원가와 고정원가의 행태",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6919,9 +6969,9 @@
       "title": "공정초 투입 재료의 완성품환산량 계산",
       "type": "평균법 재료·가공 완성품환산량",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6932,9 +6982,9 @@
       "title": "재공품과 제품 재고를 이용한 매출원가 계산",
       "type": "제조기업의 매출원가 계산",
       "registered": "2026-09-16",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6945,9 +6995,9 @@
       "title": "무형자산 상각 원칙 판단",
       "type": "무형자산 상각기간과 방법",
       "registered": "2026-09-17",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6958,9 +7008,9 @@
       "title": "품목별 저가법 평가손실 계산",
       "type": "저가법에 따른 재고자산평가손실",
       "registered": "2026-09-17",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6971,9 +7021,9 @@
       "title": "제조원가명세서 항목 구별",
       "type": "제조원가명세서 구성요소",
       "registered": "2026-09-17",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 3,
+      "wrong": 2,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6984,9 +7034,9 @@
       "title": "평균법과 선입선출법의 원가 일치 조건",
       "type": "종합원가계산 평균법과 선입선출법",
       "registered": "2026-09-17",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -6997,9 +7047,9 @@
       "title": "영세율 거래의 세금계산서 발급 판단",
       "type": "세금계산서 발급의무 면제",
       "registered": "2026-09-17",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7010,9 +7060,9 @@
       "title": "업종별 사업장 소재지 판단",
       "type": "업종별 부가가치세 사업장 범위",
       "registered": "2026-09-17",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7023,9 +7073,9 @@
       "title": "유형자산 감가상각 원칙 판단",
       "type": "유형자산 감가상각 개시시점",
       "registered": "2026-09-18",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7036,9 +7086,9 @@
       "title": "당좌자산 해당 여부 판단",
       "type": "당좌자산과 유동부채 구분",
       "registered": "2026-09-18",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7049,9 +7099,9 @@
       "title": "관련범위 안팎의 원가행태 판단",
       "type": "관련범위와 원가행태",
       "registered": "2026-09-18",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7062,9 +7112,9 @@
       "title": "선입선출법의 재료·가공 환산량 계산",
       "type": "선입선출법 재료·가공 완성품환산량",
       "registered": "2026-09-18",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7075,9 +7125,9 @@
       "title": "보조부문 원가배분법의 특징 판단",
       "type": "보조부문 원가배분 방법",
       "registered": "2026-09-18",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7088,9 +7138,9 @@
       "title": "영세율과 면세의 차이 판단",
       "type": "영세율과 면세 비교",
       "registered": "2026-09-18",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7212,16 +7262,81 @@
       "archived": false
     },
     {
+      "source": "theory",
+      "category": "이론",
+      "id": "practice-20260924-vat-direct-input",
+      "title": "과세사업 관련 매입세액공제",
+      "type": "과세사업 관련 매입세액공제",
+      "registered": "2026-09-24",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "practice-20260924-inventory-ownership",
+      "title": "기말재고 소유권과 수탁품",
+      "type": "기말재고 소유권과 수탁품",
+      "registered": "2026-09-24",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "practice-20260924-fifo-cogs",
+      "title": "선입선출법 상품매출원가",
+      "type": "선입선출법 상품매출원가",
+      "registered": "2026-09-24",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "practice-20260924-overhead-overapplied",
+      "title": "제조간접원가 과다배부와 실제발생액",
+      "type": "제조간접원가 과다배부와 실제발생액",
+      "registered": "2026-09-24",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "practice-20260924-fifo-equivalent",
+      "title": "선입선출법 가공비 완성품환산량",
+      "type": "선입선출법 가공비 완성품환산량",
+      "registered": "2026-09-24",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
       "source": "voucher",
       "category": "매입매출전표",
       "id": 0,
       "title": "제품 출고 운송비 지급",
       "type": "판매 운반비와 현금영수증 과세매입",
       "registered": "2026-09-14",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 3,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -7231,10 +7346,10 @@
       "title": "생산부 행사 기념품 구입",
       "type": "생산부 복리후생비와 신용카드 과세매입",
       "registered": "2026-09-14",
-      "attempts": 0,
+      "attempts": 2,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -7244,9 +7359,9 @@
       "title": "개인 고객에게 제품 현금판매",
       "type": "비사업자 현금판매와 현금영수증",
       "registered": "2026-09-15",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7257,9 +7372,9 @@
       "title": "대표이사 개인용 운동기구 구입",
       "type": "업무무관 지출과 매입세액 불공제",
       "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 4,
+      "wrong": 3,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7270,9 +7385,9 @@
       "title": "영업부 차량 운용리스료 결제",
       "type": "운용리스료 면세매입과 카드결제",
       "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7283,9 +7398,9 @@
       "title": "상품 입고 운송비의 입력 수정",
       "type": "상품 매입 운송비의 취득원가 처리",
       "registered": "2026-09-15",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7296,10 +7411,10 @@
       "title": "해외 거래처 제품 직수출",
       "type": "직수출 선수금 대체와 외상매출",
       "registered": "2026-09-16",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -7322,10 +7437,10 @@
       "title": "신용카드로 결제받은 제품 판매",
       "type": "신용카드 과세 제품매출과 매출채권",
       "registered": "2026-09-17",
-      "attempts": 0,
+      "attempts": 2,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -7335,8 +7450,8 @@
       "title": "지역 소방서 기증 물품 외상 구입",
       "type": "기증 목적 구입과 매입세액 불공제",
       "registered": "2026-09-17",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 3,
+      "wrong": 3,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -7348,9 +7463,9 @@
       "title": "업무용승용차 구입 전표 수정",
       "type": "비영업용 승용차 매입세액 불공제 수정",
       "registered": "2026-09-17",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 3,
+      "wrong": 2,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7400,9 +7515,9 @@
       "title": "기계장치 원상회복 카드 결제(103회 1번)",
       "type": "신용카드 과세매입과 미지급금",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7413,9 +7528,9 @@
       "title": "화물자동차 매입과 어음 배서 지급(103회 2번)",
       "type": "차량 매입과 받을어음 배서양도",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7426,9 +7541,9 @@
       "title": "수입전자세금계산서 부가세 이체(103회 3번)",
       "type": "수입 전자세금계산서와 부가세 납부",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7439,9 +7554,9 @@
       "title": "제조부문 안전용품 구입(103회 4번)",
       "type": "소모품 과세매입과 현금 일부 지급",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -7704,14 +7819,254 @@
       "passed": false,
       "selfPassed": false,
       "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 38,
+      "title": "생산 후 발생한 철스크랩 현금 판매(115회)",
+      "type": "철스크랩 현금매출과 건별 처리",
+      "registered": "2026-09-23",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 39,
+      "title": "생산부 휴게실 과일 구입(115회)",
+      "type": "공장 간식 면세 현금영수증",
+      "registered": "2026-09-23",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 40,
+      "title": "제품 판매대금 신용카드 결제(116회)",
+      "type": "신용카드 과세 제품매출과 매출채권",
+      "registered": "2026-09-23",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 41,
+      "title": "제품 판매대금의 현금·어음·외상 결제(116회)",
+      "type": "제품매출의 현금·어음·외상 혼합 회수",
+      "registered": "2026-09-23",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 42,
+      "title": "영업부 차량 운용리스료 카드 결제",
+      "type": "운용리스료 면세매입과 카드결제",
+      "registered": "2026-09-24",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
     }
   ],
   "typeSummary": [
     {
+      "type": "업무무관 지출과 매입세액 불공제",
+      "problems": 1,
+      "wrong": 3,
+      "unpassed": 0,
+      "score": 4
+    },
+    {
+      "type": "기증 목적 구입과 매입세액 불공제",
+      "problems": 1,
+      "wrong": 3,
+      "unpassed": 1,
+      "score": 4
+    },
+    {
+      "type": "받을어음 할인(매각거래)",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 1,
+      "score": 3
+    },
+    {
+      "type": "기말재고 수량 결정 방법",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 0,
+      "score": 3
+    },
+    {
+      "type": "제조원가명세서 구성요소",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 0,
+      "score": 3
+    },
+    {
+      "type": "비영업용 승용차 매입세액 불공제 수정",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 0,
+      "score": 3
+    },
+    {
+      "type": "세금계산서 발급의무 면제",
+      "problems": 2,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 3
+    },
+    {
+      "type": "운용리스료 면세매입과 카드결제",
+      "problems": 2,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 3
+    },
+    {
+      "type": "국민연금 납부와 예수금",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "정기예금 만기 해지와 선납세금",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "중간배당금 지급과 원천징수",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "수출 외상매출금 회수와 외환차익",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "외화단기차입금 결산환산",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "특허권 정액법 상각",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "외화단기대여금 결산환산",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "외화장기대여금 결산환산",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "이익잉여금처분계산서 구성항목",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "재고자산 순실현가능가치",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "평균법과 선입선출법 완성품환산량",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "결산일 매출 인식 누락 영향",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "사채 발행과 유효이자율법",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
+      "score": 2
+    },
+    {
+      "type": "자본적지출의 비용처리 오류 영향",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "판매 운반비와 현금영수증 과세매입",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "상품 매입 운송비의 취득원가 처리",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "직수출 선수금 대체와 외상매출",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
       "type": "비정상 재고자산감모손실",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 2,
+      "unpassed": 0,
       "score": 2
     },
     {
@@ -7739,49 +8094,49 @@
       "type": "유상증자와 주식할인발행차금",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 2,
+      "unpassed": 1,
       "score": 2
     },
     {
-      "type": "세금계산서 발급의무 면제",
+      "type": "신용카드 과세 제품매출과 매출채권",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 2,
+      "unpassed": 1,
       "score": 2
     },
     {
       "type": "보험료 기간배분과 선급비용",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "기간경과 이자비용과 미지급비용",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "신제품 개발비의 자산 처리",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "임차보증금과 계약금 대체",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "장기차입금의 유동성 대체",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -7814,27 +8169,6 @@
     },
     {
       "type": "단기매매증권 처분",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "받을어음 할인(매각거래)",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "국민연금 납부와 예수금",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "정기예금 만기 해지와 선납세금",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -7946,91 +8280,63 @@
       "score": 1
     },
     {
-      "type": "중간배당금 지급과 원천징수",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "외상매출금 현금·받을어음 회수",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "단기매매증권의 현금배당과 주식배당",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "자산 매각 미수금의 당좌수표 회수",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "수출 외상매출금 회수와 외환차익",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "차입이자 원천징수 누락 수정",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "임대보증금 계정 수정",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외화단기차입금 결산환산",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "미사용 홍보용 소모품 결산정리",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "특허권 정액법 상각",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외화단기대여금 결산환산",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "외상매출금의 받을어음·보통예금 회수",
       "problems": 1,
       "wrong": 0,
+      "unpassed": 0,
+      "score": 1
+    },
+    {
+      "type": "당좌수표 발행과 당좌차월",
+      "problems": 1,
+      "wrong": 0,
       "unpassed": 1,
       "score": 1
     },
     {
-      "type": "외화장기대여금 결산환산",
+      "type": "비영업용 승용차 수리비와 매입세액 불공제",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -8040,273 +8346,203 @@
       "type": "회계정보의 신뢰성 구성요소",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "매도가능증권 처분손익",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "자산 차감항목과 충당부채",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "우리나라 부가가치세의 특징",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "직접노무비 기준 제조간접비 배부",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "이익잉여금처분계산서 구성항목",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "재고자산 순실현가능가치",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "이동평균법 상품매출원가",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "영업이익 영향 항목 구분",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "평균법과 선입선출법 완성품환산량",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "제조간접원가 예정배부율",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "역사적 원가와 질적특성",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "이자·배당금·로열티 수익 인식",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "실지재고조사법 매출원가 계산",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "결산일 매출 인식 누락 영향",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "준변동원가의 원가행태",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "비정상공손 수량 계산",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "부가가치세 과세대상 범위",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "부가가치세 사업자등록 절차",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "간이과세자의 초과 매입세액 처리",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "재무제표 구성요소의 정의",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "기말재고 수량 결정 방법",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "유형자산 취득원가와 감가상각",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "사채 발행과 유효이자율법",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "자본적지출의 비용처리 오류 영향",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "변동원가와 고정원가의 행태",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "평균법 재료·가공 완성품환산량",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "제조기업의 매출원가 계산",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "무형자산 상각기간과 방법",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "저가법에 따른 재고자산평가손실",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "제조원가명세서 구성요소",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "종합원가계산 평균법과 선입선출법",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "업종별 부가가치세 사업장 범위",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "유형자산 감가상각 개시시점",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "당좌자산과 유동부채 구분",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "관련범위와 원가행태",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "선입선출법 재료·가공 완성품환산량",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "보조부문 원가배분 방법",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "영세율과 면세 비교",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -8366,7 +8602,35 @@
       "score": 1
     },
     {
-      "type": "판매 운반비와 현금영수증 과세매입",
+      "type": "과세사업 관련 매입세액공제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "기말재고 소유권과 수탁품",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "선입선출법 상품매출원가",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "제조간접원가 과다배부와 실제발생액",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "선입선출법 가공비 완성품환산량",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -8376,67 +8640,18 @@
       "type": "생산부 복리후생비와 신용카드 과세매입",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "비사업자 현금판매와 현금영수증",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "업무무관 지출과 매입세액 불공제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "운용리스료 면세매입과 카드결제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "상품 매입 운송비의 취득원가 처리",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "직수출 선수금 대체와 외상매출",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "공장 전기요금 과세매입 수정",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "신용카드 과세 제품매출과 매출채권",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "기증 목적 구입과 매입세액 불공제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "비영업용 승용차 매입세액 불공제 수정",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -8467,28 +8682,28 @@
       "type": "신용카드 과세매입과 미지급금",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "차량 매입과 받을어음 배서양도",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "수입 전자세금계산서와 부가세 납부",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "소모품 과세매입과 현금 일부 지급",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -8630,9 +8845,30 @@
       "wrong": 0,
       "unpassed": 1,
       "score": 1
+    },
+    {
+      "type": "철스크랩 현금매출과 건별 처리",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "공장 간식 면세 현금영수증",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "제품매출의 현금·어음·외상 혼합 회수",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
     }
   ],
-  "catalogAt": "2026-09-23T10:14:29.856Z",
+  "catalogAt": "2026-09-25T02:36:55.598Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -9083,7 +9319,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-23T10:14:29.856Z",
+  "syncedAt": "2026-09-25T02:36:55.598Z",
   "device": {
     "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
     "name": "모바일"
