@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-25T02:36:55.598Z",
+  "exportedAt": "2026-09-25T03:44:05.974Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1516,7 +1516,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-25T02:36:55.589Z",
+      "updatedAt": "2026-09-25T03:44:05.965Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -1530,7 +1530,7 @@
         "exam124-moving-average-cogs-variant": "2026-09-18T09:00:33.561Z"
       },
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-22T14:21:14.731Z",
+      "updatedAt": "2026-09-25T02:41:59.174Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -1546,7 +1546,10 @@
         "exam106-simplified-taxpayer-refund-variant": 2,
         "exam108-tax-invoice-exemption-variant": 2,
         "exam108-business-place-scope-variant": 3,
-        "exam108-process-costing-methods-variant": 0
+        "exam108-process-costing-methods-variant": 0,
+        "practice-20260924-vat-direct-input": 1,
+        "exam108-tax-invoice-exemption-recurrence-variant": 3,
+        "exam125-zero-rate-vs-exemption-variant": 3
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -1563,7 +1566,10 @@
         "exam106-simplified-taxpayer-refund-variant": true,
         "exam108-tax-invoice-exemption-variant": true,
         "exam108-business-place-scope-variant": true,
-        "exam108-process-costing-methods-variant": true
+        "exam108-process-costing-methods-variant": true,
+        "practice-20260924-vat-direct-input": true,
+        "exam108-tax-invoice-exemption-recurrence-variant": true,
+        "exam125-zero-rate-vs-exemption-variant": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -1589,7 +1595,7 @@
         "exam125-relevant-range-costs-variant": 1,
         "exam125-fifo-equivalent-units-variant": 1,
         "exam125-service-department-allocation-variant": 1,
-        "exam125-zero-rate-vs-exemption-variant": 1,
+        "exam125-zero-rate-vs-exemption-variant": 3,
         "exam107-financial-statement-elements-variant": 1,
         "exam107-inventory-quantity-methods-variant": 3,
         "exam107-ppe-acquisition-variant": 1,
@@ -1603,7 +1609,9 @@
         "exam108-tax-invoice-exemption-variant": 2,
         "exam108-business-place-scope-variant": 1,
         "exam108-intangible-amortization-variant": 1,
-        "exam108-process-costing-methods-variant": 1
+        "exam108-process-costing-methods-variant": 1,
+        "practice-20260924-vat-direct-input": 1,
+        "exam108-tax-invoice-exemption-recurrence-variant": 2
       },
       "history": {
         "exam121-reliability-variant": [
@@ -1794,6 +1802,17 @@
             "at": "2026-09-18T08:38:02.541Z",
             "choice": 3,
             "correct": true
+          },
+          {
+            "id": "1cd635bb-0fe8-4147-aeee-bb34a9e9cf7e",
+            "at": "2026-09-25T02:41:57.242Z",
+            "correct": true,
+            "source": "notebook"
+          },
+          {
+            "at": "2026-09-25T02:41:59.174Z",
+            "choice": 3,
+            "correct": true
           }
         ],
         "exam107-financial-statement-elements-variant": [
@@ -1923,6 +1942,25 @@
             "choice": 0,
             "correct": true
           }
+        ],
+        "practice-20260924-vat-direct-input": [
+          {
+            "at": "2026-09-25T02:37:56.987Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "exam108-tax-invoice-exemption-recurrence-variant": [
+          {
+            "at": "2026-09-25T02:38:36.553Z",
+            "choice": 1,
+            "correct": false
+          },
+          {
+            "at": "2026-09-25T02:39:13.739Z",
+            "choice": 3,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -1963,7 +2001,9 @@
         "exam108-tax-invoice-exemption-variant": true,
         "exam108-business-place-scope-variant": true,
         "exam108-intangible-amortization-variant": true,
-        "exam108-process-costing-methods-variant": true
+        "exam108-process-costing-methods-variant": true,
+        "practice-20260924-vat-direct-input": true,
+        "exam108-tax-invoice-exemption-recurrence-variant": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -2003,7 +2043,9 @@
         "exam108-tax-invoice-exemption-variant": false,
         "exam108-business-place-scope-variant": false,
         "exam108-intangible-amortization-variant": false,
-        "exam108-process-costing-methods-variant": false
+        "exam108-process-costing-methods-variant": false,
+        "practice-20260924-vat-direct-input": false,
+        "exam108-tax-invoice-exemption-recurrence-variant": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -2029,7 +2071,7 @@
         "exam125-relevant-range-costs-variant": "2026-09-18T08:08:46.622Z",
         "exam125-fifo-equivalent-units-variant": "2026-09-18T08:36:05.024Z",
         "exam125-service-department-allocation-variant": "2026-09-18T08:37:05.349Z",
-        "exam125-zero-rate-vs-exemption-variant": "2026-09-18T08:38:02.541Z",
+        "exam125-zero-rate-vs-exemption-variant": "2026-09-25T02:41:59.174Z",
         "exam107-financial-statement-elements-variant": "2026-09-18T08:39:48.533Z",
         "exam107-ppe-acquisition-variant": "2026-09-18T08:45:39.783Z",
         "exam108-inventory-lower-cost-nrv-variant": "2026-09-18T08:51:20.505Z",
@@ -2042,7 +2084,9 @@
         "exam107-inventory-quantity-methods-variant": "2026-09-20T02:06:30.309Z",
         "exam107-capital-expenditure-error-variant": "2026-09-20T02:07:34.242Z",
         "exam108-intangible-amortization-variant": "2026-09-20T02:07:56.041Z",
-        "exam108-process-costing-methods-variant": "2026-09-20T02:08:53.172Z"
+        "exam108-process-costing-methods-variant": "2026-09-20T02:08:53.172Z",
+        "practice-20260924-vat-direct-input": "2026-09-25T02:37:56.987Z",
+        "exam108-tax-invoice-exemption-recurrence-variant": "2026-09-25T02:39:13.739Z"
       },
       "archivedAt": {},
       "trainingCenterRestored": {},
@@ -5956,7 +6000,7 @@
         }
       },
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-25T02:36:55.595Z",
+      "updatedAt": "2026-09-25T03:44:05.972Z",
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
     }
   },
@@ -9319,7 +9363,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-25T02:36:55.598Z",
+  "syncedAt": "2026-09-25T03:44:05.974Z",
   "device": {
     "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
     "name": "모바일"
