@@ -2,10 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-26T02:38:48.570Z",
+  "exportedAt": "2026-09-26T05:00:54.213Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
+      "startedAt": "2026-09-14T13:49:18.363Z",
+      "updatedAt": "2026-09-26T05:00:54.193Z",
       "cards": {
         "0": {
           "rows": [],
@@ -112,6 +114,7 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-15T06:40:04.163Z",
           "passedAt": "2026-09-15T06:40:04.163Z",
+          "starred": false,
           "timedPending": {
             "id": "2f722cf6-d08f-4d60-8a57-938025939846",
             "phase": "running",
@@ -120,8 +123,7 @@
             "targetSeconds": 90,
             "assisted": false
           },
-          "correct": true,
-          "starred": false
+          "correct": true
         },
         "3": {
           "attempts": 1,
@@ -160,6 +162,9 @@
           "starred": false
         },
         "5": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -175,9 +180,6 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:47:44.130Z",
           "passedAt": "2026-09-17T09:47:44.130Z",
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "6": {
@@ -199,20 +201,6 @@
           "starred": false
         },
         "7": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
-          "timedPending": {
-            "id": "d89ded19-82e4-4927-a1a9-9c6a02d7cf82",
-            "phase": "stopped",
-            "startedMs": 1789775736109,
-            "targetSeconds": 60,
-            "assisted": false,
-            "elapsedMs": 9174,
-            "stoppedAt": "2026-09-18T23:55:45.283Z"
-          },
           "rows": [
             {
               "side": "D",
@@ -248,28 +236,42 @@
             }
           ],
           "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "timedPending": {
+            "id": "d89ded19-82e4-4927-a1a9-9c6a02d7cf82",
+            "phase": "stopped",
+            "startedMs": 1789775736109,
+            "targetSeconds": 60,
+            "assisted": false,
+            "elapsedMs": 9174,
+            "stoppedAt": "2026-09-18T23:55:45.283Z"
+          },
           "starred": false
         },
         "8": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "9": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "10": {
@@ -295,72 +297,107 @@
           "starred": false
         },
         "12": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "13": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "14": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "15": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "16": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "17": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "18": {
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "amount": "",
+              "division": "",
+              "partner": "",
+              "memo": ""
+            }
+          ],
+          "graded": false,
           "attempts": 2,
           "wrongCount": 2,
           "history": [
@@ -477,28 +514,32 @@
             "elapsedMs": 0,
             "stoppedAt": "2026-09-19T01:27:05.773Z"
           },
+          "matched": 1,
+          "starred": false
+        },
+        "19": {
           "rows": [
             {
-              "side": "D",
-              "account": "",
-              "amount": "",
+              "side": "C",
+              "account": "현금",
+              "amount": "540,000",
               "division": "",
               "partner": "",
               "memo": ""
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
+              "account": "세금과공과",
+              "amount": "180,000",
+              "division": "제",
               "partner": "",
               "memo": ""
             },
             {
               "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
+              "account": "세금과공과",
+              "amount": "360,000",
+              "division": "판",
               "partner": "",
               "memo": ""
             },
@@ -511,11 +552,7 @@
               "memo": ""
             }
           ],
-          "graded": false,
-          "matched": 1,
-          "starred": false
-        },
-        "19": {
+          "graded": true,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -582,28 +619,33 @@
             "elapsedMs": 89600,
             "stoppedAt": "2026-09-19T03:41:07.279Z"
           },
+          "correct": false,
+          "matched": 2,
+          "starred": false
+        },
+        "20": {
           "rows": [
             {
-              "side": "C",
-              "account": "현금",
-              "amount": "540,000",
+              "side": "D",
+              "account": "",
+              "amount": "",
               "division": "",
               "partner": "",
               "memo": ""
             },
             {
               "side": "D",
-              "account": "세금과공과",
-              "amount": "180,000",
-              "division": "제",
+              "account": "",
+              "amount": "",
+              "division": "",
               "partner": "",
               "memo": ""
             },
             {
               "side": "D",
-              "account": "세금과공과",
-              "amount": "360,000",
-              "division": "판",
+              "account": "",
+              "amount": "",
+              "division": "",
               "partner": "",
               "memo": ""
             },
@@ -616,12 +658,7 @@
               "memo": ""
             }
           ],
-          "graded": true,
-          "correct": false,
-          "matched": 2,
-          "starred": false
-        },
-        "20": {
+          "graded": false,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -688,7 +725,10 @@
             "elapsedMs": 0,
             "stoppedAt": "2026-09-19T01:29:35.736Z"
           },
-          "starred": false,
+          "matched": 1,
+          "starred": false
+        },
+        "21": {
           "rows": [
             {
               "side": "D",
@@ -724,57 +764,14 @@
             }
           ],
           "graded": false,
-          "matched": 1
-        },
-        "21": {
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            }
-          ],
-          "graded": false,
           "starred": false
         },
         "22": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -810,14 +807,14 @@
             }
           ],
           "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "starred": false
         },
         "23": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -853,14 +850,14 @@
             }
           ],
           "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "starred": false
         },
         "24": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -897,14 +894,14 @@
           ],
           "graded": false,
           "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "starred": false
         },
         "25": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -941,14 +938,14 @@
           ],
           "graded": false,
           "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "starred": false
         },
         "26": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -985,14 +982,14 @@
           ],
           "graded": false,
           "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "starred": false
         },
         "27": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -1029,14 +1026,14 @@
           ],
           "graded": false,
           "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "starred": false
         },
         "28": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -1073,14 +1070,14 @@
           ],
           "graded": false,
           "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "starred": false
         },
         "29": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
           "rows": [
             {
               "side": "D",
@@ -1117,86 +1114,94 @@
           ],
           "graded": false,
           "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
           "starred": false
         },
         "30": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "31": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "32": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "33": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "34": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "35": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "36": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "starred": false
         },
         "37": {
+          "rows": [],
+          "graded": true,
+          "correct": false,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -1213,12 +1218,12 @@
           "selfPassedAt": null,
           "trainingCenterRestored": true,
           "restoredAt": "2026-09-23T09:22:47.055Z",
-          "rows": [],
-          "graded": true,
-          "correct": false,
           "starred": false
         },
         "38": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1234,12 +1239,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:21:31.912Z",
           "passedAt": "2026-09-23T09:21:31.912Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "39": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1255,12 +1260,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:32:03.620Z",
           "passedAt": "2026-09-22T08:32:03.620Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "40": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1276,12 +1281,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:30:47.601Z",
           "passedAt": "2026-09-22T08:30:47.601Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "41": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -1304,12 +1309,12 @@
           "selfPassedAt": "2026-09-23T09:19:46.145Z",
           "restoredAt": "2026-09-22T08:25:22.368Z",
           "passedAt": "2026-09-23T09:19:46.145Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "42": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1325,12 +1330,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:22:19.465Z",
           "passedAt": "2026-09-22T08:22:19.465Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "43": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1346,12 +1351,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:20:49.127Z",
           "passedAt": "2026-09-22T08:20:49.127Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "44": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -1374,12 +1379,12 @@
           "selfPassedAt": "2026-09-23T09:18:30.351Z",
           "restoredAt": "2026-09-22T08:18:43.780Z",
           "passedAt": "2026-09-23T09:18:30.351Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "45": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1395,12 +1400,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-22T08:15:44.617Z",
           "passedAt": "2026-09-22T08:15:44.617Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "46": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -1423,12 +1428,12 @@
           "selfPassedAt": "2026-09-23T09:17:09.334Z",
           "restoredAt": "2026-09-22T08:19:08.657Z",
           "passedAt": "2026-09-23T09:17:09.334Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "47": {
+          "rows": [],
+          "graded": true,
+          "correct": false,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -1445,12 +1450,12 @@
           "selfPassedAt": null,
           "trainingCenterRestored": true,
           "restoredAt": "2026-09-23T09:13:21.115Z",
-          "rows": [],
-          "graded": true,
-          "correct": false,
           "starred": false
         },
         "48": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1466,12 +1471,12 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:11:40.165Z",
           "passedAt": "2026-09-23T09:11:40.165Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "49": {
+          "rows": [],
+          "graded": true,
+          "correct": false,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -1488,12 +1493,12 @@
           "selfPassedAt": null,
           "trainingCenterRestored": true,
           "restoredAt": "2026-09-23T09:08:20.210Z",
-          "rows": [],
-          "graded": true,
-          "correct": false,
           "starred": false
         },
         "50": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1509,9 +1514,6 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-23T09:05:24.294Z",
           "passedAt": "2026-09-23T09:05:24.294Z",
-          "rows": [],
-          "graded": true,
-          "correct": true,
           "starred": false
         },
         "51": {
@@ -1526,9 +1528,6 @@
           "starred": false
         },
         "52": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 2,
           "wrongCount": 0,
           "history": [
@@ -1548,13 +1547,14 @@
           "passed": true,
           "archived": false,
           "starred": false,
+          "correct": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-25T03:50:13.642Z",
-          "passedAt": "2026-09-25T03:50:13.642Z"
+          "passedAt": "2026-09-25T03:50:13.642Z",
+          "graded": false,
+          "rows": []
         }
       },
-      "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-26T02:38:48.557Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -1568,7 +1568,7 @@
         "exam124-moving-average-cogs-variant": "2026-09-18T09:00:33.561Z"
       },
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-25T04:22:33.037Z",
+      "updatedAt": "2026-09-26T03:08:04.339Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -1593,7 +1593,9 @@
         "exam122-nonoperating-expense-total-variant": 2,
         "practice-20260924-fifo-equivalent": 2,
         "practice-20260924-overhead-overapplied": 0,
-        "exam113-total-manufacturing-cost-accrual-wages-variant": 2
+        "exam113-total-manufacturing-cost-accrual-wages-variant": 2,
+        "practice-20260926-income-statement-principles": 2,
+        "practice-20260924-inventory-ownership": 0
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -1619,7 +1621,9 @@
         "exam122-nonoperating-expense-total-variant": true,
         "practice-20260924-fifo-equivalent": true,
         "practice-20260924-overhead-overapplied": true,
-        "exam113-total-manufacturing-cost-accrual-wages-variant": true
+        "exam113-total-manufacturing-cost-accrual-wages-variant": true,
+        "practice-20260926-income-statement-principles": true,
+        "practice-20260924-inventory-ownership": false
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -1663,12 +1667,13 @@
         "practice-20260924-vat-direct-input": 2,
         "exam108-tax-invoice-exemption-recurrence-variant": 3,
         "practice-20260924-fifo-cogs": 1,
-        "practice-20260924-inventory-ownership": 1,
+        "practice-20260924-inventory-ownership": 2,
         "exam122-inventory-lower-of-cost-variant": 1,
         "exam122-nonoperating-expense-total-variant": 1,
         "practice-20260924-fifo-equivalent": 1,
         "practice-20260924-overhead-overapplied": 1,
-        "exam113-total-manufacturing-cost-accrual-wages-variant": 1
+        "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
+        "practice-20260926-income-statement-principles": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -2041,6 +2046,11 @@
             "at": "2026-09-25T04:05:01.004Z",
             "choice": 0,
             "correct": false
+          },
+          {
+            "at": "2026-09-26T03:08:04.339Z",
+            "choice": 0,
+            "correct": false
           }
         ],
         "exam122-inventory-lower-of-cost-variant": [
@@ -2074,6 +2084,13 @@
         "exam113-total-manufacturing-cost-accrual-wages-variant": [
           {
             "at": "2026-09-25T04:20:29.768Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "practice-20260926-income-statement-principles": [
+          {
+            "at": "2026-09-26T02:50:37.961Z",
             "choice": 2,
             "correct": true
           }
@@ -2126,7 +2143,8 @@
         "exam122-nonoperating-expense-total-variant": true,
         "practice-20260924-fifo-equivalent": true,
         "practice-20260924-overhead-overapplied": true,
-        "exam113-total-manufacturing-cost-accrual-wages-variant": true
+        "exam113-total-manufacturing-cost-accrual-wages-variant": true,
+        "practice-20260926-income-statement-principles": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -2175,7 +2193,8 @@
         "exam122-nonoperating-expense-total-variant": false,
         "practice-20260924-fifo-equivalent": false,
         "practice-20260924-overhead-overapplied": false,
-        "exam113-total-manufacturing-cost-accrual-wages-variant": false
+        "exam113-total-manufacturing-cost-accrual-wages-variant": false,
+        "practice-20260926-income-statement-principles": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -2222,10 +2241,13 @@
         "exam122-nonoperating-expense-total-variant": "2026-09-25T04:06:56.325Z",
         "practice-20260924-fifo-equivalent": "2026-09-25T04:13:02.373Z",
         "practice-20260924-overhead-overapplied": "2026-09-25T04:14:17.688Z",
-        "exam113-total-manufacturing-cost-accrual-wages-variant": "2026-09-25T04:20:29.768Z"
+        "exam113-total-manufacturing-cost-accrual-wages-variant": "2026-09-25T04:20:29.768Z",
+        "practice-20260926-income-statement-principles": "2026-09-26T02:50:37.961Z"
       },
       "archivedAt": {},
-      "trainingCenterRestored": {},
+      "trainingCenterRestored": {
+        "practice-20260924-inventory-ownership": true
+      },
       "starred": {},
       "starredAt": {},
       "fileName": "이론_새학습_학습기록_2026-09-14",
@@ -2238,11 +2260,13 @@
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
         "exam106-sales-cutoff-variant": "2026-09-16T22:40:29.905Z"
       },
-      "restoredAt": {}
+      "restoredAt": {
+        "practice-20260924-inventory-ownership": "2026-09-26T03:08:04.339Z"
+      }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-26T02:38:48.565Z",
+      "updatedAt": "2026-09-26T05:00:54.207Z",
       "cards": {
         "0": {
           "voucher": {
@@ -7144,7 +7168,7 @@
               "account": "미지급금",
               "accountCode": "",
               "accountValue": "미지급금|",
-              "amount": "920,000",
+              "amount": "NaN",
               "division": "",
               "summary": "운용리스료",
               "autoRole": "counter"
@@ -7154,7 +7178,7 @@
               "account": "임차료",
               "accountCode": "",
               "accountValue": "임차료|판",
-              "amount": "920,000",
+              "amount": "NaN",
               "division": "판",
               "summary": "운용리스료",
               "autoRole": "base"
@@ -7198,10 +7222,93 @@
             "deductReason": ""
           },
           "graded": false
+        },
+        "43": {
+          "voucher": {
+            "deleted": false,
+            "date": "2025-11-17",
+            "trade": "purchase",
+            "type": "54.불공",
+            "item": "견과류 선물세트",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "150,000",
+            "vat": "15,000",
+            "supplier": "㈜청명",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompany": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "D",
+              "account": "원재료",
+              "accountCode": "",
+              "accountValue": "원재료|",
+              "amount": "165,000",
+              "division": "",
+              "summary": "견과류 선물세트",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
     }
+  },
+  "uiSettings": {
+    "menuOrder": [
+      "special",
+      "theory",
+      "practical",
+      "voucher",
+      "concepts"
+    ],
+    "hiddenMenuIds": [
+      "timed",
+      "home",
+      "analysis"
+    ],
+    "updatedAt": "2026-09-26T05:00:38.509Z"
   },
   "catalog": [
     {
@@ -7887,10 +7994,10 @@
       "title": "영업부 승용차 수리비 카드 결제 수정",
       "type": "비영업용 승용차 수리비와 매입세액 불공제",
       "registered": "2026-09-24",
-      "attempts": 0,
+      "attempts": 2,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8446,9 +8553,9 @@
       "title": "비용 항목별 영업외비용 합계",
       "type": "영업외비용 분류와 합계",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -8459,9 +8566,9 @@
       "title": "저가법 적용 후 재고자산별 기말평가액",
       "type": "재고자산 저가법 평가",
       "registered": "2026-09-21",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -8550,9 +8657,9 @@
       "title": "미지급임금을 반영한 당기총제조원가",
       "type": "발생주의 노무원가와 당기총제조원가",
       "registered": "2026-09-22",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -8576,8 +8683,8 @@
       "title": "기말재고 소유권과 수탁품",
       "type": "기말재고 소유권과 수탁품",
       "registered": "2026-09-24",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 2,
+      "wrong": 2,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -8589,9 +8696,9 @@
       "title": "선입선출법 상품매출원가",
       "type": "선입선출법 상품매출원가",
       "registered": "2026-09-24",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -8602,9 +8709,9 @@
       "title": "제조간접원가 과다배부와 실제발생액",
       "type": "제조간접원가 과다배부와 실제발생액",
       "registered": "2026-09-24",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -8615,9 +8722,9 @@
       "title": "선입선출법 가공비 완성품환산량",
       "type": "선입선출법 가공비 완성품환산량",
       "registered": "2026-09-24",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -8628,9 +8735,9 @@
       "title": "손익계산서 작성기준 구별",
       "type": "손익계산서 작성기준",
       "registered": "2026-09-26",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -8784,10 +8891,10 @@
       "title": "거래처 증정용 선물세트 외상 구입",
       "type": "접대용 선물 매입세액 불공제",
       "registered": "2026-09-18",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 4,
+      "wrong": 3,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8888,9 +8995,9 @@
       "title": "매출처 야유회 증정 음료수 구입(103회 6번)",
       "type": "기업업무추진비 매입세액 불공제",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -8914,9 +9021,9 @@
       "title": "공장부지 취득 중개수수료 지급(104회 2번)",
       "type": "토지 중개수수료 매입세액 불공제",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9044,10 +9151,10 @@
       "title": "거래처 창립기념 선물용 집기비품 구입(105회 6번)",
       "type": "거래처 선물 구입 매입세액 불공제",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -9070,10 +9177,10 @@
       "title": "거래처 증정용 와인 선물세트 구입(122회)",
       "type": "거래처 접대용 선물 매입세액 불공제",
       "registered": "2026-09-21",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -9230,6 +9337,13 @@
       "score": 4
     },
     {
+      "type": "접대용 선물 매입세액 불공제",
+      "problems": 1,
+      "wrong": 3,
+      "unpassed": 0,
+      "score": 4
+    },
+    {
       "type": "받을어음 할인(매각거래)",
       "problems": 1,
       "wrong": 2,
@@ -9251,6 +9365,13 @@
       "score": 3
     },
     {
+      "type": "기말재고 소유권과 수탁품",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 1,
+      "score": 3
+    },
+    {
       "type": "비영업용 승용차 매입세액 불공제 수정",
       "problems": 1,
       "wrong": 2,
@@ -9268,7 +9389,7 @@
       "type": "거래처 접대용 선물 매입세액 불공제",
       "problems": 2,
       "wrong": 1,
-      "unpassed": 2,
+      "unpassed": 1,
       "score": 3
     },
     {
@@ -9385,6 +9506,27 @@
     },
     {
       "type": "직수출 선수금 대체와 외상매출",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "기업업무추진비 매입세액 불공제",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "토지 중개수수료 매입세액 불공제",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "거래처 선물 구입 매입세액 불공제",
       "problems": 1,
       "wrong": 1,
       "unpassed": 0,
@@ -9667,7 +9809,7 @@
       "type": "비영업용 승용차 수리비와 매입세액 불공제",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -9884,14 +10026,14 @@
       "type": "영업외비용 분류와 합계",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "재고자산 저가법 평가",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -9933,7 +10075,7 @@
       "type": "발생주의 노무원가와 당기총제조원가",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -9944,38 +10086,31 @@
       "score": 1
     },
     {
-      "type": "기말재고 소유권과 수탁품",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "선입선출법 상품매출원가",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "제조간접원가 과다배부와 실제발생액",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "선입선출법 가공비 완성품환산량",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "손익계산서 작성기준",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -9994,13 +10129,6 @@
     },
     {
       "type": "공장 전기요금 과세매입 수정",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "접대용 선물 매입세액 불공제",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -10056,21 +10184,7 @@
       "score": 1
     },
     {
-      "type": "기업업무추진비 매입세액 불공제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "면세 전자계산서 매입과 기업업무추진비",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "토지 중개수수료 매입세액 불공제",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -10140,13 +10254,6 @@
       "score": 1
     },
     {
-      "type": "거래처 선물 구입 매입세액 불공제",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "원재료 과세매입과 현금·외상 혼합결제",
       "problems": 1,
       "wrong": 0,
@@ -10203,7 +10310,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-26T02:38:48.571Z",
+  "catalogAt": "2026-09-26T05:00:54.214Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -10654,9 +10761,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-26T02:38:48.571Z",
+  "syncedAt": "2026-09-26T05:00:54.214Z",
   "device": {
-    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
-    "name": "모바일"
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "name": "PC"
   }
 }
