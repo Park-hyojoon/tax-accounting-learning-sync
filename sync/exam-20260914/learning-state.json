@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-26T07:57:16.806Z",
+  "exportedAt": "2026-09-26T13:20:22.063Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -361,7 +361,7 @@
           "starred": false
         },
         "18": {
-          "attempts": 2,
+          "attempts": 3,
           "wrongCount": 2,
           "history": [
             {
@@ -463,9 +463,15 @@
               },
               "problemType": "받을어음 할인(매각거래)",
               "problemId": "exam-103-practical-18"
+            },
+            {
+              "id": "6730a797-3d46-436f-8e01-4e25b642b0f1",
+              "at": "2026-09-26T13:18:34.113Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
           "timedPending": {
             "id": "7f4ba02d-42c9-461c-8c67-ead469a4c6ed",
@@ -511,12 +517,16 @@
               "memo": ""
             }
           ],
-          "graded": false,
+          "graded": true,
           "matched": 1,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T13:18:34.113Z",
+          "passedAt": "2026-09-26T13:18:34.113Z"
         },
         "19": {
-          "attempts": 1,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
@@ -568,9 +578,15 @@
               },
               "problemType": "국민연금 납부와 예수금",
               "problemId": "exam-103-practical-19"
+            },
+            {
+              "id": "46efcecb-7edd-4929-a155-75d77c2c8f91",
+              "at": "2026-09-26T13:18:00.040Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
           "timedPending": {
             "id": "30adac72-055b-4a81-b8b2-650cd5454cb4",
@@ -617,12 +633,15 @@
             }
           ],
           "graded": true,
-          "correct": false,
+          "correct": true,
           "matched": 2,
-          "starred": false
+          "starred": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T13:18:00.040Z",
+          "passedAt": "2026-09-26T13:18:00.040Z"
         },
         "20": {
-          "attempts": 1,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
@@ -674,9 +693,15 @@
               },
               "problemType": "정기예금 만기 해지와 선납세금",
               "problemId": "exam-103-practical-20"
+            },
+            {
+              "id": "dc876c8b-33e7-44e7-89e0-df7d75ca60a5",
+              "at": "2026-09-26T13:17:45.532Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
           "timedPending": {
             "id": "b7f25fea-5f95-4c30-ada4-cd40c64804cc",
@@ -723,14 +748,25 @@
               "memo": ""
             }
           ],
-          "graded": false,
-          "matched": 1
+          "graded": true,
+          "matched": 1,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T13:17:45.532Z",
+          "passedAt": "2026-09-26T13:17:45.532Z"
         },
         "21": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "74ed5cf7-ba62-402a-b06a-b5c5bb5b12e1",
+              "at": "2026-09-26T13:11:26.725Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
           "rows": [
             {
@@ -766,8 +802,12 @@
               "memo": ""
             }
           ],
-          "graded": false,
-          "starred": false
+          "graded": true,
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T13:11:26.725Z",
+          "passedAt": "2026-09-26T13:11:26.725Z"
         },
         "22": {
           "attempts": 0,
@@ -1076,10 +1116,17 @@
           "starred": false
         },
         "29": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "777b4ae2-5fba-4895-b1ec-fde566e34a0c",
+              "at": "2026-09-26T13:06:11.745Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
           "rows": [
             {
@@ -1115,89 +1162,166 @@
               "memo": ""
             }
           ],
-          "graded": false,
-          "correct": false,
-          "starred": false
+          "graded": true,
+          "correct": true,
+          "starred": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T13:06:11.745Z",
+          "passedAt": "2026-09-26T13:06:11.745Z"
         },
         "30": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "c56ee102-ddbb-40ff-b4c5-d82ba25c6be5",
+              "at": "2026-09-26T13:05:54.462Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
           "rows": [],
-          "graded": false,
-          "correct": false,
-          "starred": false
+          "graded": true,
+          "correct": true,
+          "starred": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T13:05:54.462Z",
+          "passedAt": "2026-09-26T13:05:54.462Z"
         },
         "31": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "69b3935b-94b7-416a-8bf5-254a41ece7a6",
+              "at": "2026-09-26T13:00:06.685Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
           "passed": false,
           "archived": false,
           "rows": [],
-          "graded": false,
+          "graded": true,
           "correct": false,
-          "starred": false
+          "starred": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-26T13:00:06.685Z"
         },
         "32": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "54f534bf-05e5-447d-b4c3-7988374eb470",
+              "at": "2026-09-26T12:55:01.734Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
           "passed": false,
           "archived": false,
           "rows": [],
-          "graded": false,
+          "graded": true,
           "correct": false,
-          "starred": false
+          "starred": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-26T12:55:01.734Z"
         },
         "33": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "801452ee-fd02-4e27-a4d6-e26b196fbf68",
+              "at": "2026-09-26T12:52:31.924Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
           "rows": [],
-          "graded": false,
-          "correct": false,
-          "starred": false
+          "graded": true,
+          "correct": true,
+          "starred": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T12:52:31.924Z",
+          "passedAt": "2026-09-26T12:52:31.924Z"
         },
         "34": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "d11b0245-9f9b-4dd1-adb0-078faf7bea11",
+              "at": "2026-09-26T12:52:05.351Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
           "rows": [],
-          "graded": false,
-          "correct": false,
-          "starred": false
+          "graded": true,
+          "correct": true,
+          "starred": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T12:52:05.351Z",
+          "passedAt": "2026-09-26T12:52:05.351Z"
         },
         "35": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "115f1b9f-c8aa-497a-b222-c99c643503e3",
+              "at": "2026-09-26T12:45:25.464Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
           "passed": false,
           "archived": false,
           "rows": [],
-          "graded": false,
+          "graded": true,
           "correct": false,
-          "starred": false
+          "starred": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-26T12:45:25.464Z"
         },
         "36": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "2be82c42-44dd-4676-b9ef-77ba82d789d7",
+              "at": "2026-09-26T12:43:42.640Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
           "passed": false,
           "archived": false,
           "rows": [],
-          "graded": false,
+          "graded": true,
           "correct": false,
-          "starred": false
+          "starred": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-09-26T12:43:42.640Z"
         },
         "37": {
-          "attempts": 1,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
@@ -1205,18 +1329,24 @@
               "at": "2026-09-23T09:22:47.055Z",
               "correct": false,
               "source": "notebook"
+            },
+            {
+              "id": "46513b6d-8684-4450-9fe6-6b68e5f9d909",
+              "at": "2026-09-26T12:38:24.577Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
-          "selfPassed": false,
-          "selfPassedAt": null,
-          "trainingCenterRestored": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T12:38:24.577Z",
           "restoredAt": "2026-09-23T09:22:47.055Z",
           "rows": [],
           "graded": true,
-          "correct": false,
-          "starred": false
+          "correct": true,
+          "starred": false,
+          "passedAt": "2026-09-26T12:38:24.577Z"
         },
         "38": {
           "attempts": 1,
@@ -1429,12 +1559,18 @@
           "starred": false
         },
         "47": {
-          "attempts": 1,
-          "wrongCount": 1,
+          "attempts": 2,
+          "wrongCount": 2,
           "history": [
             {
               "id": "1ba3dca9-a201-4b12-af75-9f8780d0227e",
               "at": "2026-09-23T09:13:21.115Z",
+              "correct": false,
+              "source": "notebook"
+            },
+            {
+              "id": "e2404275-fa40-4e35-b3b4-35b2416c421c",
+              "at": "2026-09-26T12:36:34.426Z",
               "correct": false,
               "source": "notebook"
             }
@@ -1444,7 +1580,7 @@
           "selfPassed": false,
           "selfPassedAt": null,
           "trainingCenterRestored": true,
-          "restoredAt": "2026-09-23T09:13:21.115Z",
+          "restoredAt": "2026-09-26T12:36:34.426Z",
           "rows": [],
           "graded": true,
           "correct": false,
@@ -1472,12 +1608,18 @@
           "starred": false
         },
         "49": {
-          "attempts": 1,
-          "wrongCount": 1,
+          "attempts": 2,
+          "wrongCount": 2,
           "history": [
             {
               "id": "06e268fd-29e5-465c-8e30-a53fd05a7132",
               "at": "2026-09-23T09:08:20.210Z",
+              "correct": false,
+              "source": "notebook"
+            },
+            {
+              "id": "d9e02af1-c7ad-4705-8506-a7f3949aeaa7",
+              "at": "2026-09-26T12:34:20.816Z",
               "correct": false,
               "source": "notebook"
             }
@@ -1487,7 +1629,7 @@
           "selfPassed": false,
           "selfPassedAt": null,
           "trainingCenterRestored": true,
-          "restoredAt": "2026-09-23T09:08:20.210Z",
+          "restoredAt": "2026-09-26T12:34:20.816Z",
           "rows": [],
           "graded": true,
           "correct": false,
@@ -1516,14 +1658,24 @@
         },
         "51": {
           "rows": [],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "99cf9ef3-3a61-4091-bb21-0e6cad48ab40",
+              "at": "2026-09-26T12:33:04.135Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T12:33:04.135Z",
+          "passedAt": "2026-09-26T12:33:04.135Z"
         },
         "52": {
           "rows": [],
@@ -1551,16 +1703,100 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-25T03:50:13.642Z",
           "passedAt": "2026-09-25T03:50:13.642Z"
+        },
+        "53": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "0020b73d-1e25-4b00-a788-dd21e4d42a18",
+              "at": "2026-09-26T12:32:11.695Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T12:32:11.695Z",
+          "passedAt": "2026-09-26T12:32:11.695Z",
+          "starred": false
+        },
+        "54": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "6491bb23-54c9-440a-bde6-5ba4e4f9f0f4",
+              "at": "2026-09-26T12:31:28.302Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T12:31:28.302Z",
+          "passedAt": "2026-09-26T12:31:28.302Z",
+          "starred": false
+        },
+        "55": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "bfb55d53-21cc-4342-862d-d6bfca848175",
+              "at": "2026-09-26T12:30:36.220Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T12:30:36.220Z",
+          "passedAt": "2026-09-26T12:30:36.220Z",
+          "starred": false
+        },
+        "56": {
+          "rows": [],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "373a1e9d-868a-45a5-8e06-66d7074767eb",
+              "at": "2026-09-26T12:10:55.625Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T12:10:55.625Z",
+          "passedAt": "2026-09-26T12:10:55.625Z",
+          "starred": false
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-26T07:57:16.795Z",
+      "updatedAt": "2026-09-26T13:20:22.057Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-26T03:08:04.339Z",
+      "updatedAt": "2026-09-26T12:08:43.117Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -1587,7 +1823,11 @@
         "practice-20260924-overhead-overapplied": 0,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 2,
         "practice-20260926-income-statement-principles": 2,
-        "practice-20260924-inventory-ownership": 0
+        "practice-20260924-inventory-ownership": 0,
+        "exam123-overhead-allocation-recurrence-variant-20260926": 2,
+        "practice-20260926-vat-business-unit-taxation": 3,
+        "practice-20260926-step-fixed-cost": 3,
+        "exam110-ending-equity-calculation-variant": 2
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -1615,7 +1855,11 @@
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
-        "practice-20260924-inventory-ownership": false
+        "practice-20260924-inventory-ownership": false,
+        "exam123-overhead-allocation-recurrence-variant-20260926": true,
+        "practice-20260926-vat-business-unit-taxation": true,
+        "practice-20260926-step-fixed-cost": true,
+        "exam110-ending-equity-calculation-variant": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -1645,7 +1889,7 @@
         "exam107-financial-statement-elements-variant": 1,
         "exam107-inventory-quantity-methods-variant": 3,
         "exam107-ppe-acquisition-variant": 1,
-        "exam107-bond-issuance-variant": 1,
+        "exam107-bond-issuance-variant": 2,
         "exam107-capital-expenditure-error-variant": 2,
         "exam108-inventory-lower-cost-nrv-variant": 1,
         "exam107-variable-cost-behavior-variant": 1,
@@ -1659,13 +1903,23 @@
         "practice-20260924-vat-direct-input": 2,
         "exam108-tax-invoice-exemption-recurrence-variant": 3,
         "practice-20260924-fifo-cogs": 1,
-        "practice-20260924-inventory-ownership": 3,
+        "practice-20260924-inventory-ownership": 5,
         "exam122-inventory-lower-of-cost-variant": 1,
         "exam122-nonoperating-expense-total-variant": 1,
         "practice-20260924-fifo-equivalent": 1,
         "practice-20260924-overhead-overapplied": 1,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
-        "practice-20260926-income-statement-principles": 2
+        "practice-20260926-income-statement-principles": 2,
+        "exam123-overhead-allocation-recurrence-variant-20260926": 1,
+        "practice-20260926-vat-business-unit-taxation": 1,
+        "practice-20260926-step-fixed-cost": 2,
+        "practice-20260926-merchandise-profit-loss": 1,
+        "practice-20260926-ppe-characteristics": 2,
+        "exam112-investment-property-acquisition-variant": 1,
+        "exam111-relevance-characteristics-variant": 1,
+        "exam110-ending-equity-calculation-variant": 5,
+        "exam110-net-income-securities-property-variant": 1,
+        "exam110-operating-profit-transaction-variant": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -1905,6 +2159,11 @@
             "at": "2026-09-18T08:46:03.287Z",
             "choice": 2,
             "correct": false
+          },
+          {
+            "at": "2026-09-26T09:32:37.033Z",
+            "choice": 0,
+            "correct": true
           }
         ],
         "exam107-capital-expenditure-error-variant": [
@@ -2048,6 +2307,17 @@
             "at": "2026-09-26T03:08:04.339Z",
             "choice": 0,
             "correct": false
+          },
+          {
+            "id": "73a35ab7-f915-4ddc-822e-10c4509437da",
+            "at": "2026-09-26T08:55:45.138Z",
+            "correct": false,
+            "source": "notebook"
+          },
+          {
+            "at": "2026-09-26T08:56:20.095Z",
+            "choice": 1,
+            "correct": true
           }
         ],
         "exam122-inventory-lower-of-cost-variant": [
@@ -2096,6 +2366,107 @@
             "choice": 2,
             "correct": true
           }
+        ],
+        "exam123-overhead-allocation-recurrence-variant-20260926": [
+          {
+            "at": "2026-09-26T06:41:21.308Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "practice-20260926-vat-business-unit-taxation": [
+          {
+            "at": "2026-09-26T08:47:42.249Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "practice-20260926-step-fixed-cost": [
+          {
+            "at": "2026-09-26T08:48:13.776Z",
+            "choice": 2,
+            "correct": false
+          },
+          {
+            "at": "2026-09-26T08:48:17.722Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "practice-20260926-merchandise-profit-loss": [
+          {
+            "at": "2026-09-26T08:50:05.937Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "practice-20260926-ppe-characteristics": [
+          {
+            "at": "2026-09-26T08:50:35.232Z",
+            "choice": 2,
+            "correct": false
+          },
+          {
+            "at": "2026-09-26T08:55:21.215Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam112-investment-property-acquisition-variant": [
+          {
+            "at": "2026-09-26T08:57:28.165Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam111-relevance-characteristics-variant": [
+          {
+            "at": "2026-09-26T08:57:51.309Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam110-ending-equity-calculation-variant": [
+          {
+            "at": "2026-09-26T08:59:20.012Z",
+            "choice": 1,
+            "correct": false
+          },
+          {
+            "id": "88e95c4e-0597-473d-8312-ac09c0725020",
+            "at": "2026-09-26T08:59:21.185Z",
+            "correct": false,
+            "source": "notebook"
+          },
+          {
+            "at": "2026-09-26T12:07:32.431Z",
+            "choice": 0,
+            "correct": false
+          },
+          {
+            "at": "2026-09-26T12:07:39.396Z",
+            "choice": 3,
+            "correct": false
+          },
+          {
+            "at": "2026-09-26T12:08:43.117Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "exam110-net-income-securities-property-variant": [
+          {
+            "at": "2026-09-26T09:30:26.575Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "exam110-operating-profit-transaction-variant": [
+          {
+            "at": "2026-09-26T09:31:01.306Z",
+            "choice": 3,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -2126,7 +2497,7 @@
         "exam107-financial-statement-elements-variant": true,
         "exam107-inventory-quantity-methods-variant": true,
         "exam107-ppe-acquisition-variant": true,
-        "exam107-bond-issuance-variant": false,
+        "exam107-bond-issuance-variant": true,
         "exam107-capital-expenditure-error-variant": true,
         "exam108-inventory-lower-cost-nrv-variant": true,
         "exam107-variable-cost-behavior-variant": true,
@@ -2140,13 +2511,23 @@
         "practice-20260924-vat-direct-input": true,
         "exam108-tax-invoice-exemption-recurrence-variant": true,
         "practice-20260924-fifo-cogs": true,
-        "practice-20260924-inventory-ownership": false,
+        "practice-20260924-inventory-ownership": true,
         "exam122-inventory-lower-of-cost-variant": true,
         "exam122-nonoperating-expense-total-variant": true,
         "practice-20260924-fifo-equivalent": true,
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
-        "practice-20260926-income-statement-principles": true
+        "practice-20260926-income-statement-principles": true,
+        "exam123-overhead-allocation-recurrence-variant-20260926": true,
+        "practice-20260926-vat-business-unit-taxation": true,
+        "practice-20260926-step-fixed-cost": true,
+        "practice-20260926-merchandise-profit-loss": true,
+        "practice-20260926-ppe-characteristics": true,
+        "exam112-investment-property-acquisition-variant": true,
+        "exam111-relevance-characteristics-variant": true,
+        "exam110-ending-equity-calculation-variant": true,
+        "exam110-net-income-securities-property-variant": true,
+        "exam110-operating-profit-transaction-variant": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -2196,7 +2577,17 @@
         "practice-20260924-fifo-equivalent": false,
         "practice-20260924-overhead-overapplied": false,
         "exam113-total-manufacturing-cost-accrual-wages-variant": false,
-        "practice-20260926-income-statement-principles": false
+        "practice-20260926-income-statement-principles": false,
+        "exam123-overhead-allocation-recurrence-variant-20260926": false,
+        "practice-20260926-vat-business-unit-taxation": false,
+        "practice-20260926-step-fixed-cost": false,
+        "practice-20260926-merchandise-profit-loss": false,
+        "practice-20260926-ppe-characteristics": false,
+        "exam112-investment-property-acquisition-variant": false,
+        "exam111-relevance-characteristics-variant": false,
+        "exam110-ending-equity-calculation-variant": false,
+        "exam110-net-income-securities-property-variant": false,
+        "exam110-operating-profit-transaction-variant": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -2244,12 +2635,22 @@
         "practice-20260924-fifo-equivalent": "2026-09-25T04:13:02.373Z",
         "practice-20260924-overhead-overapplied": "2026-09-25T04:14:17.688Z",
         "exam113-total-manufacturing-cost-accrual-wages-variant": "2026-09-25T04:20:29.768Z",
-        "practice-20260926-income-statement-principles": "2026-09-26T02:50:37.961Z"
+        "practice-20260926-income-statement-principles": "2026-09-26T02:50:37.961Z",
+        "exam123-overhead-allocation-recurrence-variant-20260926": "2026-09-26T06:41:21.308Z",
+        "practice-20260926-vat-business-unit-taxation": "2026-09-26T08:47:42.249Z",
+        "practice-20260926-step-fixed-cost": "2026-09-26T08:48:17.722Z",
+        "practice-20260926-merchandise-profit-loss": "2026-09-26T08:50:05.937Z",
+        "practice-20260926-ppe-characteristics": "2026-09-26T08:55:21.215Z",
+        "practice-20260924-inventory-ownership": "2026-09-26T08:56:20.095Z",
+        "exam112-investment-property-acquisition-variant": "2026-09-26T08:57:28.165Z",
+        "exam111-relevance-characteristics-variant": "2026-09-26T08:57:51.309Z",
+        "exam110-net-income-securities-property-variant": "2026-09-26T09:30:26.575Z",
+        "exam110-operating-profit-transaction-variant": "2026-09-26T09:31:01.306Z",
+        "exam107-bond-issuance-variant": "2026-09-26T09:32:37.033Z",
+        "exam110-ending-equity-calculation-variant": "2026-09-26T12:08:43.117Z"
       },
       "archivedAt": {},
-      "trainingCenterRestored": {
-        "practice-20260924-inventory-ownership": true
-      },
+      "trainingCenterRestored": {},
       "starred": {},
       "starredAt": {},
       "fileName": "이론_새학습_학습기록_2026-09-14",
@@ -2271,12 +2672,15 @@
         "exam106-sales-cutoff-variant": "2026-09-16T22:40:29.905Z"
       },
       "restoredAt": {
-        "practice-20260924-inventory-ownership": "2026-09-26T03:08:04.339Z"
+        "practice-20260924-inventory-ownership": "2026-09-26T08:55:45.138Z",
+        "practice-20260926-step-fixed-cost": "2026-09-26T08:48:13.776Z",
+        "practice-20260926-ppe-characteristics": "2026-09-26T08:50:35.232Z",
+        "exam110-ending-equity-calculation-variant": "2026-09-26T12:07:39.396Z"
       }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-26T07:57:16.802Z",
+      "updatedAt": "2026-09-26T13:20:22.061Z",
       "cards": {
         "0": {
           "voucher": {
@@ -7300,6 +7704,350 @@
           "passed": false,
           "archived": false,
           "starred": false
+        },
+        "44": {
+          "attempts": 4,
+          "wrongCount": 3,
+          "history": [
+            {
+              "at": "2026-09-26T07:26:41.759Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-12-18",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,450,000",
+                "vat": "",
+                "supplier": "㈜새길캐피탈",
+                "electronic": "여",
+                "journal": "카드",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금|",
+                  "amount": "1,450,000",
+                  "division": "",
+                  "summary": "운용리스료",
+                  "autoRole": "counter"
+                },
+                {
+                  "side": "D",
+                  "account": "원재료",
+                  "accountCode": "",
+                  "accountValue": "원재료|",
+                  "amount": "1,450,000",
+                  "division": "",
+                  "summary": "운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-26T07:26:58.175Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-12-18",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,450,000",
+                "vat": "",
+                "supplier": "㈜새길캐피탈",
+                "electronic": "여",
+                "journal": "카드",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금|",
+                  "amount": "1,450,000",
+                  "division": "",
+                  "summary": "운용리스료",
+                  "autoRole": "counter"
+                },
+                {
+                  "side": "D",
+                  "account": "임차료",
+                  "accountCode": "",
+                  "accountValue": "임차료|판",
+                  "amount": "1,450,000",
+                  "division": "판",
+                  "summary": "운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-26T07:27:57.818Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-12-18",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,450,000",
+                "vat": "",
+                "supplier": "㈜새길캐피탈",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "원재료",
+                  "accountCode": "",
+                  "accountValue": "원재료|",
+                  "amount": "1,450,000",
+                  "division": "",
+                  "summary": "운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-26T07:28:29.370Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-12-18",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,450,000",
+                "vat": "",
+                "supplier": "㈜새길캐피탈",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "임차료",
+                  "accountCode": "",
+                  "accountValue": "임차료|판",
+                  "amount": "1,450,000",
+                  "division": "판",
+                  "summary": "운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급비용",
+                  "accountCode": "",
+                  "accountValue": "미지급비용|",
+                  "amount": "1,450,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "rows": [
+            {
+              "side": "D",
+              "account": "임차료",
+              "accountCode": "",
+              "accountValue": "임차료|판",
+              "amount": "1,450,000",
+              "division": "판",
+              "summary": "운용리스료",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "미지급비용",
+              "accountCode": "",
+              "accountValue": "미지급비용|",
+              "amount": "1,450,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "voucher": {
+            "deleted": false,
+            "date": "2025-12-18",
+            "trade": "purchase",
+            "type": "53.면세",
+            "item": "운용리스료",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "1,450,000",
+            "vat": "",
+            "supplier": "㈜새길캐피탈",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "graded": true,
+          "restoredAt": "2026-09-26T07:27:57.818Z",
+          "correct": true,
+          "passedAt": "2026-09-26T07:28:29.370Z"
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -10877,9 +11625,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-26T07:57:16.806Z",
+  "syncedAt": "2026-09-26T13:20:22.063Z",
   "device": {
-    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
-    "name": "모바일"
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "name": "PC"
   }
 }
