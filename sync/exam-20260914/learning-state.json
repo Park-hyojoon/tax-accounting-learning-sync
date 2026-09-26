@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-26T13:20:22.063Z",
+  "exportedAt": "2026-09-26T23:48:34.169Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1790,7 +1790,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-26T13:20:22.057Z",
+      "updatedAt": "2026-09-26T23:48:34.151Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -1824,8 +1824,8 @@
         "exam113-total-manufacturing-cost-accrual-wages-variant": 2,
         "practice-20260926-income-statement-principles": 2,
         "practice-20260924-inventory-ownership": 0,
-        "exam123-overhead-allocation-recurrence-variant-20260926": 2,
         "practice-20260926-vat-business-unit-taxation": 3,
+        "exam123-overhead-allocation-recurrence-variant-20260926": 2,
         "practice-20260926-step-fixed-cost": 3,
         "exam110-ending-equity-calculation-variant": 2
       },
@@ -1856,8 +1856,8 @@
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
         "practice-20260924-inventory-ownership": false,
-        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-vat-business-unit-taxation": true,
+        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-step-fixed-cost": true,
         "exam110-ending-equity-calculation-variant": true
       },
@@ -1910,8 +1910,8 @@
         "practice-20260924-overhead-overapplied": 1,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
         "practice-20260926-income-statement-principles": 2,
+        "practice-20260926-vat-business-unit-taxation": 2,
         "exam123-overhead-allocation-recurrence-variant-20260926": 1,
-        "practice-20260926-vat-business-unit-taxation": 1,
         "practice-20260926-step-fixed-cost": 2,
         "practice-20260926-merchandise-profit-loss": 1,
         "practice-20260926-ppe-characteristics": 2,
@@ -2367,17 +2367,22 @@
             "correct": true
           }
         ],
+        "practice-20260926-vat-business-unit-taxation": [
+          {
+            "at": "2026-09-26T07:57:55.835Z",
+            "choice": 0,
+            "correct": false
+          },
+          {
+            "at": "2026-09-26T08:47:42.249Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
         "exam123-overhead-allocation-recurrence-variant-20260926": [
           {
             "at": "2026-09-26T06:41:21.308Z",
             "choice": 2,
-            "correct": true
-          }
-        ],
-        "practice-20260926-vat-business-unit-taxation": [
-          {
-            "at": "2026-09-26T08:47:42.249Z",
-            "choice": 3,
             "correct": true
           }
         ],
@@ -2518,8 +2523,8 @@
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
-        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-vat-business-unit-taxation": true,
+        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-step-fixed-cost": true,
         "practice-20260926-merchandise-profit-loss": true,
         "practice-20260926-ppe-characteristics": true,
@@ -2578,8 +2583,8 @@
         "practice-20260924-overhead-overapplied": false,
         "exam113-total-manufacturing-cost-accrual-wages-variant": false,
         "practice-20260926-income-statement-principles": false,
-        "exam123-overhead-allocation-recurrence-variant-20260926": false,
         "practice-20260926-vat-business-unit-taxation": false,
+        "exam123-overhead-allocation-recurrence-variant-20260926": false,
         "practice-20260926-step-fixed-cost": false,
         "practice-20260926-merchandise-profit-loss": false,
         "practice-20260926-ppe-characteristics": false,
@@ -2673,6 +2678,7 @@
       },
       "restoredAt": {
         "practice-20260924-inventory-ownership": "2026-09-26T08:55:45.138Z",
+        "practice-20260926-vat-business-unit-taxation": "2026-09-26T07:57:55.835Z",
         "practice-20260926-step-fixed-cost": "2026-09-26T08:48:13.776Z",
         "practice-20260926-ppe-characteristics": "2026-09-26T08:50:35.232Z",
         "exam110-ending-equity-calculation-variant": "2026-09-26T12:07:39.396Z"
@@ -2680,7 +2686,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-26T13:20:22.061Z",
+      "updatedAt": "2026-09-26T23:48:34.162Z",
       "cards": {
         "0": {
           "voucher": {
@@ -9441,8 +9447,8 @@
       "title": "기말재고 소유권과 수탁품",
       "type": "기말재고 소유권과 수탁품",
       "registered": "2026-09-24",
-      "attempts": 2,
-      "wrong": 2,
+      "attempts": 3,
+      "wrong": 3,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -9493,7 +9499,7 @@
       "title": "손익계산서 작성기준 구별",
       "type": "손익계산서 작성기준",
       "registered": "2026-09-26",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 0,
       "passed": true,
       "selfPassed": false,
@@ -9558,8 +9564,8 @@
       "title": "사업자단위 과세제도의 적용 판단",
       "type": "부가가치세 사업자단위 과세제도",
       "registered": "2026-09-26",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -10159,6 +10165,13 @@
       "score": 5
     },
     {
+      "type": "기말재고 소유권과 수탁품",
+      "problems": 1,
+      "wrong": 3,
+      "unpassed": 1,
+      "score": 4
+    },
+    {
       "type": "업무무관 지출과 매입세액 불공제",
       "problems": 1,
       "wrong": 3,
@@ -10212,13 +10225,6 @@
       "problems": 1,
       "wrong": 2,
       "unpassed": 0,
-      "score": 3
-    },
-    {
-      "type": "기말재고 소유권과 수탁품",
-      "problems": 1,
-      "wrong": 2,
-      "unpassed": 1,
       "score": 3
     },
     {
@@ -10324,6 +10330,13 @@
       "problems": 1,
       "wrong": 1,
       "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "부가가치세 사업자단위 과세제도",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 1,
       "score": 2
     },
     {
@@ -10971,13 +10984,6 @@
       "score": 1
     },
     {
-      "type": "부가가치세 사업자단위 과세제도",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "생산부 복리후생비와 신용카드 과세매입",
       "problems": 1,
       "wrong": 0,
@@ -11174,7 +11180,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-26T07:57:16.806Z",
+  "catalogAt": "2026-09-26T23:48:34.170Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -11625,9 +11631,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-26T13:20:22.063Z",
+  "syncedAt": "2026-09-26T23:48:34.170Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
+    "name": "모바일"
   }
 }
