@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-27T07:17:48.854Z",
+  "exportedAt": "2026-09-27T08:05:42.043Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1814,7 +1814,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-27T07:17:48.840Z",
+      "updatedAt": "2026-09-27T08:05:42.037Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -1848,8 +1848,8 @@
         "exam113-total-manufacturing-cost-accrual-wages-variant": 2,
         "practice-20260926-income-statement-principles": 2,
         "practice-20260924-inventory-ownership": 0,
-        "practice-20260926-vat-business-unit-taxation": 3,
         "exam123-overhead-allocation-recurrence-variant-20260926": 2,
+        "practice-20260926-vat-business-unit-taxation": 3,
         "practice-20260926-step-fixed-cost": 3,
         "exam110-ending-equity-calculation-variant": 2
       },
@@ -1880,8 +1880,8 @@
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
         "practice-20260924-inventory-ownership": false,
-        "practice-20260926-vat-business-unit-taxation": true,
         "exam123-overhead-allocation-recurrence-variant-20260926": true,
+        "practice-20260926-vat-business-unit-taxation": true,
         "practice-20260926-step-fixed-cost": true,
         "exam110-ending-equity-calculation-variant": true
       },
@@ -1934,8 +1934,8 @@
         "practice-20260924-overhead-overapplied": 1,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
         "practice-20260926-income-statement-principles": 2,
-        "practice-20260926-vat-business-unit-taxation": 2,
         "exam123-overhead-allocation-recurrence-variant-20260926": 1,
+        "practice-20260926-vat-business-unit-taxation": 2,
         "practice-20260926-step-fixed-cost": 2,
         "practice-20260926-merchandise-profit-loss": 1,
         "practice-20260926-ppe-characteristics": 2,
@@ -2391,6 +2391,13 @@
             "correct": true
           }
         ],
+        "exam123-overhead-allocation-recurrence-variant-20260926": [
+          {
+            "at": "2026-09-26T06:41:21.308Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
         "practice-20260926-vat-business-unit-taxation": [
           {
             "at": "2026-09-26T07:57:55.835Z",
@@ -2400,13 +2407,6 @@
           {
             "at": "2026-09-26T08:47:42.249Z",
             "choice": 3,
-            "correct": true
-          }
-        ],
-        "exam123-overhead-allocation-recurrence-variant-20260926": [
-          {
-            "at": "2026-09-26T06:41:21.308Z",
-            "choice": 2,
             "correct": true
           }
         ],
@@ -2547,8 +2547,8 @@
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
-        "practice-20260926-vat-business-unit-taxation": true,
         "exam123-overhead-allocation-recurrence-variant-20260926": true,
+        "practice-20260926-vat-business-unit-taxation": true,
         "practice-20260926-step-fixed-cost": true,
         "practice-20260926-merchandise-profit-loss": true,
         "practice-20260926-ppe-characteristics": true,
@@ -2607,8 +2607,8 @@
         "practice-20260924-overhead-overapplied": false,
         "exam113-total-manufacturing-cost-accrual-wages-variant": false,
         "practice-20260926-income-statement-principles": false,
-        "practice-20260926-vat-business-unit-taxation": false,
         "exam123-overhead-allocation-recurrence-variant-20260926": false,
+        "practice-20260926-vat-business-unit-taxation": false,
         "practice-20260926-step-fixed-cost": false,
         "practice-20260926-merchandise-profit-loss": false,
         "practice-20260926-ppe-characteristics": false,
@@ -2702,15 +2702,15 @@
       },
       "restoredAt": {
         "practice-20260924-inventory-ownership": "2026-09-26T08:55:45.138Z",
-        "practice-20260926-vat-business-unit-taxation": "2026-09-26T07:57:55.835Z",
         "practice-20260926-step-fixed-cost": "2026-09-26T08:48:13.776Z",
         "practice-20260926-ppe-characteristics": "2026-09-26T08:50:35.232Z",
-        "exam110-ending-equity-calculation-variant": "2026-09-26T12:07:39.396Z"
+        "exam110-ending-equity-calculation-variant": "2026-09-26T12:07:39.396Z",
+        "practice-20260926-vat-business-unit-taxation": "2026-09-26T07:57:55.835Z"
       }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-27T07:17:48.849Z",
+      "updatedAt": "2026-09-27T08:05:42.040Z",
       "cards": {
         "0": {
           "voucher": {
@@ -7811,24 +7811,24 @@
           "starred": false,
           "rows": [
             {
+              "side": "C",
+              "account": "미지급금",
+              "accountCode": "",
+              "accountValue": "미지급금|",
+              "amount": "NaN",
+              "division": "",
+              "summary": "운용리스료",
+              "autoRole": "counter"
+            },
+            {
               "side": "D",
               "account": "임차료",
               "accountCode": "",
               "accountValue": "임차료|판",
-              "amount": "920,000",
+              "amount": "NaN",
               "division": "판",
               "summary": "운용리스료",
               "autoRole": "base"
-            },
-            {
-              "side": "C",
-              "account": "미지급비용",
-              "accountCode": "",
-              "accountValue": "미지급비용|",
-              "amount": "920,000",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
             },
             {
               "side": "D",
@@ -7855,7 +7855,7 @@
             "deleted": false,
             "date": "2026-10-14",
             "trade": "purchase",
-            "type": "53.면세",
+            "type": "58.카면",
             "item": "운용리스료",
             "quantity": "",
             "unitPrice": "",
@@ -7863,14 +7863,12 @@
             "vat": "",
             "supplier": "㈜한결캐피탈",
             "electronic": "여",
-            "journal": "혼합",
-            "cardCompanyCode": "",
+            "journal": "카드",
             "cardCompany": "",
-            "serviceFee": "",
             "zeroRate": "",
             "deductReason": ""
           },
-          "graded": true,
+          "graded": false,
           "restoredAt": "2026-09-27T02:27:29.164Z",
           "correct": true,
           "passedAt": "2026-09-27T02:27:58.947Z"
@@ -7893,25 +7891,25 @@
             "cardCompany": "",
             "serviceFee": "",
             "zeroRate": "",
-            "deductReason": "②사업과 직접 관련 없는 지출"
+            "deductReason": "④기업업무추진비 및 이와 유사한 비용 관련"
           },
           "rows": [
             {
               "side": "D",
-              "account": "원재료",
+              "account": "기업업무추진비",
               "accountCode": "",
-              "accountValue": "원재료|",
+              "accountValue": "기업업무추진비|판",
               "amount": "165,000",
-              "division": "",
+              "division": "판",
               "summary": "견과류 선물세트",
               "autoRole": "base"
             },
             {
-              "side": "D",
-              "account": "",
+              "side": "C",
+              "account": "보통예금",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "보통예금|",
+              "amount": "165,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -7938,7 +7936,7 @@
             }
           ],
           "graded": true,
-          "attempts": 4,
+          "attempts": 6,
           "wrongCount": 3,
           "history": [
             {
@@ -8153,6 +8151,78 @@
               "at": "2026-09-26T23:56:32.174Z",
               "correct": true,
               "source": "notebook"
+            },
+            {
+              "at": "2026-09-27T08:05:29.018Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-11-27",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "견과류 선물세트",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "150,000",
+                "vat": "15,000",
+                "supplier": "㈜청명",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": "④기업업무추진비 및 이와 유사한 비용 관련"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|판",
+                  "amount": "165,000",
+                  "division": "판",
+                  "summary": "견과류 선물세트",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "165,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            },
+            {
+              "id": "c9f258b9-d1fb-41c4-b6c4-419aaed8efd3",
+              "at": "2026-09-27T08:05:30.880Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
           "passed": true,
@@ -8161,8 +8231,8 @@
           "restoredAt": "2026-09-26T23:56:22.802Z",
           "correct": true,
           "selfPassed": true,
-          "selfPassedAt": "2026-09-26T23:56:32.174Z",
-          "passedAt": "2026-09-26T23:56:32.174Z"
+          "selfPassedAt": "2026-09-27T08:05:30.880Z",
+          "passedAt": "2026-09-27T08:05:30.880Z"
         },
         "44": {
           "attempts": 4,
@@ -12084,9 +12154,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-27T07:17:48.854Z",
+  "syncedAt": "2026-09-27T08:05:42.043Z",
   "device": {
-    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
-    "name": "모바일"
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "name": "PC"
   }
 }
