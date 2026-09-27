@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-26T23:48:34.169Z",
+  "exportedAt": "2026-09-27T07:17:48.854Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1191,7 +1191,7 @@
           "passedAt": "2026-09-26T13:05:54.462Z"
         },
         "31": {
-          "attempts": 1,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
@@ -1199,21 +1199,27 @@
               "at": "2026-09-26T13:00:06.685Z",
               "correct": false,
               "source": "notebook"
+            },
+            {
+              "id": "30fa629b-6acc-4939-80bf-e1ee8976d9da",
+              "at": "2026-09-27T03:03:15.782Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
           "rows": [],
           "graded": true,
           "correct": false,
           "starred": false,
-          "selfPassed": false,
-          "selfPassedAt": null,
-          "trainingCenterRestored": true,
-          "restoredAt": "2026-09-26T13:00:06.685Z"
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-27T03:03:15.782Z",
+          "restoredAt": "2026-09-26T13:00:06.685Z",
+          "passedAt": "2026-09-27T03:03:15.782Z"
         },
         "32": {
-          "attempts": 1,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
@@ -1221,18 +1227,24 @@
               "at": "2026-09-26T12:55:01.734Z",
               "correct": false,
               "source": "notebook"
+            },
+            {
+              "id": "0fdb155c-2f07-427d-ac15-f85d9e0610d0",
+              "at": "2026-09-27T03:05:23.229Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
           "rows": [],
           "graded": true,
-          "correct": false,
+          "correct": true,
           "starred": false,
-          "selfPassed": false,
-          "selfPassedAt": null,
-          "trainingCenterRestored": true,
-          "restoredAt": "2026-09-26T12:55:01.734Z"
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-27T03:05:23.229Z",
+          "restoredAt": "2026-09-26T12:55:01.734Z",
+          "passedAt": "2026-09-27T03:05:23.229Z"
         },
         "33": {
           "attempts": 1,
@@ -1277,7 +1289,7 @@
           "passedAt": "2026-09-26T12:52:05.351Z"
         },
         "35": {
-          "attempts": 1,
+          "attempts": 2,
           "wrongCount": 1,
           "history": [
             {
@@ -1285,18 +1297,24 @@
               "at": "2026-09-26T12:45:25.464Z",
               "correct": false,
               "source": "notebook"
+            },
+            {
+              "id": "32cd536b-4ca6-496a-8fcd-f9898232e690",
+              "at": "2026-09-27T03:06:30.948Z",
+              "correct": true,
+              "source": "notebook"
             }
           ],
-          "passed": false,
+          "passed": true,
           "archived": false,
           "rows": [],
           "graded": true,
-          "correct": false,
+          "correct": true,
           "starred": false,
-          "selfPassed": false,
-          "selfPassedAt": null,
-          "trainingCenterRestored": true,
-          "restoredAt": "2026-09-26T12:45:25.464Z"
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-27T03:06:30.948Z",
+          "restoredAt": "2026-09-26T12:45:25.464Z",
+          "passedAt": "2026-09-27T03:06:30.948Z"
         },
         "36": {
           "attempts": 1,
@@ -1559,8 +1577,8 @@
           "starred": false
         },
         "47": {
-          "attempts": 2,
-          "wrongCount": 2,
+          "attempts": 3,
+          "wrongCount": 3,
           "history": [
             {
               "id": "1ba3dca9-a201-4b12-af75-9f8780d0227e",
@@ -1573,6 +1591,12 @@
               "at": "2026-09-26T12:36:34.426Z",
               "correct": false,
               "source": "notebook"
+            },
+            {
+              "id": "c7053b3f-7982-43af-bb30-39a029efe9f1",
+              "at": "2026-09-27T03:10:39.910Z",
+              "correct": false,
+              "source": "notebook"
             }
           ],
           "passed": false,
@@ -1580,7 +1604,7 @@
           "selfPassed": false,
           "selfPassedAt": null,
           "trainingCenterRestored": true,
-          "restoredAt": "2026-09-26T12:36:34.426Z",
+          "restoredAt": "2026-09-27T03:10:39.910Z",
           "rows": [],
           "graded": true,
           "correct": false,
@@ -1790,7 +1814,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-26T23:48:34.151Z",
+      "updatedAt": "2026-09-27T07:17:48.840Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -2686,7 +2710,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-26T23:48:34.162Z",
+      "updatedAt": "2026-09-27T07:17:48.849Z",
       "cards": {
         "0": {
           "voucher": {
@@ -7576,32 +7600,235 @@
           ]
         },
         "42": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "attempts": 3,
+          "wrongCount": 2,
+          "history": [
+            {
+              "at": "2026-09-27T02:26:52.666Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-14",
+                "trade": "purchase",
+                "type": "58.카면",
+                "item": "운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "920,000",
+                "vat": "",
+                "supplier": "㈜한결캐피탈",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "신한카드",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "임차료",
+                  "accountCode": "",
+                  "accountValue": "임차료|판",
+                  "amount": "920,000",
+                  "division": "판",
+                  "summary": "운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급비용",
+                  "accountCode": "",
+                  "accountValue": "미지급비용|",
+                  "amount": "920,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형"
+              ]
+            },
+            {
+              "at": "2026-09-27T02:27:29.164Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-14",
+                "trade": "purchase",
+                "type": "60.면건",
+                "item": "운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "920,000",
+                "vat": "",
+                "supplier": "㈜한결캐피탈",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "임차료",
+                  "accountCode": "",
+                  "accountValue": "임차료|판",
+                  "amount": "920,000",
+                  "division": "판",
+                  "summary": "운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급비용",
+                  "accountCode": "",
+                  "accountValue": "미지급비용|",
+                  "amount": "920,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형"
+              ]
+            },
+            {
+              "at": "2026-09-27T02:27:58.947Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-14",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "운용리스료",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "920,000",
+                "vat": "",
+                "supplier": "㈜한결캐피탈",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "임차료",
+                  "accountCode": "",
+                  "accountValue": "임차료|판",
+                  "amount": "920,000",
+                  "division": "판",
+                  "summary": "운용리스료",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급비용",
+                  "accountCode": "",
+                  "accountValue": "미지급비용|",
+                  "amount": "920,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
           "starred": false,
           "rows": [
-            {
-              "side": "C",
-              "account": "미지급금",
-              "accountCode": "",
-              "accountValue": "미지급금|",
-              "amount": "NaN",
-              "division": "",
-              "summary": "운용리스료",
-              "autoRole": "counter"
-            },
             {
               "side": "D",
               "account": "임차료",
               "accountCode": "",
               "accountValue": "임차료|판",
-              "amount": "NaN",
+              "amount": "920,000",
               "division": "판",
               "summary": "운용리스료",
               "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "미지급비용",
+              "accountCode": "",
+              "accountValue": "미지급비용|",
+              "amount": "920,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
             },
             {
               "side": "D",
@@ -7628,7 +7855,7 @@
             "deleted": false,
             "date": "2026-10-14",
             "trade": "purchase",
-            "type": "58.카면",
+            "type": "53.면세",
             "item": "운용리스료",
             "quantity": "",
             "unitPrice": "",
@@ -7636,17 +7863,22 @@
             "vat": "",
             "supplier": "㈜한결캐피탈",
             "electronic": "여",
-            "journal": "카드",
+            "journal": "혼합",
+            "cardCompanyCode": "",
             "cardCompany": "",
+            "serviceFee": "",
             "zeroRate": "",
             "deductReason": ""
           },
-          "graded": false
+          "graded": true,
+          "restoredAt": "2026-09-27T02:27:29.164Z",
+          "correct": true,
+          "passedAt": "2026-09-27T02:27:58.947Z"
         },
         "43": {
           "voucher": {
             "deleted": false,
-            "date": "2025-11-17",
+            "date": "2025-11-27",
             "trade": "purchase",
             "type": "54.불공",
             "item": "견과류 선물세트",
@@ -7657,9 +7889,11 @@
             "supplier": "㈜청명",
             "electronic": "여",
             "journal": "혼합",
+            "cardCompanyCode": "",
             "cardCompany": "",
+            "serviceFee": "",
             "zeroRate": "",
-            "deductReason": ""
+            "deductReason": "②사업과 직접 관련 없는 지출"
           },
           "rows": [
             {
@@ -7703,13 +7937,232 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "graded": true,
+          "attempts": 4,
+          "wrongCount": 3,
+          "history": [
+            {
+              "at": "2026-09-26T23:55:25.878Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-11-27",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "견과류 선물세트",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "150,000",
+                "vat": "15,000",
+                "supplier": "㈜청명",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|판",
+                  "amount": "150,000",
+                  "division": "판",
+                  "summary": "견과류 선물세트",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "150,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형",
+                "불공제사유",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-26T23:56:07.266Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-11-27",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "견과류 선물세트",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "150,000",
+                "vat": "15,000",
+                "supplier": "㈜청명",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|판",
+                  "amount": "165,000",
+                  "division": "판",
+                  "summary": "견과류 선물세트",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "165,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "불공제사유"
+              ]
+            },
+            {
+              "at": "2026-09-26T23:56:22.802Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-11-27",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "견과류 선물세트",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "150,000",
+                "vat": "15,000",
+                "supplier": "㈜청명",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "원재료",
+                  "accountCode": "",
+                  "accountValue": "원재료|",
+                  "amount": "165,000",
+                  "division": "",
+                  "summary": "견과류 선물세트",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "불공제사유",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "id": "66abc8cd-690b-4b0e-9351-8aa66ff47b32",
+              "at": "2026-09-26T23:56:32.174Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "restoredAt": "2026-09-26T23:56:22.802Z",
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-26T23:56:32.174Z",
+          "passedAt": "2026-09-26T23:56:32.174Z"
         },
         "44": {
           "attempts": 4,
@@ -8316,10 +8769,10 @@
       "title": "만기 전 받을어음 할인(103회 1번)",
       "type": "받을어음 할인(매각거래)",
       "registered": "2026-09-19",
-      "attempts": 2,
+      "attempts": 3,
       "wrong": 2,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8329,10 +8782,10 @@
       "title": "7월분 국민연금보험료 현금 납부(103회 2번)",
       "type": "국민연금 납부와 예수금",
       "registered": "2026-09-19",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8342,10 +8795,10 @@
       "title": "정기예금 만기 해지 입금(103회 3번)",
       "type": "정기예금 만기 해지와 선납세금",
       "registered": "2026-09-19",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8355,10 +8808,10 @@
       "title": "유상증자 주금 납입(103회 4번)",
       "type": "유상증자와 주식할인발행차금",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8459,10 +8912,10 @@
       "title": "연말 불우이웃돕기 성금 지급(104회 6번)",
       "type": "불우이웃돕기 성금",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8472,10 +8925,10 @@
       "title": "영업부 사무실 유리창 교체 대금 지급(105회 1번)",
       "type": "수익적 지출과 당좌수표 발행",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8485,10 +8938,10 @@
       "title": "외상매출금 조기 회수와 할인(105회 2번)",
       "type": "외상매출금 조기 회수와 매출할인",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8498,10 +8951,10 @@
       "title": "보통주 유상 발행과 신주 발행비(105회 3번)",
       "type": "유상증자 신주발행비와 주식발행초과금",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8511,10 +8964,10 @@
       "title": "수입 원재료 관세와 통관수수료 이체(105회 5번)",
       "type": "수입 원재료 관세와 통관수수료",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8524,10 +8977,10 @@
       "title": "제품홍보물 제작비용 국민카드 결제(105회 6번)",
       "type": "광고선전비 카드 결제와 미지급금",
       "registered": "2026-09-19",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8537,10 +8990,10 @@
       "title": "거래처 파산 단기대여금 대손 처리(105회 7번)",
       "type": "단기대여금 대손과 기타의대손상각비",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8550,8 +9003,8 @@
       "title": "외화장기차입금 일부 상환(103회)",
       "type": "외화장기차입금 상환과 외환차손",
       "registered": "2026-09-19",
-      "attempts": 0,
-      "wrong": 0,
+      "attempts": 1,
+      "wrong": 1,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -8563,10 +9016,10 @@
       "title": "미지급 중간배당금 지급(103회)",
       "type": "중간배당금 지급과 원천징수",
       "registered": "2026-09-19",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8693,8 +9146,8 @@
       "title": "외화 단기대여금 환산이익 인식(108회)",
       "type": "외화단기대여금 결산환산",
       "registered": "2026-09-22",
-      "attempts": 1,
-      "wrong": 1,
+      "attempts": 3,
+      "wrong": 3,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -8719,8 +9172,8 @@
       "title": "외화 장기대여금 환산이익 인식(114회)",
       "type": "외화장기대여금 결산환산",
       "registered": "2026-09-23",
-      "attempts": 1,
-      "wrong": 1,
+      "attempts": 2,
+      "wrong": 2,
       "passed": false,
       "selfPassed": false,
       "archived": false
@@ -8745,10 +9198,10 @@
       "title": "외상매입금의 당좌수표 결제",
       "type": "당좌수표 발행과 당좌차월",
       "registered": "2026-09-24",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8771,10 +9224,10 @@
       "title": "생산부 고용보험료 계좌이체",
       "type": "고용보험료 납부와 예수금",
       "registered": "2026-09-25",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8784,10 +9237,10 @@
       "title": "확정신고 부가가치세 납부 전표 수정",
       "type": "부가가치세 납부 전표의 계정 수정",
       "registered": "2026-09-25",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8797,10 +9250,10 @@
       "title": "장기차입금 이자의 월할 결산",
       "type": "기간경과 이자비용과 미지급비용",
       "registered": "2026-09-25",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -8810,10 +9263,10 @@
       "title": "단기매매증권 주식 전량 처분",
       "type": "단기매매증권 처분",
       "registered": "2026-09-26",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -9096,9 +9549,9 @@
       "title": "사채 할인·할증발행의 이자 흐름",
       "type": "사채 발행과 유효이자율법",
       "registered": "2026-09-16",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9356,9 +9809,9 @@
       "title": "영업이익에 영향을 미치는 거래 구분",
       "type": "영업이익 영향 거래 판별",
       "registered": "2026-09-22",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9369,9 +9822,9 @@
       "title": "금융자산 평가손익과 투자부동산 처분손익",
       "type": "금융자산 평가와 당기순이익 영향",
       "registered": "2026-09-22",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9382,9 +9835,9 @@
       "title": "추가출자·배당·순이익을 반영한 기말자본",
       "type": "기말자본 계산",
       "registered": "2026-09-22",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 5,
+      "wrong": 4,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9395,9 +9848,9 @@
       "title": "의사결정 관련성과 질적특성 구분",
       "type": "재무정보 관련성의 구성요소",
       "registered": "2026-09-22",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9408,9 +9861,9 @@
       "title": "영업에 사용하지 않는 토지의 취득",
       "type": "투자목적 부동산 취득 계정",
       "registered": "2026-09-22",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9447,9 +9900,9 @@
       "title": "기말재고 소유권과 수탁품",
       "type": "기말재고 소유권과 수탁품",
       "registered": "2026-09-24",
-      "attempts": 3,
-      "wrong": 3,
-      "passed": false,
+      "attempts": 5,
+      "wrong": 4,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9512,9 +9965,9 @@
       "title": "유형자산의 일반적 조건 구별",
       "type": "유형자산의 특징",
       "registered": "2026-09-26",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9525,9 +9978,9 @@
       "title": "재고와 판매관리비를 반영한 당기순손익",
       "type": "상품매출원가와 당기순손익 계산",
       "registered": "2026-09-26",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9538,9 +9991,9 @@
       "title": "작업인원 구간별 감독자 급여의 원가행태",
       "type": "준고정원가의 원가행태",
       "registered": "2026-09-26",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9551,9 +10004,9 @@
       "title": "직접노무비 비율에 따른 제조간접비 배부",
       "type": "직접노무비 기준 제조간접비 배부",
       "registered": "2026-09-26",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -9564,9 +10017,9 @@
       "title": "사업자단위 과세제도의 적용 판단",
       "type": "부가가치세 사업자단위 과세제도",
       "registered": "2026-09-26",
-      "attempts": 1,
+      "attempts": 2,
       "wrong": 1,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -10123,9 +10576,9 @@
       "title": "영업부 차량 운용리스료 카드 결제",
       "type": "운용리스료 면세매입과 카드결제",
       "registered": "2026-09-24",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 3,
+      "wrong": 2,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -10136,10 +10589,10 @@
       "title": "영업부 거래처 선물세트 구입",
       "type": "거래처 접대용 선물 매입세액 불공제",
       "registered": "2026-09-25",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
-      "selfPassed": false,
+      "attempts": 4,
+      "wrong": 3,
+      "passed": true,
+      "selfPassed": true,
       "archived": false
     },
     {
@@ -10149,14 +10602,42 @@
       "title": "영업부 차량 운용리스료 법인카드 결제",
       "type": "운용리스료 면세매입과 카드결제",
       "registered": "2026-09-26",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 4,
+      "wrong": 3,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     }
   ],
   "typeSummary": [
+    {
+      "type": "운용리스료 면세매입과 카드결제",
+      "problems": 3,
+      "wrong": 6,
+      "unpassed": 0,
+      "score": 9
+    },
+    {
+      "type": "거래처 접대용 선물 매입세액 불공제",
+      "problems": 2,
+      "wrong": 5,
+      "unpassed": 0,
+      "score": 7
+    },
+    {
+      "type": "기말자본 계산",
+      "problems": 1,
+      "wrong": 4,
+      "unpassed": 0,
+      "score": 5
+    },
+    {
+      "type": "기말재고 소유권과 수탁품",
+      "problems": 1,
+      "wrong": 4,
+      "unpassed": 0,
+      "score": 5
+    },
     {
       "type": "세금계산서 발급의무 면제",
       "problems": 2,
@@ -10165,7 +10646,7 @@
       "score": 5
     },
     {
-      "type": "기말재고 소유권과 수탁품",
+      "type": "외화단기대여금 결산환산",
       "problems": 1,
       "wrong": 3,
       "unpassed": 1,
@@ -10193,21 +10674,14 @@
       "score": 4
     },
     {
-      "type": "거래처 접대용 선물 매입세액 불공제",
-      "problems": 2,
-      "wrong": 2,
-      "unpassed": 1,
-      "score": 4
-    },
-    {
-      "type": "운용리스료 면세매입과 카드결제",
-      "problems": 3,
-      "wrong": 1,
-      "unpassed": 2,
-      "score": 4
-    },
-    {
       "type": "받을어음 할인(매각거래)",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 0,
+      "score": 3
+    },
+    {
+      "type": "외화장기대여금 결산환산",
       "problems": 1,
       "wrong": 2,
       "unpassed": 1,
@@ -10238,11 +10712,39 @@
       "type": "국민연금 납부와 예수금",
       "problems": 1,
       "wrong": 1,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
       "type": "정기예금 만기 해지와 선납세금",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "외상매출금 조기 회수와 매출할인",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "유상증자 신주발행비와 주식발행초과금",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "단기대여금 대손과 기타의대손상각비",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "외화장기차입금 상환과 외환차손",
       "problems": 1,
       "wrong": 1,
       "unpassed": 1,
@@ -10252,7 +10754,7 @@
       "type": "중간배당금 지급과 원천징수",
       "problems": 1,
       "wrong": 1,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
@@ -10274,20 +10776,6 @@
       "problems": 1,
       "wrong": 1,
       "unpassed": 0,
-      "score": 2
-    },
-    {
-      "type": "외화단기대여금 결산환산",
-      "problems": 1,
-      "wrong": 1,
-      "unpassed": 1,
-      "score": 2
-    },
-    {
-      "type": "외화장기대여금 결산환산",
-      "problems": 1,
-      "wrong": 1,
-      "unpassed": 1,
       "score": 2
     },
     {
@@ -10322,7 +10810,7 @@
       "type": "사채 발행과 유효이자율법",
       "problems": 1,
       "wrong": 1,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
@@ -10333,10 +10821,24 @@
       "score": 2
     },
     {
+      "type": "유형자산의 특징",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "준고정원가의 원가행태",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
       "type": "부가가치세 사업자단위 과세제도",
       "problems": 1,
       "wrong": 1,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
@@ -10385,7 +10887,7 @@
       "type": "기간경과 이자비용과 미지급비용",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
@@ -10420,28 +10922,28 @@
       "type": "고용보험료 납부와 예수금",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 2,
+      "unpassed": 1,
       "score": 2
     },
     {
       "type": "단기매매증권 처분",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 2,
+      "unpassed": 1,
       "score": 2
     },
     {
       "type": "유상증자와 주식할인발행차금",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
       "type": "직접노무비 기준 제조간접비 배부",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
@@ -10553,56 +11055,28 @@
       "type": "불우이웃돕기 성금",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "수익적 지출과 당좌수표 발행",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외상매출금 조기 회수와 매출할인",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "유상증자 신주발행비와 주식발행초과금",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "수입 원재료 관세와 통관수수료",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "광고선전비 카드 결제와 미지급금",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "단기대여금 대손과 기타의대손상각비",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "외화장기차입금 상환과 외환차손",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -10658,7 +11132,7 @@
       "type": "당좌수표 발행과 당좌차월",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -10672,7 +11146,7 @@
       "type": "부가가치세 납부 전표의 계정 수정",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -10889,35 +11363,28 @@
       "type": "영업이익 영향 거래 판별",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "금융자산 평가와 당기순이익 영향",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "기말자본 계산",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "재무정보 관련성의 구성요소",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "투자목적 부동산 취득 계정",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -10963,24 +11430,10 @@
       "score": 1
     },
     {
-      "type": "유형자산의 특징",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "상품매출원가와 당기순손익 계산",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "준고정원가의 원가행태",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -11180,7 +11633,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-26T23:48:34.170Z",
+  "catalogAt": "2026-09-27T07:17:48.854Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -11631,7 +12084,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-26T23:48:34.170Z",
+  "syncedAt": "2026-09-27T07:17:48.854Z",
   "device": {
     "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
     "name": "모바일"
