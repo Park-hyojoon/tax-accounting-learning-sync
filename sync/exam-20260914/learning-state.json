@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-27T22:00:50.909Z",
+  "exportedAt": "2026-09-27T22:49:50.706Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1814,13 +1814,13 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-27T22:00:50.897Z",
+      "updatedAt": "2026-09-27T22:49:50.687Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-27T14:22:39.175Z",
+      "updatedAt": "2026-09-27T22:49:45.204Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -1851,7 +1851,12 @@
         "practice-20260926-vat-business-unit-taxation": 3,
         "exam123-overhead-allocation-recurrence-variant-20260926": 2,
         "practice-20260926-step-fixed-cost": 3,
-        "exam110-ending-equity-calculation-variant": 2
+        "exam110-ending-equity-calculation-variant": 2,
+        "review-20260927-operating-profit": 3,
+        "review-20260927-tax-invoice-exemption": 2,
+        "review-20260927-vat-filing-deadline": 3,
+        "review-20260927-capital-expenditure": 2,
+        "review-20260927-bond-issuance": 0
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -1883,7 +1888,12 @@
         "practice-20260926-vat-business-unit-taxation": true,
         "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-step-fixed-cost": true,
-        "exam110-ending-equity-calculation-variant": true
+        "exam110-ending-equity-calculation-variant": true,
+        "review-20260927-operating-profit": true,
+        "review-20260927-tax-invoice-exemption": true,
+        "review-20260927-vat-filing-deadline": true,
+        "review-20260927-capital-expenditure": true,
+        "review-20260927-bond-issuance": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -1943,7 +1953,12 @@
         "exam111-relevance-characteristics-variant": 1,
         "exam110-ending-equity-calculation-variant": 5,
         "exam110-net-income-securities-property-variant": 1,
-        "exam110-operating-profit-transaction-variant": 1
+        "exam110-operating-profit-transaction-variant": 1,
+        "review-20260927-operating-profit": 1,
+        "review-20260927-tax-invoice-exemption": 1,
+        "review-20260927-vat-filing-deadline": 1,
+        "review-20260927-capital-expenditure": 1,
+        "review-20260927-bond-issuance": 2
       },
       "history": {
         "exam121-reliability-variant": [
@@ -2496,6 +2511,46 @@
             "choice": 3,
             "correct": true
           }
+        ],
+        "review-20260927-operating-profit": [
+          {
+            "at": "2026-09-27T22:02:27.491Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "review-20260927-tax-invoice-exemption": [
+          {
+            "at": "2026-09-27T22:03:21.156Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "review-20260927-vat-filing-deadline": [
+          {
+            "at": "2026-09-27T22:05:07.768Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "review-20260927-capital-expenditure": [
+          {
+            "at": "2026-09-27T22:07:28.413Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "review-20260927-bond-issuance": [
+          {
+            "at": "2026-09-27T22:49:42.442Z",
+            "choice": 1,
+            "correct": false
+          },
+          {
+            "at": "2026-09-27T22:49:45.204Z",
+            "choice": 0,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -2556,7 +2611,12 @@
         "exam111-relevance-characteristics-variant": true,
         "exam110-ending-equity-calculation-variant": true,
         "exam110-net-income-securities-property-variant": true,
-        "exam110-operating-profit-transaction-variant": true
+        "exam110-operating-profit-transaction-variant": true,
+        "review-20260927-operating-profit": true,
+        "review-20260927-tax-invoice-exemption": true,
+        "review-20260927-vat-filing-deadline": true,
+        "review-20260927-capital-expenditure": true,
+        "review-20260927-bond-issuance": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -2616,7 +2676,12 @@
         "exam111-relevance-characteristics-variant": false,
         "exam110-ending-equity-calculation-variant": false,
         "exam110-net-income-securities-property-variant": false,
-        "exam110-operating-profit-transaction-variant": false
+        "exam110-operating-profit-transaction-variant": false,
+        "review-20260927-operating-profit": false,
+        "review-20260927-tax-invoice-exemption": false,
+        "review-20260927-vat-filing-deadline": false,
+        "review-20260927-capital-expenditure": false,
+        "review-20260927-bond-issuance": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -2676,7 +2741,12 @@
         "exam110-net-income-securities-property-variant": "2026-09-26T09:30:26.575Z",
         "exam110-operating-profit-transaction-variant": "2026-09-26T09:31:01.306Z",
         "exam107-bond-issuance-variant": "2026-09-26T09:32:37.033Z",
-        "exam110-ending-equity-calculation-variant": "2026-09-26T12:08:43.117Z"
+        "exam110-ending-equity-calculation-variant": "2026-09-26T12:08:43.117Z",
+        "review-20260927-operating-profit": "2026-09-27T22:02:27.491Z",
+        "review-20260927-tax-invoice-exemption": "2026-09-27T22:03:21.156Z",
+        "review-20260927-vat-filing-deadline": "2026-09-27T22:05:07.768Z",
+        "review-20260927-capital-expenditure": "2026-09-27T22:07:28.413Z",
+        "review-20260927-bond-issuance": "2026-09-27T22:49:45.204Z"
       },
       "archivedAt": {},
       "trainingCenterRestored": {},
@@ -2705,12 +2775,13 @@
         "practice-20260926-vat-business-unit-taxation": "2026-09-26T07:57:55.835Z",
         "practice-20260926-step-fixed-cost": "2026-09-26T08:48:13.776Z",
         "practice-20260926-ppe-characteristics": "2026-09-26T08:50:35.232Z",
-        "exam110-ending-equity-calculation-variant": "2026-09-26T12:07:39.396Z"
+        "exam110-ending-equity-calculation-variant": "2026-09-26T12:07:39.396Z",
+        "review-20260927-bond-issuance": "2026-09-27T22:49:42.442Z"
       }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-27T22:00:50.905Z",
+      "updatedAt": "2026-09-27T22:49:50.699Z",
       "cards": {
         "0": {
           "voucher": {
@@ -12547,7 +12618,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-27T22:00:50.909Z",
+  "syncedAt": "2026-09-27T22:49:50.706Z",
   "device": {
     "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
     "name": "모바일"
