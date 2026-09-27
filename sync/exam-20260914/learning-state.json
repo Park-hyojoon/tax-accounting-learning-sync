@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-27T08:05:42.043Z",
+  "exportedAt": "2026-09-27T14:23:21.942Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1814,13 +1814,13 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-27T08:05:42.037Z",
+      "updatedAt": "2026-09-27T14:23:21.911Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-26T12:08:43.117Z",
+      "updatedAt": "2026-09-27T14:22:39.175Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -2710,7 +2710,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-27T08:05:42.040Z",
+      "updatedAt": "2026-09-27T14:23:21.933Z",
       "cards": {
         "0": {
           "voucher": {
@@ -6228,48 +6228,50 @@
         "22": {
           "voucher": {
             "deleted": false,
-            "date": "",
-            "trade": "purchase",
-            "type": "",
+            "date": "2022-11-15",
+            "trade": "sales",
+            "type": "22.현과",
             "item": "제품",
             "quantity": "",
             "unitPrice": "",
-            "supply": "",
-            "vat": "",
-            "supplier": "",
+            "supply": "880,000",
+            "vat": "88,000",
+            "supplier": "이영수",
             "electronic": "",
-            "journal": "",
+            "journal": "혼합",
+            "cardCompanyCode": "",
             "cardCompany": "",
+            "serviceFee": "",
             "zeroRate": "",
             "deductReason": ""
           },
           "rows": [
             {
-              "side": "D",
-              "account": "",
+              "side": "C",
+              "account": "부가세예수금",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "부가세예수금|",
+              "amount": "88,000",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "제품",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "제품매출",
+              "accountCode": "",
+              "accountValue": "제품매출|",
+              "amount": "880,000",
+              "division": "",
+              "summary": "제품",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
+              "account": "현금",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "현금|",
+              "amount": "968,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -6285,13 +6287,82 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "attempts": 0,
+          "graded": true,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-27T10:49:06.983Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2022-11-15",
+                "trade": "sales",
+                "type": "22.현과",
+                "item": "제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "880,000",
+                "vat": "88,000",
+                "supplier": "이영수",
+                "electronic": "",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "88,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "880,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "현금",
+                  "accountCode": "",
+                  "accountValue": "현금|",
+                  "amount": "968,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "passedAt": "2026-09-27T10:49:06.983Z"
         },
         "23": {
           "voucher": {
@@ -12154,7 +12225,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-27T08:05:42.043Z",
+  "syncedAt": "2026-09-27T14:23:21.942Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
