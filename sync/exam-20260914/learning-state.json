@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-28T13:04:27.633Z",
+  "exportedAt": "2026-09-28T13:04:33.289Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1814,7 +1814,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-28T13:04:27.625Z",
+      "updatedAt": "2026-09-28T13:04:33.272Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -1848,8 +1848,8 @@
         "exam113-total-manufacturing-cost-accrual-wages-variant": 2,
         "practice-20260926-income-statement-principles": 2,
         "practice-20260924-inventory-ownership": 0,
-        "exam123-overhead-allocation-recurrence-variant-20260926": 2,
         "practice-20260926-vat-business-unit-taxation": 3,
+        "exam123-overhead-allocation-recurrence-variant-20260926": 2,
         "practice-20260926-step-fixed-cost": 3,
         "exam110-ending-equity-calculation-variant": 2,
         "review-20260927-operating-profit": 3,
@@ -1885,8 +1885,8 @@
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
         "practice-20260924-inventory-ownership": false,
-        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-vat-business-unit-taxation": true,
+        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-step-fixed-cost": true,
         "exam110-ending-equity-calculation-variant": true,
         "review-20260927-operating-profit": true,
@@ -1944,8 +1944,8 @@
         "practice-20260924-overhead-overapplied": 1,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
         "practice-20260926-income-statement-principles": 2,
-        "exam123-overhead-allocation-recurrence-variant-20260926": 1,
         "practice-20260926-vat-business-unit-taxation": 2,
+        "exam123-overhead-allocation-recurrence-variant-20260926": 1,
         "practice-20260926-step-fixed-cost": 2,
         "practice-20260926-merchandise-profit-loss": 1,
         "practice-20260926-ppe-characteristics": 2,
@@ -2406,13 +2406,6 @@
             "correct": true
           }
         ],
-        "exam123-overhead-allocation-recurrence-variant-20260926": [
-          {
-            "at": "2026-09-26T06:41:21.308Z",
-            "choice": 2,
-            "correct": true
-          }
-        ],
         "practice-20260926-vat-business-unit-taxation": [
           {
             "at": "2026-09-26T07:57:55.835Z",
@@ -2422,6 +2415,13 @@
           {
             "at": "2026-09-26T08:47:42.249Z",
             "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam123-overhead-allocation-recurrence-variant-20260926": [
+          {
+            "at": "2026-09-26T06:41:21.308Z",
+            "choice": 2,
             "correct": true
           }
         ],
@@ -2602,8 +2602,8 @@
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
-        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-vat-business-unit-taxation": true,
+        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-step-fixed-cost": true,
         "practice-20260926-merchandise-profit-loss": true,
         "practice-20260926-ppe-characteristics": true,
@@ -2667,8 +2667,8 @@
         "practice-20260924-overhead-overapplied": false,
         "exam113-total-manufacturing-cost-accrual-wages-variant": false,
         "practice-20260926-income-statement-principles": false,
-        "exam123-overhead-allocation-recurrence-variant-20260926": false,
         "practice-20260926-vat-business-unit-taxation": false,
+        "exam123-overhead-allocation-recurrence-variant-20260926": false,
         "practice-20260926-step-fixed-cost": false,
         "practice-20260926-merchandise-profit-loss": false,
         "practice-20260926-ppe-characteristics": false,
@@ -2772,16 +2772,16 @@
       },
       "restoredAt": {
         "practice-20260924-inventory-ownership": "2026-09-26T08:55:45.138Z",
+        "practice-20260926-vat-business-unit-taxation": "2026-09-26T07:57:55.835Z",
         "practice-20260926-step-fixed-cost": "2026-09-26T08:48:13.776Z",
         "practice-20260926-ppe-characteristics": "2026-09-26T08:50:35.232Z",
         "exam110-ending-equity-calculation-variant": "2026-09-26T12:07:39.396Z",
-        "practice-20260926-vat-business-unit-taxation": "2026-09-26T07:57:55.835Z",
         "review-20260927-bond-issuance": "2026-09-27T22:49:42.442Z"
       }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-28T13:04:27.631Z",
+      "updatedAt": "2026-09-28T13:04:33.283Z",
       "cards": {
         "0": {
           "voucher": {
@@ -8719,6 +8719,252 @@
           "restoredAt": "2026-09-26T07:27:57.818Z",
           "correct": true,
           "passedAt": "2026-09-26T07:28:29.370Z"
+        },
+        "45": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "46": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "47": {
+          "voucher": {
+            "deleted": false,
+            "date": "",
+            "trade": "purchase",
+            "type": "",
+            "item": "제품임가공비",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "",
+            "vat": "",
+            "supplier": "",
+            "electronic": "",
+            "journal": "",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "D",
+              "account": "부가세대급금",
+              "accountCode": "",
+              "accountValue": "부가세대급금|",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "48": {
+          "voucher": {
+            "deleted": false,
+            "date": "",
+            "trade": "purchase",
+            "type": "",
+            "item": "3D 프린터",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "",
+            "vat": "",
+            "supplier": "",
+            "electronic": "",
+            "journal": "",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "D",
+              "account": "기부금",
+              "accountCode": "",
+              "accountValue": "기부금|",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "기부금",
+              "accountCode": "",
+              "accountValue": "기부금|",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -10450,9 +10696,9 @@
       "title": "사채 할인·할증발행의 이자 흐름",
       "type": "사채 발행과 유효이자율법",
       "registered": "2026-09-27",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -10463,9 +10709,9 @@
       "title": "자본적지출 비용처리의 기간별 영향",
       "type": "자본적지출의 비용처리 오류 영향",
       "registered": "2026-09-27",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -10476,9 +10722,9 @@
       "title": "폐업 시 부가가치세 신고기한 판단",
       "type": "부가가치세 신고·납부기한",
       "registered": "2026-09-27",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -10489,9 +10735,9 @@
       "title": "세금계산서 발급의무 면제 거래 판단",
       "type": "세금계산서 발급의무 면제",
       "registered": "2026-09-27",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -10502,9 +10748,9 @@
       "title": "영업이익에 영향을 미치는 거래 구분",
       "type": "영업이익 영향 거래 판별",
       "registered": "2026-09-27",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -11373,7 +11619,7 @@
       "type": "세금계산서 발급의무 면제",
       "problems": 3,
       "wrong": 3,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 6
     },
     {
@@ -11426,6 +11672,13 @@
       "score": 4
     },
     {
+      "type": "사채 발행과 유효이자율법",
+      "problems": 2,
+      "wrong": 2,
+      "unpassed": 0,
+      "score": 4
+    },
+    {
       "type": "외화장기대여금 결산환산",
       "problems": 1,
       "wrong": 2,
@@ -11454,17 +11707,10 @@
       "score": 3
     },
     {
-      "type": "사채 발행과 유효이자율법",
-      "problems": 2,
-      "wrong": 1,
-      "unpassed": 1,
-      "score": 3
-    },
-    {
       "type": "자본적지출의 비용처리 오류 영향",
       "problems": 2,
       "wrong": 1,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 3
     },
     {
@@ -11751,7 +11997,7 @@
       "type": "영업이익 영향 거래 판별",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 2
     },
     {
@@ -12262,7 +12508,7 @@
       "type": "부가가치세 신고·납부기한",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -12532,7 +12778,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-28T13:04:27.633Z",
+  "catalogAt": "2026-09-28T13:04:33.290Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -12983,9 +13229,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-28T13:04:27.633Z",
+  "syncedAt": "2026-09-28T13:04:33.290Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
+    "name": "모바일"
   }
 }
