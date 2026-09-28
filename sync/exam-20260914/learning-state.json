@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-28T13:09:10.111Z",
+  "exportedAt": "2026-09-28T22:43:20.424Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1814,13 +1814,13 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-28T13:09:10.091Z",
+      "updatedAt": "2026-09-28T22:43:20.416Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-27T22:49:45.204Z",
+      "updatedAt": "2026-09-28T13:50:51.214Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -1944,8 +1944,8 @@
         "practice-20260924-overhead-overapplied": 1,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
         "practice-20260926-income-statement-principles": 2,
-        "practice-20260926-vat-business-unit-taxation": 2,
         "exam123-overhead-allocation-recurrence-variant-20260926": 1,
+        "practice-20260926-vat-business-unit-taxation": 2,
         "practice-20260926-step-fixed-cost": 2,
         "practice-20260926-merchandise-profit-loss": 1,
         "practice-20260926-ppe-characteristics": 2,
@@ -2406,6 +2406,13 @@
             "correct": true
           }
         ],
+        "exam123-overhead-allocation-recurrence-variant-20260926": [
+          {
+            "at": "2026-09-26T06:41:21.308Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
         "practice-20260926-vat-business-unit-taxation": [
           {
             "at": "2026-09-26T07:57:55.835Z",
@@ -2415,13 +2422,6 @@
           {
             "at": "2026-09-26T08:47:42.249Z",
             "choice": 3,
-            "correct": true
-          }
-        ],
-        "exam123-overhead-allocation-recurrence-variant-20260926": [
-          {
-            "at": "2026-09-26T06:41:21.308Z",
-            "choice": 2,
             "correct": true
           }
         ],
@@ -2602,8 +2602,8 @@
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
-        "practice-20260926-vat-business-unit-taxation": true,
         "exam123-overhead-allocation-recurrence-variant-20260926": true,
+        "practice-20260926-vat-business-unit-taxation": true,
         "practice-20260926-step-fixed-cost": true,
         "practice-20260926-merchandise-profit-loss": true,
         "practice-20260926-ppe-characteristics": true,
@@ -2667,8 +2667,8 @@
         "practice-20260924-overhead-overapplied": false,
         "exam113-total-manufacturing-cost-accrual-wages-variant": false,
         "practice-20260926-income-statement-principles": false,
-        "practice-20260926-vat-business-unit-taxation": false,
         "exam123-overhead-allocation-recurrence-variant-20260926": false,
+        "practice-20260926-vat-business-unit-taxation": false,
         "practice-20260926-step-fixed-cost": false,
         "practice-20260926-merchandise-profit-loss": false,
         "practice-20260926-ppe-characteristics": false,
@@ -2781,7 +2781,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-28T13:09:10.104Z",
+      "updatedAt": "2026-09-28T22:43:20.421Z",
       "cards": {
         "0": {
           "voucher": {
@@ -8721,125 +8721,158 @@
           "passedAt": "2026-09-26T07:28:29.370Z"
         },
         "45": {
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
-          "starred": false
-        },
-        "46": {
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
-          "archived": false,
-          "starred": false
-        },
-        "47": {
           "voucher": {
             "deleted": false,
-            "date": "",
-            "trade": "purchase",
-            "type": "",
-            "item": "제품임가공비",
+            "date": "2025-08-21",
+            "trade": "sales",
+            "type": "16.수출",
+            "item": "수출 제품",
             "quantity": "",
             "unitPrice": "",
-            "supply": "",
+            "supply": "60,000,000",
             "vat": "",
-            "supplier": "",
+            "supplier": "HK사",
             "electronic": "",
-            "journal": "",
+            "journal": "혼합",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "①직접수출(대행수출 포함)",
+            "deductReason": ""
+          },
+          "rows": [
+            {
+              "side": "C",
+              "account": "제품매출",
+              "accountCode": "",
+              "accountValue": "제품매출|",
+              "amount": "60,000,000",
+              "division": "",
+              "summary": "수출 제품",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "선수금",
+              "accountCode": "",
+              "accountValue": "선수금|",
+              "amount": "12,000,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "외상매출금",
+              "accountCode": "",
+              "accountValue": "외상매출금|",
+              "amount": "48,000,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "at": "2026-09-28T22:37:42.867Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-08-21",
+                "trade": "sales",
+                "type": "16.수출",
+                "item": "수출 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "60,000,000",
+                "vat": "",
+                "supplier": "HK사",
+                "electronic": "",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "①직접수출(대행수출 포함)",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "60,000,000",
+                  "division": "",
+                  "summary": "수출 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "선수금",
+                  "accountCode": "",
+                  "accountValue": "선수금|",
+                  "amount": "12,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "외상매출금",
+                  "accountCode": "",
+                  "accountValue": "외상매출금|",
+                  "amount": "48,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "passedAt": "2026-09-28T22:37:42.867Z"
+        },
+        "46": {
+          "voucher": {
+            "deleted": false,
+            "date": "2025-09-18",
+            "trade": "purchase",
+            "type": "61.현과",
+            "item": "화물트럭 수리",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "300,000",
+            "vat": "30,000",
+            "supplier": "우리카센타",
+            "electronic": "",
+            "journal": "현금",
             "cardCompanyCode": "",
             "cardCompany": "",
             "serviceFee": "",
@@ -8852,20 +8885,20 @@
               "account": "부가세대급금",
               "accountCode": "",
               "accountValue": "부가세대급금|",
-              "amount": "",
+              "amount": "30,000",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "화물트럭 수리",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
+              "account": "차량유지비",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
+              "accountValue": "차량유지비|제",
+              "amount": "300,000",
+              "division": "제",
+              "summary": "화물트럭 수리",
+              "autoRole": "base"
             },
             {
               "side": "D",
@@ -8888,28 +8921,97 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "attempts": 0,
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-28T22:35:58.407Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-09-18",
+                "trade": "purchase",
+                "type": "61.현과",
+                "item": "화물트럭 수리",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "300,000",
+                "vat": "30,000",
+                "supplier": "우리카센타",
+                "electronic": "",
+                "journal": "현금",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금|",
+                  "amount": "30,000",
+                  "division": "",
+                  "summary": "화물트럭 수리",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "차량유지비",
+                  "accountCode": "",
+                  "accountValue": "차량유지비|제",
+                  "amount": "300,000",
+                  "division": "제",
+                  "summary": "화물트럭 수리",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "passedAt": "2026-09-28T22:35:58.407Z"
         },
-        "48": {
+        "47": {
           "voucher": {
             "deleted": false,
-            "date": "",
+            "date": "2025-09-11",
             "trade": "purchase",
-            "type": "",
-            "item": "3D 프린터",
+            "type": "51.과세",
+            "item": "제품임가공비",
             "quantity": "",
             "unitPrice": "",
-            "supply": "",
-            "vat": "",
-            "supplier": "",
-            "electronic": "",
-            "journal": "",
+            "supply": "12,000,000",
+            "vat": "1,200,000",
+            "supplier": "정도정밀",
+            "electronic": "여",
+            "journal": "혼합",
             "cardCompanyCode": "",
             "cardCompany": "",
             "serviceFee": "",
@@ -8919,20 +9021,366 @@
           "rows": [
             {
               "side": "D",
-              "account": "기부금",
+              "account": "부가세대급금",
               "accountCode": "",
-              "accountValue": "기부금|",
-              "amount": "",
+              "accountValue": "부가세대급금|",
+              "amount": "1,200,000",
+              "division": "",
+              "summary": "제품임가공비",
+              "autoRole": "base"
+            },
+            {
+              "side": "D",
+              "account": "외주가공비",
+              "accountCode": "",
+              "accountValue": "외주가공비|제",
+              "amount": "12,000,000",
+              "division": "제",
+              "summary": "제품임가공비",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "보통예금",
+              "accountCode": "",
+              "accountValue": "보통예금|",
+              "amount": "13,200,000",
               "division": "",
               "summary": "",
               "autoRole": ""
             },
             {
               "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": true,
+          "attempts": 4,
+          "wrongCount": 3,
+          "history": [
+            {
+              "at": "2026-09-28T22:30:46.696Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-09-11",
+                "trade": "sales",
+                "type": "11.과세",
+                "item": "제품임가공비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "12,000,000",
+                "vat": "1,200,000",
+                "supplier": "정도정밀",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "1,200,000",
+                  "division": "",
+                  "summary": "제품임가공비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "12,000,000",
+                  "division": "",
+                  "summary": "제품임가공비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "외주가공비",
+                  "accountCode": "",
+                  "accountValue": "외주가공비|제",
+                  "amount": "13,200,000",
+                  "division": "제",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-28T22:32:08.301Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-09-11",
+                "trade": "sales",
+                "type": "11.과세",
+                "item": "제품임가공비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "12,000,000",
+                "vat": "1,200,000",
+                "supplier": "정도정밀",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "1,200,000",
+                  "division": "",
+                  "summary": "제품임가공비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "외주가공비",
+                  "accountCode": "",
+                  "accountValue": "외주가공비|제",
+                  "amount": "12,000,000",
+                  "division": "제",
+                  "summary": "제품임가공비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "13,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-28T22:34:10.901Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "",
+                "trade": "purchase",
+                "type": "51.과세",
+                "item": "제품임가공비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "12,000,000",
+                "vat": "1,200,000",
+                "supplier": "정도정밀",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금|",
+                  "amount": "1,200,000",
+                  "division": "",
+                  "summary": "제품임가공비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "외주가공비",
+                  "accountCode": "",
+                  "accountValue": "외주가공비|제",
+                  "amount": "12,000,000",
+                  "division": "제",
+                  "summary": "제품임가공비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "13,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "거래일자"
+              ]
+            },
+            {
+              "at": "2026-09-28T22:34:37.292Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-09-11",
+                "trade": "purchase",
+                "type": "51.과세",
+                "item": "제품임가공비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "12,000,000",
+                "vat": "1,200,000",
+                "supplier": "정도정밀",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금|",
+                  "amount": "1,200,000",
+                  "division": "",
+                  "summary": "제품임가공비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "외주가공비",
+                  "accountCode": "",
+                  "accountValue": "외주가공비|제",
+                  "amount": "12,000,000",
+                  "division": "제",
+                  "summary": "제품임가공비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "13,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "restoredAt": "2026-09-28T22:34:10.901Z",
+          "correct": true,
+          "passedAt": "2026-09-28T22:34:37.292Z"
+        },
+        "48": {
+          "voucher": {
+            "deleted": false,
+            "date": "2025-09-27",
+            "trade": "purchase",
+            "type": "54.불공",
+            "item": "3D 프린터",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "4,000,000",
+            "vat": "400,000",
+            "supplier": "(주)목포전자",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "",
+            "deductReason": "②사업과 직접 관련 없는 지출"
+          },
+          "rows": [
+            {
+              "side": "D",
               "account": "기부금",
               "accountCode": "",
               "accountValue": "기부금|",
-              "amount": "",
+              "amount": "4,400,000",
+              "division": "",
+              "summary": "3D 프린터",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "미지급금",
+              "accountCode": "",
+              "accountValue": "미지급금|",
+              "amount": "4,400,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -8958,44 +9406,202 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "graded": true,
+          "attempts": 2,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-09-28T22:25:20.239Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-09-27",
+                "trade": "purchase",
+                "type": "51.과세",
+                "item": "3D 프린터",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "4,000,000",
+                "vat": "400,000",
+                "supplier": "(주)목포전자",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금|",
+                  "amount": "400,000",
+                  "division": "",
+                  "summary": "3D 프린터",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기부금",
+                  "accountCode": "",
+                  "accountValue": "기부금|",
+                  "amount": "4,000,000",
+                  "division": "",
+                  "summary": "3D 프린터",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금|",
+                  "amount": "4,400,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형",
+                "불공제사유",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-28T22:29:32.730Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2025-09-27",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "3D 프린터",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "4,000,000",
+                "vat": "400,000",
+                "supplier": "(주)목포전자",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "기부금",
+                  "accountCode": "",
+                  "accountValue": "기부금|",
+                  "amount": "4,400,000",
+                  "division": "",
+                  "summary": "3D 프린터",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금|",
+                  "amount": "4,400,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "restoredAt": "2026-09-28T22:25:20.239Z",
+          "correct": true,
+          "passedAt": "2026-09-28T22:29:32.730Z"
         },
         "49": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "2023-08-10",
+            "trade": "sales",
+            "type": "14.건별",
+            "item": "증정용 자사 제품",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "600,000",
+            "vat": "60,000",
+            "supplier": "없음",
+            "electronic": "부",
+            "journal": "혼합",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
-              "side": "D",
-              "account": "",
+              "side": "C",
+              "account": "부가세예수금",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "부가세예수금|",
+              "amount": "60,000",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "증정용 자사 제품",
+              "autoRole": "base"
+            },
+            {
+              "side": "C",
+              "account": "제품",
+              "accountCode": "",
+              "accountValue": "제품|",
+              "amount": "360,000",
+              "division": "",
+              "summary": "8(타계정으로 대체)",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
+              "account": "기업업무추진비",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
+              "accountValue": "기업업무추진비|제",
+              "amount": "420,000",
+              "division": "제",
               "summary": "",
               "autoRole": ""
             },
@@ -9010,34 +9616,533 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "graded": true,
+          "correct": true,
+          "attempts": 7,
+          "wrongCount": 6,
+          "history": [
+            {
+              "at": "2026-09-28T21:51:30.124Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2023-08-10",
+                "trade": "sales",
+                "type": "11.과세",
+                "item": "증정용 자사 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "360,000",
+                "vat": "36,000",
+                "supplier": "원재료 매입 거래처",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "36,000",
+                  "division": "",
+                  "summary": "증정용 자사 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품",
+                  "accountCode": "",
+                  "accountValue": "제품|",
+                  "amount": "360,000",
+                  "division": "",
+                  "summary": "8(타계정으로 대체)",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|제",
+                  "amount": "396,000",
+                  "division": "제",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "유형",
+                "공급가액·세액",
+                "공급처",
+                "전자 여부",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-28T21:54:17.134Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2023-08-10",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "증정용 자사 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "600,000",
+                "vat": "60,000",
+                "supplier": "원재료 매입 거래처",
+                "electronic": "부",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "60,000",
+                  "division": "",
+                  "summary": "증정용 자사 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품",
+                  "accountCode": "",
+                  "accountValue": "제품|",
+                  "amount": "360,000",
+                  "division": "",
+                  "summary": "8(타계정으로 대체)",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|제",
+                  "amount": "420,000",
+                  "division": "제",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "공급처"
+              ]
+            },
+            {
+              "at": "2026-09-28T21:54:29.787Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2023-08-10",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "증정용 자사 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "600,000",
+                "vat": "60,000",
+                "supplier": "없음",
+                "electronic": "부",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "60,000",
+                  "division": "",
+                  "summary": "증정용 자사 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "600,000",
+                  "division": "",
+                  "summary": "증정용 자사 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-28T21:55:04.343Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2023-08-10",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "증정용 자사 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "600,000",
+                "vat": "60,000",
+                "supplier": "없음",
+                "electronic": "부",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "60,000",
+                  "division": "",
+                  "summary": "증정용 자사 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "360,000",
+                  "division": "",
+                  "summary": "8(타계정으로 대체)",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|제",
+                  "amount": "660,000",
+                  "division": "제",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-09-28T22:40:38.189Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2023-08-10",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "증정용 자사 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "600,000",
+                "vat": "60,000",
+                "supplier": "",
+                "electronic": "부",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "제품",
+                  "accountCode": "",
+                  "accountValue": "제품|",
+                  "amount": "360,000",
+                  "division": "",
+                  "summary": "8(타계정으로 대체)",
+                  "autoRole": ""
+                },
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "60,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|제",
+                  "amount": "420,000",
+                  "division": "제",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "공급처"
+              ]
+            },
+            {
+              "at": "2026-09-28T22:41:42.556Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2023-08-10",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "증정용 자사 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "600,000",
+                "vat": "60,000",
+                "supplier": "원재료 매입 거래처",
+                "electronic": "부",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "60,000",
+                  "division": "",
+                  "summary": "증정용 자사 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품",
+                  "accountCode": "",
+                  "accountValue": "제품|",
+                  "amount": "360,000",
+                  "division": "",
+                  "summary": "8(타계정으로 대체)",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|제",
+                  "amount": "420,000",
+                  "division": "제",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "공급처"
+              ]
+            },
+            {
+              "at": "2026-09-28T22:43:13.553Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2023-08-10",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "증정용 자사 제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "600,000",
+                "vat": "60,000",
+                "supplier": "없음",
+                "electronic": "부",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "60,000",
+                  "division": "",
+                  "summary": "증정용 자사 제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품",
+                  "accountCode": "",
+                  "accountValue": "제품|",
+                  "amount": "360,000",
+                  "division": "",
+                  "summary": "8(타계정으로 대체)",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "기업업무추진비",
+                  "accountCode": "",
+                  "accountValue": "기업업무추진비|제",
+                  "amount": "420,000",
+                  "division": "제",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "restoredAt": "2026-09-28T22:41:42.556Z",
+          "passedAt": "2026-09-28T22:43:13.553Z"
         },
         "50": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "2023-10-22",
+            "trade": "purchase",
+            "type": "53.면세",
+            "item": "도서(슬기로운 직장 생활 외)",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "1,650,000",
+            "vat": "",
+            "supplier": "새봄서점",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "",
+            "deductReason": ""
+          },
           "rows": [
             {
               "side": "D",
-              "account": "",
+              "account": "도서인쇄비",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
+              "accountValue": "도서인쇄비|판",
+              "amount": "1,650,000",
+              "division": "판",
+              "summary": "도서(슬기로운 직장 생활 외)",
+              "autoRole": "base"
             },
             {
-              "side": "D",
-              "account": "",
+              "side": "C",
+              "account": "현금",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "현금|",
+              "amount": "1,650,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -9063,14 +10168,82 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
+          "graded": true,
+          "correct": true,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-28T21:46:24.178Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2023-10-22",
+                "trade": "purchase",
+                "type": "53.면세",
+                "item": "도서(슬기로운 직장 생활 외)",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,650,000",
+                "vat": "",
+                "supplier": "새봄서점",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "도서인쇄비",
+                  "accountCode": "",
+                  "accountValue": "도서인쇄비|판",
+                  "amount": "1,650,000",
+                  "division": "판",
+                  "summary": "도서(슬기로운 직장 생활 외)",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "현금",
+                  "accountCode": "",
+                  "accountValue": "현금|",
+                  "amount": "1,650,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "passedAt": "2026-09-28T21:46:24.178Z"
         },
         "51": {
           "voucher": {},
@@ -9118,12 +10291,80 @@
           ],
           "graded": false,
           "correct": false,
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-28T13:43:12.651Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2024-11-04",
+                "trade": "sales",
+                "type": "17.카과",
+                "item": "제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "900,000",
+                "vat": "90,000",
+                "supplier": "김하늘",
+                "electronic": "",
+                "journal": "카드",
+                "cardCompanyCode": "",
+                "cardCompany": "신한카드",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "외상매출금",
+                  "accountCode": "",
+                  "accountValue": "외상매출금|",
+                  "amount": "990,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "counter"
+                },
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "90,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "900,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "passedAt": "2026-09-28T13:43:12.651Z"
         },
         "52": {
           "voucher": {},
@@ -9171,12 +10412,80 @@
           ],
           "graded": false,
           "correct": false,
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-28T13:40:44.255Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2024-07-23",
+                "trade": "sales",
+                "type": "13.면세",
+                "item": "토지",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "64,000,000",
+                "vat": "",
+                "supplier": "돌상상회",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "토지",
+                  "accountCode": "",
+                  "accountValue": "토지|",
+                  "amount": "68,000,000",
+                  "division": "",
+                  "summary": "토지",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "28,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "미수금",
+                  "accountCode": "",
+                  "accountValue": "미수금|",
+                  "amount": "36,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "유형자산처분손실",
+                  "accountCode": "",
+                  "accountValue": "유형자산처분손실|",
+                  "amount": "4,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "passedAt": "2026-09-28T13:40:44.255Z"
         },
         "53": {
           "voucher": {},
@@ -9224,12 +10533,80 @@
           ],
           "graded": false,
           "correct": false,
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-28T13:37:26.979Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2024-08-17",
+                "trade": "purchase",
+                "type": "51.과세",
+                "item": "k-312 밸브",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "15,000,000",
+                "vat": "1,500,000",
+                "supplier": "㈜새철상사",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금|",
+                  "amount": "1,500,000",
+                  "division": "",
+                  "summary": "k-312 밸브",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "원재료",
+                  "accountCode": "",
+                  "accountValue": "원재료|",
+                  "amount": "15,000,000",
+                  "division": "",
+                  "summary": "k-312 밸브",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "외상매입금",
+                  "accountCode": "",
+                  "accountValue": "외상매입금|",
+                  "amount": "10,500,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "C",
+                  "account": "지급어음",
+                  "accountCode": "",
+                  "accountValue": "지급어음|",
+                  "amount": "6,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "passedAt": "2026-09-28T13:37:26.979Z"
         },
         "54": {
           "voucher": {},
@@ -9277,12 +10654,80 @@
           ],
           "graded": false,
           "correct": false,
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-28T13:35:20.859Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2024-11-08",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "파라다이스 홀 대관",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "22,000,000",
+                "vat": "2,200,000",
+                "supplier": "새봄호텔㈜",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "가지급금",
+                  "accountCode": "",
+                  "accountValue": "가지급금|",
+                  "amount": "24,200,000",
+                  "division": "",
+                  "summary": "파라다이스 홀 대관",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "24,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "passedAt": "2026-09-28T13:35:20.859Z"
         },
         "55": {
           "voucher": {},
@@ -9330,12 +10775,80 @@
           ],
           "graded": false,
           "correct": false,
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-09-28T13:33:51.153Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2024-08-06",
+                "trade": "sales",
+                "type": "14.건별",
+                "item": "철 스크랩",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,500,000",
+                "vat": "150,000",
+                "supplier": "최하늘",
+                "electronic": "",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "150,000",
+                  "division": "",
+                  "summary": "철 스크랩",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "잡이익",
+                  "accountCode": "",
+                  "accountValue": "잡이익|",
+                  "amount": "1,500,000",
+                  "division": "",
+                  "summary": "철 스크랩",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "현금",
+                  "accountCode": "",
+                  "accountValue": "현금|",
+                  "amount": "1,650,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "passedAt": "2026-09-28T13:33:51.153Z"
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -13600,9 +15113,9 @@
       }
     ]
   },
-  "syncedAt": "2026-09-28T13:09:10.112Z",
+  "syncedAt": "2026-09-28T22:43:20.424Z",
   "device": {
-    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
-    "name": "모바일"
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "name": "PC"
   }
 }
