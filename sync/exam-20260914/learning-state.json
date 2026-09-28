@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-28T13:04:33.289Z",
+  "exportedAt": "2026-09-28T13:09:10.111Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1814,7 +1814,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-28T13:04:33.272Z",
+      "updatedAt": "2026-09-28T13:09:10.091Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -2781,7 +2781,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-28T13:04:33.283Z",
+      "updatedAt": "2026-09-28T13:09:10.104Z",
       "cards": {
         "0": {
           "voucher": {
@@ -8965,6 +8965,377 @@
           "passed": false,
           "archived": false,
           "starred": false
+        },
+        "49": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "50": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "51": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "52": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "53": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "54": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "55": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -12778,7 +13149,7 @@
       "score": 1
     }
   ],
-  "catalogAt": "2026-09-28T13:04:33.290Z",
+  "catalogAt": "2026-09-28T13:09:10.112Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -13229,7 +13600,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-28T13:04:33.290Z",
+  "syncedAt": "2026-09-28T13:09:10.112Z",
   "device": {
     "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
     "name": "모바일"
