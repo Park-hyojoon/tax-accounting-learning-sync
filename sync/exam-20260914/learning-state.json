@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-09-29T12:41:27.844Z",
+  "exportedAt": "2026-09-30T04:44:41.036Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1886,13 +1886,13 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-09-29T12:41:27.837Z",
+      "updatedAt": "2026-09-30T04:44:41.028Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-09-28T13:50:51.214Z",
+      "updatedAt": "2026-09-30T02:16:08.280Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -1928,7 +1928,15 @@
         "review-20260927-tax-invoice-exemption": 2,
         "review-20260927-vat-filing-deadline": 3,
         "review-20260927-capital-expenditure": 2,
-        "review-20260927-bond-issuance": 0
+        "review-20260927-bond-issuance": 0,
+        "review-20260928-invoice-transmission": 2,
+        "review-20260928-inventory": 1,
+        "review-20260928-revenue-timing": 0,
+        "review-20260928-allowance": 1,
+        "review-20260928-ppe-disposal": 3,
+        "review-20260928-manufacturing-cost": 2,
+        "review-20260928-input-vat": 3,
+        "review-20260928-cost-concepts": 3
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -1965,7 +1973,15 @@
         "review-20260927-tax-invoice-exemption": true,
         "review-20260927-vat-filing-deadline": true,
         "review-20260927-capital-expenditure": true,
-        "review-20260927-bond-issuance": true
+        "review-20260927-bond-issuance": true,
+        "review-20260928-invoice-transmission": true,
+        "review-20260928-inventory": true,
+        "review-20260928-revenue-timing": true,
+        "review-20260928-allowance": true,
+        "review-20260928-ppe-disposal": true,
+        "review-20260928-manufacturing-cost": true,
+        "review-20260928-input-vat": true,
+        "review-20260928-cost-concepts": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -2030,7 +2046,15 @@
         "review-20260927-tax-invoice-exemption": 1,
         "review-20260927-vat-filing-deadline": 1,
         "review-20260927-capital-expenditure": 1,
-        "review-20260927-bond-issuance": 2
+        "review-20260927-bond-issuance": 2,
+        "review-20260928-invoice-transmission": 1,
+        "review-20260928-inventory": 1,
+        "review-20260928-revenue-timing": 3,
+        "review-20260928-allowance": 3,
+        "review-20260928-ppe-disposal": 1,
+        "review-20260928-manufacturing-cost": 1,
+        "review-20260928-input-vat": 1,
+        "review-20260928-cost-concepts": 2
       },
       "history": {
         "exam121-reliability-variant": [
@@ -2623,6 +2647,87 @@
             "choice": 0,
             "correct": true
           }
+        ],
+        "review-20260928-invoice-transmission": [
+          {
+            "at": "2026-09-29T13:02:31.304Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "review-20260928-inventory": [
+          {
+            "at": "2026-09-29T13:02:57.915Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "review-20260928-revenue-timing": [
+          {
+            "at": "2026-09-30T01:56:59.506Z",
+            "choice": 2,
+            "correct": false
+          },
+          {
+            "at": "2026-09-30T01:59:23.746Z",
+            "choice": 3,
+            "correct": false
+          },
+          {
+            "at": "2026-09-30T02:01:33.540Z",
+            "choice": 0,
+            "correct": true
+          }
+        ],
+        "review-20260928-allowance": [
+          {
+            "at": "2026-09-30T02:02:51.313Z",
+            "choice": 3,
+            "correct": false
+          },
+          {
+            "at": "2026-09-30T02:03:12.349Z",
+            "choice": 2,
+            "correct": false
+          },
+          {
+            "at": "2026-09-30T02:03:32.974Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "review-20260928-ppe-disposal": [
+          {
+            "at": "2026-09-30T02:06:33.643Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "review-20260928-manufacturing-cost": [
+          {
+            "at": "2026-09-30T02:12:52.210Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "review-20260928-input-vat": [
+          {
+            "at": "2026-09-30T02:14:59.004Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "review-20260928-cost-concepts": [
+          {
+            "at": "2026-09-30T02:15:36.438Z",
+            "choice": 0,
+            "correct": false
+          },
+          {
+            "at": "2026-09-30T02:16:08.280Z",
+            "choice": 3,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -2688,7 +2793,15 @@
         "review-20260927-tax-invoice-exemption": true,
         "review-20260927-vat-filing-deadline": true,
         "review-20260927-capital-expenditure": true,
-        "review-20260927-bond-issuance": true
+        "review-20260927-bond-issuance": true,
+        "review-20260928-invoice-transmission": true,
+        "review-20260928-inventory": true,
+        "review-20260928-revenue-timing": true,
+        "review-20260928-allowance": true,
+        "review-20260928-ppe-disposal": true,
+        "review-20260928-manufacturing-cost": true,
+        "review-20260928-input-vat": true,
+        "review-20260928-cost-concepts": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -2753,7 +2866,15 @@
         "review-20260927-tax-invoice-exemption": false,
         "review-20260927-vat-filing-deadline": false,
         "review-20260927-capital-expenditure": false,
-        "review-20260927-bond-issuance": false
+        "review-20260927-bond-issuance": false,
+        "review-20260928-invoice-transmission": false,
+        "review-20260928-inventory": false,
+        "review-20260928-revenue-timing": false,
+        "review-20260928-allowance": false,
+        "review-20260928-ppe-disposal": false,
+        "review-20260928-manufacturing-cost": false,
+        "review-20260928-input-vat": false,
+        "review-20260928-cost-concepts": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -2818,7 +2939,15 @@
         "review-20260927-tax-invoice-exemption": "2026-09-27T22:03:21.156Z",
         "review-20260927-vat-filing-deadline": "2026-09-27T22:05:07.768Z",
         "review-20260927-capital-expenditure": "2026-09-27T22:07:28.413Z",
-        "review-20260927-bond-issuance": "2026-09-27T22:49:45.204Z"
+        "review-20260927-bond-issuance": "2026-09-27T22:49:45.204Z",
+        "review-20260928-invoice-transmission": "2026-09-29T13:02:31.304Z",
+        "review-20260928-inventory": "2026-09-29T13:02:57.915Z",
+        "review-20260928-revenue-timing": "2026-09-30T02:01:33.540Z",
+        "review-20260928-allowance": "2026-09-30T02:03:32.974Z",
+        "review-20260928-ppe-disposal": "2026-09-30T02:06:33.643Z",
+        "review-20260928-manufacturing-cost": "2026-09-30T02:12:52.210Z",
+        "review-20260928-input-vat": "2026-09-30T02:14:59.004Z",
+        "review-20260928-cost-concepts": "2026-09-30T02:16:08.280Z"
       },
       "archivedAt": {},
       "trainingCenterRestored": {},
@@ -2848,12 +2977,15 @@
         "practice-20260926-step-fixed-cost": "2026-09-26T08:48:13.776Z",
         "practice-20260926-ppe-characteristics": "2026-09-26T08:50:35.232Z",
         "exam110-ending-equity-calculation-variant": "2026-09-26T12:07:39.396Z",
-        "review-20260927-bond-issuance": "2026-09-27T22:49:42.442Z"
+        "review-20260927-bond-issuance": "2026-09-27T22:49:42.442Z",
+        "review-20260928-revenue-timing": "2026-09-30T01:59:23.746Z",
+        "review-20260928-allowance": "2026-09-30T02:03:12.349Z",
+        "review-20260928-cost-concepts": "2026-09-30T02:15:36.438Z"
       }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-09-29T12:41:27.841Z",
+      "updatedAt": "2026-09-30T04:44:41.033Z",
       "cards": {
         "0": {
           "voucher": {
@@ -11940,6 +12072,136 @@
       "archived": false
     },
     {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 68,
+      "title": "사무실 임차보증금 잔금 지급",
+      "type": "임차보증금과 계약금 대체",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 69,
+      "title": "수출대금 외상매출금 회수",
+      "type": "외화매출채권 회수와 외환차익",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 70,
+      "title": "생산직 일용급여 지급",
+      "type": "생산부 일용직 급여와 예수금",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 71,
+      "title": "외상매입금의 배서어음 결제",
+      "type": "보유 약속어음 배서양도",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 72,
+      "title": "차입금 일부 상환과 잔액 면제",
+      "type": "장기차입금 일부 상환과 채무면제이익",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 73,
+      "title": "단기보유 주식 취득",
+      "type": "단기매매증권 취득과 거래수수료",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 74,
+      "title": "카드 식사비 사용 목적 확인",
+      "type": "거래처 접대비로 확인된 카드 사용 전표 수정",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 75,
+      "title": "예금이자 입금액 확인",
+      "type": "이자 원천징수 세액 누락 수정",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 76,
+      "title": "사무실 임차료 기간배분",
+      "type": "선지급 임차료의 결산 정리",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "practical",
+      "category": "일반전표",
+      "id": 77,
+      "title": "취득한 영업권의 기간상각",
+      "type": "영업권 정액법 직접상각",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
       "source": "theory",
       "category": "이론",
       "id": "exam121-reliability-variant",
@@ -12856,9 +13118,9 @@
       "title": "원가 개념에 대한 설명 판단",
       "type": "관련범위와 의사결정 원가",
       "registered": "2026-09-28",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 2,
+      "wrong": 1,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -12869,9 +13131,9 @@
       "title": "구입 목적과 증빙에 따른 매입세액 판단",
       "type": "증빙과 용도에 따른 매입세액공제",
       "registered": "2026-09-28",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -12895,9 +13157,9 @@
       "title": "원재료와 임금을 이용한 당기 제조원가",
       "type": "발생주의 노무원가와 당기총제조원가",
       "registered": "2026-09-28",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -12908,9 +13170,9 @@
       "title": "기계장치 처분금액과 장부금액 비교",
       "type": "월할감가상각 후 유형자산 처분손익",
       "registered": "2026-09-28",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -12921,9 +13183,9 @@
       "title": "대손충당금의 성격과 설정대상 판단",
       "type": "대손충당금의 성격과 설정대상",
       "registered": "2026-09-28",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 3,
+      "wrong": 2,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -12934,9 +13196,9 @@
       "title": "판매방식별 수익 인식시점 판단",
       "type": "위탁·할부·배당금 수익 인식시점",
       "registered": "2026-09-28",
-      "attempts": 0,
-      "wrong": 0,
-      "passed": false,
+      "attempts": 3,
+      "wrong": 2,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -12947,9 +13209,9 @@
       "title": "재고자산의 취득원가 판단",
       "type": "재고자산 취득원가와 관세",
       "registered": "2026-09-28",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -12960,9 +13222,9 @@
       "title": "전자세금계산서 발급명세 전송일 판단",
       "type": "전자세금계산서 발급명세 전송기한",
       "registered": "2026-09-28",
-      "attempts": 0,
+      "attempts": 1,
       "wrong": 0,
-      "passed": false,
+      "passed": true,
       "selfPassed": false,
       "archived": false
     },
@@ -12986,6 +13248,201 @@
       "title": "거래별 자본총액 변동 판단",
       "type": "자본총액에 영향을 주는 거래 구분",
       "registered": "2026-09-29",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-01",
+      "title": "재무제표와 장부 자료의 구분",
+      "type": "재무제표의 종류",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-02",
+      "title": "자산의 유동·비유동 분류",
+      "type": "재무상태표 자산 분류",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-03",
+      "title": "결산 절차의 순서 판단",
+      "type": "회계순환과정의 순서",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-04",
+      "title": "이익잉여금처분계산서 항목 판단",
+      "type": "이익잉여금 처분항목 구분",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-05",
+      "title": "재고자산 평가 용어 판단",
+      "type": "재고자산 순실현가능가치",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-06",
+      "title": "상품 입출 내역과 매출원가 계산",
+      "type": "이동평균법 상품매출원가",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-07",
+      "title": "재무상태표의 유동부채 판단",
+      "type": "유동부채와 임차보증금",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-08",
+      "title": "영업이익에 반영되는 항목 계산",
+      "type": "영업이익 영향 항목 구분",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-09",
+      "title": "원가행태와 추적 가능성 판단",
+      "type": "제조원가의 성격",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-10",
+      "title": "완성품환산량 계산법 비교",
+      "type": "평균법과 선입선출법 환산량",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-11",
+      "title": "작업시간당 예정배부율 계산",
+      "type": "제조간접원가 예정배부율",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-12",
+      "title": "제조원가 자료와 가공원가 계산",
+      "type": "가공원가 구성",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-13",
+      "title": "재화 공급 여부 판단",
+      "type": "부가가치세 재화의 공급 범위",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-14",
+      "title": "장기할부판매의 공급시기 판단",
+      "type": "재화 장기할부판매 공급시기",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "theory",
+      "category": "이론",
+      "id": "paper-20260930-theory-15",
+      "title": "거래별 세금계산서 발급 여부",
+      "type": "세금계산서 발급의무",
+      "registered": "2026-09-30",
       "attempts": 0,
       "wrong": 0,
       "passed": false,
@@ -13823,6 +14280,84 @@
       "passed": false,
       "selfPassed": false,
       "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 64,
+      "title": "제품 판매대금 일부 현금 수령",
+      "type": "제품 판매와 현금·외상 대금 회수",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 65,
+      "title": "공장 시설보호용 CCTV 설치",
+      "type": "공장 CCTV 설치와 할부 지급",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 66,
+      "title": "홍보물 서류 운반비 지급",
+      "type": "운반비 현금영수증 수취",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 67,
+      "title": "제조부 기계장치 수리대금 결제",
+      "type": "제조부 기계장치 수선비 카드 결제",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 68,
+      "title": "구매확인서에 따른 제품 공급",
+      "type": "구매확인서 영세율 제품매출",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
+    },
+    {
+      "source": "voucher",
+      "category": "매입매출전표",
+      "id": 69,
+      "title": "승용차 구입대금 이체",
+      "type": "비영업용 승용차 매입세액 불공제",
+      "registered": "2026-09-30",
+      "attempts": 0,
+      "wrong": 0,
+      "passed": false,
+      "selfPassed": false,
+      "archived": false
     }
   ],
   "typeSummary": [
@@ -13946,10 +14481,31 @@
       "score": 3
     },
     {
+      "type": "대손충당금의 성격과 설정대상",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 0,
+      "score": 3
+    },
+    {
+      "type": "위탁·할부·배당금 수익 인식시점",
+      "problems": 1,
+      "wrong": 2,
+      "unpassed": 0,
+      "score": 3
+    },
+    {
       "type": "비영업용 승용차 매입세액 불공제 수정",
       "problems": 1,
       "wrong": 2,
       "unpassed": 0,
+      "score": 3
+    },
+    {
+      "type": "재고자산 순실현가능가치",
+      "problems": 2,
+      "wrong": 1,
+      "unpassed": 1,
       "score": 3
     },
     {
@@ -14051,13 +14607,6 @@
       "score": 2
     },
     {
-      "type": "재고자산 순실현가능가치",
-      "problems": 1,
-      "wrong": 1,
-      "unpassed": 0,
-      "score": 2
-    },
-    {
       "type": "평균법과 선입선출법 완성품환산량",
       "problems": 1,
       "wrong": 1,
@@ -14087,6 +14636,13 @@
     },
     {
       "type": "부가가치세 사업자단위 과세제도",
+      "problems": 1,
+      "wrong": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "관련범위와 의사결정 원가",
       "problems": 1,
       "wrong": 1,
       "unpassed": 0,
@@ -14139,6 +14695,13 @@
       "problems": 2,
       "wrong": 0,
       "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "임차보증금과 계약금 대체",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 1,
       "score": 2
     },
     {
@@ -14195,6 +14758,13 @@
       "problems": 2,
       "wrong": 0,
       "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "제조간접원가 예정배부율",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 1,
       "score": 2
     },
     {
@@ -14257,7 +14827,14 @@
       "type": "발생주의 노무원가와 당기총제조원가",
       "problems": 2,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
+      "score": 2
+    },
+    {
+      "type": "구매확인서 영세율 제품매출",
+      "problems": 2,
+      "wrong": 0,
+      "unpassed": 2,
       "score": 2
     },
     {
@@ -14290,13 +14867,6 @@
     },
     {
       "type": "신제품 개발비의 자산 처리",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 0,
-      "score": 1
-    },
-    {
-      "type": "임차보증금과 계약금 대체",
       "problems": 1,
       "wrong": 0,
       "unpassed": 0,
@@ -14534,6 +15104,69 @@
       "score": 1
     },
     {
+      "type": "외화매출채권 회수와 외환차익",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "생산부 일용직 급여와 예수금",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "보유 약속어음 배서양도",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "장기차입금 일부 상환과 채무면제이익",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "단기매매증권 취득과 거래수수료",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "거래처 접대비로 확인된 카드 사용 전표 수정",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "이자 원천징수 세액 누락 수정",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "선지급 임차료의 결산 정리",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "영업권 정액법 직접상각",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
       "type": "회계정보의 신뢰성 구성요소",
       "problems": 1,
       "wrong": 0,
@@ -14556,13 +15189,6 @@
     },
     {
       "type": "우리나라 부가가치세의 특징",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 0,
-      "score": 1
-    },
-    {
-      "type": "제조간접원가 예정배부율",
       "problems": 1,
       "wrong": 0,
       "unpassed": 0,
@@ -14765,17 +15391,10 @@
       "score": 1
     },
     {
-      "type": "관련범위와 의사결정 원가",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
       "type": "증빙과 용도에 따른 매입세액공제",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -14789,35 +15408,21 @@
       "type": "월할감가상각 후 유형자산 처분손익",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "대손충당금의 성격과 설정대상",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "위탁·할부·배당금 수익 인식시점",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "재고자산 취득원가와 관세",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
       "type": "전자세금계산서 발급명세 전송기한",
       "problems": 1,
       "wrong": 0,
-      "unpassed": 1,
+      "unpassed": 0,
       "score": 1
     },
     {
@@ -14829,6 +15434,97 @@
     },
     {
       "type": "자본총액에 영향을 주는 거래 구분",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "재무제표의 종류",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "재무상태표 자산 분류",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "회계순환과정의 순서",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "이익잉여금 처분항목 구분",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "이동평균법 상품매출원가",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "유동부채와 임차보증금",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "영업이익 영향 항목 구분",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "제조원가의 성격",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "평균법과 선입선출법 환산량",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "가공원가 구성",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "부가가치세 재화의 공급 범위",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "재화 장기할부판매 공급시기",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "세금계산서 발급의무",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -14920,13 +15616,6 @@
     },
     {
       "type": "생산부 임차료 과세매입",
-      "problems": 1,
-      "wrong": 0,
-      "unpassed": 1,
-      "score": 1
-    },
-    {
-      "type": "구매확인서 영세율 제품매출",
       "problems": 1,
       "wrong": 0,
       "unpassed": 1,
@@ -15036,9 +15725,44 @@
       "wrong": 0,
       "unpassed": 1,
       "score": 1
+    },
+    {
+      "type": "제품 판매와 현금·외상 대금 회수",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "공장 CCTV 설치와 할부 지급",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "운반비 현금영수증 수취",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "제조부 기계장치 수선비 카드 결제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
+    },
+    {
+      "type": "비영업용 승용차 매입세액 불공제",
+      "problems": 1,
+      "wrong": 0,
+      "unpassed": 1,
+      "score": 1
     }
   ],
-  "catalogAt": "2026-09-29T12:41:27.844Z",
+  "catalogAt": "2026-09-30T04:44:41.036Z",
   "sourceMistakes": {
     "schemaVersion": 1,
     "revision": 10,
@@ -15489,7 +16213,7 @@
       }
     ]
   },
-  "syncedAt": "2026-09-29T12:41:27.844Z",
+  "syncedAt": "2026-09-30T04:44:41.036Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
