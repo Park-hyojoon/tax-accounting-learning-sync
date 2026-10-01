@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-10-01T12:28:09.838Z",
+  "exportedAt": "2026-10-01T14:06:58.793Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -2015,16 +2015,24 @@
           "passed": false,
           "archived": false,
           "starred": false
+        },
+        "78": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-10-01T12:28:09.830Z",
+      "updatedAt": "2026-10-01T14:06:58.784Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-10-01T06:25:43.757Z",
+      "updatedAt": "2026-10-01T13:53:26.869Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -2074,7 +2082,21 @@
         "review-20260927-financial-elements": 2,
         "review-20260927-simplified-taxpayer": 3,
         "review-20260927-semivariable": 0,
-        "review-20260927-abnormal-spoilage": 2
+        "review-20260927-abnormal-spoilage": 2,
+        "review-20260927-revenue-measurement": 3,
+        "review-20260927-periodic-cogs": 2,
+        "inventory-inclusion-20260929-batch2": 0,
+        "capital-total-20260929-batch2": 3,
+        "practice-20261001-vat-business-place": 1,
+        "practice-20261001-vat-taxpayers": 2,
+        "practice-20261001-expense-deferral": 2,
+        "practice-20261001-total-manufacturing-cost-inventory": 1,
+        "practice-20260930-depreciation-start-repeat": 2,
+        "practice-20260930-income-statement-offset": 0,
+        "practice-20260930-vat-tax-base": 2,
+        "paper-20260930-theory-15": 2,
+        "paper-20260930-theory-14": 1,
+        "paper-20260930-theory-13": 0
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -2125,7 +2147,21 @@
         "review-20260927-financial-elements": true,
         "review-20260927-simplified-taxpayer": true,
         "review-20260927-semivariable": true,
-        "review-20260927-abnormal-spoilage": true
+        "review-20260927-abnormal-spoilage": true,
+        "review-20260927-revenue-measurement": true,
+        "review-20260927-periodic-cogs": true,
+        "inventory-inclusion-20260929-batch2": false,
+        "capital-total-20260929-batch2": true,
+        "practice-20261001-vat-business-place": true,
+        "practice-20261001-vat-taxpayers": true,
+        "practice-20261001-expense-deferral": true,
+        "practice-20261001-total-manufacturing-cost-inventory": true,
+        "practice-20260930-depreciation-start-repeat": true,
+        "practice-20260930-income-statement-offset": true,
+        "practice-20260930-vat-tax-base": true,
+        "paper-20260930-theory-15": true,
+        "paper-20260930-theory-14": true,
+        "paper-20260930-theory-13": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -2204,7 +2240,21 @@
         "review-20260927-financial-elements": 1,
         "review-20260927-simplified-taxpayer": 1,
         "review-20260927-semivariable": 1,
-        "review-20260927-abnormal-spoilage": 1
+        "review-20260927-abnormal-spoilage": 1,
+        "review-20260927-revenue-measurement": 1,
+        "review-20260927-periodic-cogs": 1,
+        "inventory-inclusion-20260929-batch2": 2,
+        "capital-total-20260929-batch2": 1,
+        "practice-20261001-vat-business-place": 1,
+        "practice-20261001-vat-taxpayers": 2,
+        "practice-20261001-expense-deferral": 1,
+        "practice-20261001-total-manufacturing-cost-inventory": 1,
+        "practice-20260930-depreciation-start-repeat": 1,
+        "practice-20260930-income-statement-offset": 1,
+        "practice-20260930-vat-tax-base": 1,
+        "paper-20260930-theory-15": 1,
+        "paper-20260930-theory-14": 1,
+        "paper-20260930-theory-13": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -2920,6 +2970,115 @@
             "choice": 2,
             "correct": true
           }
+        ],
+        "review-20260927-revenue-measurement": [
+          {
+            "at": "2026-10-01T13:16:04.062Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "review-20260927-periodic-cogs": [
+          {
+            "at": "2026-10-01T13:22:02.572Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "inventory-inclusion-20260929-batch2": [
+          {
+            "at": "2026-10-01T13:23:15.979Z",
+            "choice": 3,
+            "correct": false
+          },
+          {
+            "id": "a8b61e39-fd1f-491c-9cbd-84e09588c3d0",
+            "at": "2026-10-01T13:25:46.762Z",
+            "correct": false,
+            "source": "notebook"
+          }
+        ],
+        "capital-total-20260929-batch2": [
+          {
+            "at": "2026-10-01T13:32:10.978Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "practice-20261001-vat-business-place": [
+          {
+            "at": "2026-10-01T13:38:26.014Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "practice-20261001-vat-taxpayers": [
+          {
+            "at": "2026-10-01T13:39:06.440Z",
+            "choice": 3,
+            "correct": false
+          },
+          {
+            "at": "2026-10-01T13:39:19.022Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "practice-20261001-expense-deferral": [
+          {
+            "at": "2026-10-01T13:44:19.068Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "practice-20261001-total-manufacturing-cost-inventory": [
+          {
+            "at": "2026-10-01T13:46:34.316Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "practice-20260930-depreciation-start-repeat": [
+          {
+            "at": "2026-10-01T13:47:16.080Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "practice-20260930-income-statement-offset": [
+          {
+            "at": "2026-10-01T13:47:46.574Z",
+            "choice": 0,
+            "correct": true
+          }
+        ],
+        "practice-20260930-vat-tax-base": [
+          {
+            "at": "2026-10-01T13:49:07.864Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "paper-20260930-theory-15": [
+          {
+            "at": "2026-10-01T13:49:19.441Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "paper-20260930-theory-14": [
+          {
+            "at": "2026-10-01T13:49:33.773Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "paper-20260930-theory-13": [
+          {
+            "at": "2026-10-01T13:53:26.869Z",
+            "choice": 0,
+            "correct": true
+          }
         ]
       },
       "passed": {
@@ -2999,7 +3158,21 @@
         "review-20260927-financial-elements": true,
         "review-20260927-simplified-taxpayer": true,
         "review-20260927-semivariable": true,
-        "review-20260927-abnormal-spoilage": true
+        "review-20260927-abnormal-spoilage": true,
+        "review-20260927-revenue-measurement": true,
+        "review-20260927-periodic-cogs": true,
+        "inventory-inclusion-20260929-batch2": false,
+        "capital-total-20260929-batch2": true,
+        "practice-20261001-vat-business-place": true,
+        "practice-20261001-vat-taxpayers": true,
+        "practice-20261001-expense-deferral": true,
+        "practice-20261001-total-manufacturing-cost-inventory": true,
+        "practice-20260930-depreciation-start-repeat": true,
+        "practice-20260930-income-statement-offset": true,
+        "practice-20260930-vat-tax-base": true,
+        "paper-20260930-theory-15": true,
+        "paper-20260930-theory-14": true,
+        "paper-20260930-theory-13": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -3078,7 +3251,21 @@
         "review-20260927-financial-elements": false,
         "review-20260927-simplified-taxpayer": false,
         "review-20260927-semivariable": false,
-        "review-20260927-abnormal-spoilage": false
+        "review-20260927-abnormal-spoilage": false,
+        "review-20260927-revenue-measurement": false,
+        "review-20260927-periodic-cogs": false,
+        "inventory-inclusion-20260929-batch2": false,
+        "capital-total-20260929-batch2": false,
+        "practice-20261001-vat-business-place": false,
+        "practice-20261001-vat-taxpayers": false,
+        "practice-20261001-expense-deferral": false,
+        "practice-20261001-total-manufacturing-cost-inventory": false,
+        "practice-20260930-depreciation-start-repeat": false,
+        "practice-20260930-income-statement-offset": false,
+        "practice-20260930-vat-tax-base": false,
+        "paper-20260930-theory-15": false,
+        "paper-20260930-theory-14": false,
+        "paper-20260930-theory-13": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -3157,10 +3344,25 @@
         "review-20260927-financial-elements": "2026-10-01T06:22:32.203Z",
         "review-20260927-simplified-taxpayer": "2026-10-01T06:23:13.583Z",
         "review-20260927-semivariable": "2026-10-01T06:23:35.950Z",
-        "review-20260927-abnormal-spoilage": "2026-10-01T06:25:43.757Z"
+        "review-20260927-abnormal-spoilage": "2026-10-01T06:25:43.757Z",
+        "review-20260927-revenue-measurement": "2026-10-01T13:16:04.062Z",
+        "review-20260927-periodic-cogs": "2026-10-01T13:22:02.572Z",
+        "capital-total-20260929-batch2": "2026-10-01T13:32:10.978Z",
+        "practice-20261001-vat-business-place": "2026-10-01T13:38:26.014Z",
+        "practice-20261001-vat-taxpayers": "2026-10-01T13:39:19.022Z",
+        "practice-20261001-expense-deferral": "2026-10-01T13:44:19.068Z",
+        "practice-20261001-total-manufacturing-cost-inventory": "2026-10-01T13:46:34.316Z",
+        "practice-20260930-depreciation-start-repeat": "2026-10-01T13:47:16.080Z",
+        "practice-20260930-income-statement-offset": "2026-10-01T13:47:46.574Z",
+        "practice-20260930-vat-tax-base": "2026-10-01T13:49:07.864Z",
+        "paper-20260930-theory-15": "2026-10-01T13:49:19.442Z",
+        "paper-20260930-theory-14": "2026-10-01T13:49:33.773Z",
+        "paper-20260930-theory-13": "2026-10-01T13:53:26.869Z"
       },
       "archivedAt": {},
-      "trainingCenterRestored": {},
+      "trainingCenterRestored": {
+        "inventory-inclusion-20260929-batch2": true
+      },
       "starred": {},
       "starredAt": {},
       "fileName": "이론_새학습_학습기록_2026-09-14",
@@ -3175,11 +3377,13 @@
       },
       "selfPassed": {
         "exam121-reliability-variant": true,
-        "exam106-sales-cutoff-variant": true
+        "exam106-sales-cutoff-variant": true,
+        "inventory-inclusion-20260929-batch2": false
       },
       "selfPassedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
-        "exam106-sales-cutoff-variant": "2026-09-16T22:40:29.905Z"
+        "exam106-sales-cutoff-variant": "2026-09-16T22:40:29.905Z",
+        "inventory-inclusion-20260929-batch2": null
       },
       "restoredAt": {
         "practice-20260924-inventory-ownership": "2026-09-26T08:55:45.138Z",
@@ -3190,12 +3394,14 @@
         "review-20260927-bond-issuance": "2026-09-27T22:49:42.442Z",
         "review-20260928-revenue-timing": "2026-09-30T01:59:23.746Z",
         "review-20260928-allowance": "2026-09-30T02:03:12.349Z",
-        "review-20260928-cost-concepts": "2026-09-30T02:15:36.438Z"
+        "review-20260928-cost-concepts": "2026-09-30T02:15:36.438Z",
+        "inventory-inclusion-20260929-batch2": "2026-10-01T13:25:46.762Z",
+        "practice-20261001-vat-taxpayers": "2026-10-01T13:39:06.440Z"
       }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-10-01T12:28:09.836Z",
+      "updatedAt": "2026-10-01T14:06:58.790Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -10062,68 +10268,9 @@
           "starred": false
         },
         "61": {
-          "voucher": {
-            "deleted": false,
-            "date": "2025-11-04",
-            "trade": "sales",
-            "type": "11.과세",
-            "item": "기계장치",
-            "quantity": "",
-            "unitPrice": "",
-            "supply": "15,000,000",
-            "vat": "1,500,000",
-            "supplier": "㈜푸른중고",
-            "electronic": "여",
-            "journal": "혼합",
-            "cardCompanyCode": "",
-            "cardCompany": "",
-            "serviceFee": "",
-            "zeroRate": "",
-            "deductReason": ""
-          },
-          "rows": [
-            {
-              "side": "C",
-              "account": "부가세예수금",
-              "accountCode": "",
-              "accountValue": "부가세예수금|",
-              "amount": "1,500,000",
-              "division": "",
-              "summary": "기계장치",
-              "autoRole": "base"
-            },
-            {
-              "side": "C",
-              "account": "기계장치",
-              "accountCode": "",
-              "accountValue": "기계장치|",
-              "amount": "90,000,000",
-              "division": "",
-              "summary": "기계장치",
-              "autoRole": "base"
-            },
-            {
-              "side": "D",
-              "account": "미수금",
-              "accountCode": "",
-              "accountValue": "미수금|",
-              "amount": "16,500,000",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "감가상각누계액",
-              "accountCode": "",
-              "accountValue": "감가상각누계액|",
-              "amount": "75,000,000",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": true,
+          "voucher": {},
+          "rows": [],
+          "graded": false,
           "correct": true,
           "attempts": 1,
           "wrongCount": 0,
@@ -10356,6 +10503,106 @@
           "passed": false,
           "archived": false,
           "starred": false
+        },
+        "70": {
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "at": "2026-10-01T14:01:27.220Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-07-16",
+                "trade": "sales",
+                "type": "12.영세",
+                "item": "태블릿",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "36,000,000",
+                "vat": "",
+                "supplier": "㈜하람",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "③내국신용장·구매확인서에 의한 공급",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "36,000,000",
+                  "division": "",
+                  "summary": "태블릿",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "24,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "외상매출금",
+                  "accountCode": "",
+                  "accountValue": "외상매출금|",
+                  "amount": "12,000,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "voucher": {},
+          "rows": [],
+          "graded": false,
+          "passedAt": "2026-10-01T14:01:27.220Z"
+        },
+        "71": {
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "9b8b7cbc-0c85-4042-a44c-972ce3ac39a5",
+              "at": "2026-10-01T13:59:52.007Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "voucher": {},
+          "rows": [],
+          "graded": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-01T13:59:52.007Z",
+          "passedAt": "2026-10-01T13:59:52.007Z"
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -15589,7 +15836,7 @@
       }
     ]
   },
-  "syncedAt": "2026-10-01T12:28:09.839Z",
+  "syncedAt": "2026-10-01T14:06:58.793Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
