@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-10-03T04:50:41.438Z",
+  "exportedAt": "2026-10-03T05:40:31.386Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -1813,60 +1813,145 @@
           "starred": false
         },
         "57": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "3b15a66b-99e0-4602-89e4-93a6b9c8e5f6",
+              "at": "2026-10-03T05:07:47.631Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:07:47.631Z",
+          "passedAt": "2026-10-03T05:07:47.631Z",
+          "graded": true
         },
         "58": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "23cb5cd2-02c8-4dcc-90d3-30aa6c4c8f39",
+              "at": "2026-10-03T05:07:49.591Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:07:49.591Z",
+          "passedAt": "2026-10-03T05:07:49.591Z",
+          "graded": true
         },
         "59": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "6292a3d2-0b63-4453-918a-1f0a8355ead5",
+              "at": "2026-10-03T05:09:16.842Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:09:16.842Z",
+          "passedAt": "2026-10-03T05:09:16.842Z",
+          "graded": true
         },
         "60": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "879a614d-37c6-40ef-81ab-9036e503973c",
+              "at": "2026-10-03T05:10:09.215Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-10-03T05:10:09.215Z",
+          "graded": true
         },
         "61": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "59b44e0a-15a9-4a80-a260-3c3da8c9a68a",
+              "at": "2026-10-03T05:11:44.836Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:11:44.836Z",
+          "passedAt": "2026-10-03T05:11:44.836Z",
+          "graded": true
         },
         "62": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "842bbd74-aa6e-4756-9b23-06c59b71acd6",
+              "at": "2026-10-03T05:13:31.337Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:13:31.337Z",
+          "passedAt": "2026-10-03T05:13:31.337Z",
+          "graded": true
         },
         "63": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "addabf4a-e0ea-464d-bd22-89ae777fd05d",
+              "at": "2026-10-03T05:14:27.545Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:14:27.545Z",
+          "passedAt": "2026-10-03T05:14:27.545Z",
+          "graded": true
         },
         "64": {
           "attempts": 0,
@@ -2017,22 +2102,94 @@
           "starred": false
         },
         "78": {
-          "attempts": 0,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "id": "db048992-4c29-41c5-8729-8bf6fe7ae578",
+              "at": "2026-10-03T05:16:08.323Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:16:08.323Z",
+          "passedAt": "2026-10-03T05:16:08.323Z",
+          "graded": true
+        },
+        "79": {
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "007acb80-70d2-4581-918a-47288c3d5b19",
+              "at": "2026-10-03T05:28:22.652Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:28:22.652Z",
+          "passedAt": "2026-10-03T05:28:22.652Z",
+          "graded": true
+        },
+        "80": {
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "f97f5627-51b3-4aad-9300-2efbceb431df",
+              "at": "2026-10-03T05:28:49.231Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:28:49.231Z",
+          "passedAt": "2026-10-03T05:28:49.231Z",
+          "graded": true
+        },
+        "81": {
+          "attempts": 1,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "b7372e04-e81c-4ab6-9a8a-5f5f9af4b3da",
+              "at": "2026-10-03T05:29:36.337Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "starred": false,
+          "correct": true,
+          "selfPassed": true,
+          "selfPassedAt": "2026-10-03T05:29:36.337Z",
+          "passedAt": "2026-10-03T05:29:36.337Z",
+          "graded": true
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-10-03T04:50:41.424Z",
+      "updatedAt": "2026-10-03T05:40:31.368Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-10-01T13:53:26.869Z",
+      "updatedAt": "2026-10-03T05:38:52.717Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -2085,7 +2242,7 @@
         "review-20260927-abnormal-spoilage": 2,
         "review-20260927-revenue-measurement": 3,
         "review-20260927-periodic-cogs": 2,
-        "inventory-inclusion-20260929-batch2": 0,
+        "inventory-inclusion-20260929-batch2": 1,
         "capital-total-20260929-batch2": 3,
         "practice-20261001-vat-business-place": 1,
         "practice-20261001-vat-taxpayers": 2,
@@ -2096,7 +2253,12 @@
         "practice-20260930-vat-tax-base": 2,
         "paper-20260930-theory-15": 2,
         "paper-20260930-theory-14": 1,
-        "paper-20260930-theory-13": 0
+        "paper-20260930-theory-13": 0,
+        "paper-20260930-theory-04": 0,
+        "paper-20260930-theory-10": 3,
+        "paper-20260930-theory-05": 2,
+        "paper-20260930-theory-01": 1,
+        "paper-20260930-theory-02": 1
       },
       "checked": {
         "exam121-reliability-variant": true,
@@ -2150,7 +2312,7 @@
         "review-20260927-abnormal-spoilage": true,
         "review-20260927-revenue-measurement": true,
         "review-20260927-periodic-cogs": true,
-        "inventory-inclusion-20260929-batch2": false,
+        "inventory-inclusion-20260929-batch2": true,
         "capital-total-20260929-batch2": true,
         "practice-20261001-vat-business-place": true,
         "practice-20261001-vat-taxpayers": true,
@@ -2161,7 +2323,12 @@
         "practice-20260930-vat-tax-base": true,
         "paper-20260930-theory-15": true,
         "paper-20260930-theory-14": true,
-        "paper-20260930-theory-13": true
+        "paper-20260930-theory-13": true,
+        "paper-20260930-theory-04": true,
+        "paper-20260930-theory-10": true,
+        "paper-20260930-theory-05": true,
+        "paper-20260930-theory-01": true,
+        "paper-20260930-theory-02": true
       },
       "attempts": {
         "exam121-reliability-variant": 1,
@@ -2243,7 +2410,7 @@
         "review-20260927-abnormal-spoilage": 1,
         "review-20260927-revenue-measurement": 1,
         "review-20260927-periodic-cogs": 1,
-        "inventory-inclusion-20260929-batch2": 2,
+        "inventory-inclusion-20260929-batch2": 3,
         "capital-total-20260929-batch2": 1,
         "practice-20261001-vat-business-place": 1,
         "practice-20261001-vat-taxpayers": 2,
@@ -2254,7 +2421,12 @@
         "practice-20260930-vat-tax-base": 1,
         "paper-20260930-theory-15": 1,
         "paper-20260930-theory-14": 1,
-        "paper-20260930-theory-13": 1
+        "paper-20260930-theory-13": 1,
+        "paper-20260930-theory-04": 1,
+        "paper-20260930-theory-05": 2,
+        "paper-20260930-theory-10": 1,
+        "paper-20260930-theory-01": 1,
+        "paper-20260930-theory-02": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -2996,6 +3168,11 @@
             "at": "2026-10-01T13:25:46.762Z",
             "correct": false,
             "source": "notebook"
+          },
+          {
+            "at": "2026-10-03T05:32:45.657Z",
+            "choice": 1,
+            "correct": true
           }
         ],
         "capital-total-20260929-batch2": [
@@ -3077,6 +3254,47 @@
           {
             "at": "2026-10-01T13:53:26.869Z",
             "choice": 0,
+            "correct": true
+          }
+        ],
+        "paper-20260930-theory-04": [
+          {
+            "at": "2026-10-03T05:32:56.702Z",
+            "choice": 0,
+            "correct": true
+          }
+        ],
+        "paper-20260930-theory-05": [
+          {
+            "id": "0089b445-d496-4463-8346-1645e3f7dfa9",
+            "at": "2026-10-03T05:35:19.672Z",
+            "correct": false,
+            "source": "notebook"
+          },
+          {
+            "at": "2026-10-03T05:37:15.652Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
+        "paper-20260930-theory-10": [
+          {
+            "at": "2026-10-03T05:37:08.004Z",
+            "choice": 3,
+            "correct": true
+          }
+        ],
+        "paper-20260930-theory-01": [
+          {
+            "at": "2026-10-03T05:38:11.123Z",
+            "choice": 1,
+            "correct": true
+          }
+        ],
+        "paper-20260930-theory-02": [
+          {
+            "at": "2026-10-03T05:38:52.717Z",
+            "choice": 1,
             "correct": true
           }
         ]
@@ -3161,7 +3379,7 @@
         "review-20260927-abnormal-spoilage": true,
         "review-20260927-revenue-measurement": true,
         "review-20260927-periodic-cogs": true,
-        "inventory-inclusion-20260929-batch2": false,
+        "inventory-inclusion-20260929-batch2": true,
         "capital-total-20260929-batch2": true,
         "practice-20261001-vat-business-place": true,
         "practice-20261001-vat-taxpayers": true,
@@ -3172,7 +3390,12 @@
         "practice-20260930-vat-tax-base": true,
         "paper-20260930-theory-15": true,
         "paper-20260930-theory-14": true,
-        "paper-20260930-theory-13": true
+        "paper-20260930-theory-13": true,
+        "paper-20260930-theory-04": true,
+        "paper-20260930-theory-05": true,
+        "paper-20260930-theory-10": true,
+        "paper-20260930-theory-01": true,
+        "paper-20260930-theory-02": true
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -3265,7 +3488,12 @@
         "practice-20260930-vat-tax-base": false,
         "paper-20260930-theory-15": false,
         "paper-20260930-theory-14": false,
-        "paper-20260930-theory-13": false
+        "paper-20260930-theory-13": false,
+        "paper-20260930-theory-04": false,
+        "paper-20260930-theory-05": false,
+        "paper-20260930-theory-10": false,
+        "paper-20260930-theory-01": false,
+        "paper-20260930-theory-02": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
@@ -3357,12 +3585,16 @@
         "practice-20260930-vat-tax-base": "2026-10-01T13:49:07.864Z",
         "paper-20260930-theory-15": "2026-10-01T13:49:19.442Z",
         "paper-20260930-theory-14": "2026-10-01T13:49:33.773Z",
-        "paper-20260930-theory-13": "2026-10-01T13:53:26.869Z"
+        "paper-20260930-theory-13": "2026-10-01T13:53:26.869Z",
+        "inventory-inclusion-20260929-batch2": "2026-10-03T05:32:45.657Z",
+        "paper-20260930-theory-04": "2026-10-03T05:32:56.702Z",
+        "paper-20260930-theory-10": "2026-10-03T05:37:08.004Z",
+        "paper-20260930-theory-05": "2026-10-03T05:37:15.652Z",
+        "paper-20260930-theory-01": "2026-10-03T05:38:11.123Z",
+        "paper-20260930-theory-02": "2026-10-03T05:38:52.717Z"
       },
       "archivedAt": {},
-      "trainingCenterRestored": {
-        "inventory-inclusion-20260929-batch2": true
-      },
+      "trainingCenterRestored": {},
       "starred": {},
       "starredAt": {},
       "fileName": "이론_새학습_학습기록_2026-09-14",
@@ -3396,12 +3628,13 @@
         "review-20260928-allowance": "2026-09-30T02:03:12.349Z",
         "review-20260928-cost-concepts": "2026-09-30T02:15:36.438Z",
         "inventory-inclusion-20260929-batch2": "2026-10-01T13:25:46.762Z",
-        "practice-20261001-vat-taxpayers": "2026-10-01T13:39:06.440Z"
+        "practice-20261001-vat-taxpayers": "2026-10-01T13:39:06.440Z",
+        "paper-20260930-theory-05": "2026-10-03T05:35:19.672Z"
       }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-10-03T04:50:41.433Z",
+      "updatedAt": "2026-10-03T05:40:31.379Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -7971,68 +8204,9 @@
           "graded": false
         },
         "35": {
-          "voucher": {
-            "deleted": false,
-            "date": "2023-08-18",
-            "trade": "sales",
-            "type": "14.건별",
-            "item": "거래처 증정용 자사 제품",
-            "quantity": "",
-            "unitPrice": "",
-            "supply": "700,000",
-            "vat": "70,000",
-            "supplier": "없음",
-            "electronic": "부",
-            "journal": "혼합",
-            "cardCompanyCode": "",
-            "cardCompany": "",
-            "serviceFee": "",
-            "zeroRate": "",
-            "deductReason": ""
-          },
-          "rows": [
-            {
-              "side": "C",
-              "account": "부가세예수금",
-              "accountCode": "",
-              "accountValue": "부가세예수금|",
-              "amount": "70,000",
-              "division": "",
-              "summary": "거래처 증정용 자사 제품",
-              "autoRole": "base"
-            },
-            {
-              "side": "C",
-              "account": "제품",
-              "accountCode": "",
-              "accountValue": "제품|",
-              "amount": "420,000",
-              "division": "",
-              "summary": "8(타계정으로 대체)",
-              "autoRole": "base"
-            },
-            {
-              "side": "D",
-              "account": "기업업무추진비",
-              "accountCode": "",
-              "accountValue": "기업업무추진비|제",
-              "amount": "490,000",
-              "division": "제",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": true,
+          "voucher": {},
+          "rows": [],
+          "graded": false,
           "correct": true,
           "attempts": 4,
           "wrongCount": 2,
@@ -11093,68 +11267,9 @@
           "passedAt": "2026-09-28T13:33:51.153Z"
         },
         "56": {
-          "voucher": {
-            "deleted": false,
-            "date": "2026-08-18",
-            "trade": "sales",
-            "type": "14.건별",
-            "item": "증정용 자사 제품",
-            "quantity": "",
-            "unitPrice": "",
-            "supply": "700,000",
-            "vat": "70,000",
-            "supplier": "",
-            "electronic": "부",
-            "journal": "혼합",
-            "cardCompanyCode": "",
-            "cardCompany": "",
-            "serviceFee": "",
-            "zeroRate": "",
-            "deductReason": ""
-          },
-          "rows": [
-            {
-              "side": "C",
-              "account": "부가세예수금",
-              "accountCode": "",
-              "accountValue": "부가세예수금|",
-              "amount": "70,000",
-              "division": "",
-              "summary": "증정용 자사 제품",
-              "autoRole": "base"
-            },
-            {
-              "side": "C",
-              "account": "제품",
-              "accountCode": "",
-              "accountValue": "제품|",
-              "amount": "420,000",
-              "division": "",
-              "summary": "8(타계정으로 대체)",
-              "autoRole": "base"
-            },
-            {
-              "side": "D",
-              "account": "기업업무추진비",
-              "accountCode": "",
-              "accountValue": "기업업무추진비|제",
-              "amount": "490,000",
-              "division": "제",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": true,
+          "voucher": {},
+          "rows": [],
+          "graded": false,
           "correct": true,
           "attempts": 1,
           "wrongCount": 0,
@@ -12149,6 +12264,266 @@
           "selfPassed": true,
           "selfPassedAt": "2026-10-01T13:59:52.007Z",
           "passedAt": "2026-10-01T13:59:52.007Z"
+        },
+        "72": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false
+        },
+        "73": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false
+        },
+        "74": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false
+        },
+        "75": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false
+        },
+        "76": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false
         }
       },
       "fileName": "매입매출전표_오답연습_30문제_학습기록_2026-09-14"
@@ -17548,7 +17923,7 @@
       }
     ]
   },
-  "syncedAt": "2026-10-03T04:50:41.439Z",
+  "syncedAt": "2026-10-03T05:40:31.386Z",
   "device": {
     "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
     "name": "모바일"
