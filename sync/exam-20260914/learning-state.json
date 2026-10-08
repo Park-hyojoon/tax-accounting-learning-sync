@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-10-08T10:03:47.004Z",
+  "exportedAt": "2026-10-08T11:27:41.352Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -2628,7 +2628,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-10-08T10:03:46.993Z",
+      "updatedAt": "2026-10-08T11:27:41.343Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -4079,7 +4079,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-10-08T10:03:47.000Z",
+      "updatedAt": "2026-10-08T11:27:41.348Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -25690,7 +25690,7 @@
       }
     ]
   },
-  "syncedAt": "2026-10-08T10:03:47.004Z",
+  "syncedAt": "2026-10-08T11:27:41.353Z",
   "device": {
     "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
     "name": "PC"
