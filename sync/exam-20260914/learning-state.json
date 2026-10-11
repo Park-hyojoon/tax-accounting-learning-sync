@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-10-08T11:27:41.352Z",
+  "exportedAt": "2026-10-11T02:52:53.285Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -2628,7 +2628,7 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-10-08T11:27:41.343Z",
+      "updatedAt": "2026-10-11T02:52:53.261Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
@@ -2824,8 +2824,8 @@
         "practice-20260924-overhead-overapplied": 1,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
         "practice-20260926-income-statement-principles": 2,
-        "exam123-overhead-allocation-recurrence-variant-20260926": 1,
         "practice-20260926-vat-business-unit-taxation": 2,
+        "exam123-overhead-allocation-recurrence-variant-20260926": 1,
         "practice-20260926-step-fixed-cost": 2,
         "practice-20260926-merchandise-profit-loss": 1,
         "practice-20260926-ppe-characteristics": 2,
@@ -3319,13 +3319,6 @@
             "correct": true
           }
         ],
-        "exam123-overhead-allocation-recurrence-variant-20260926": [
-          {
-            "at": "2026-09-26T06:41:21.308Z",
-            "choice": 2,
-            "correct": true
-          }
-        ],
         "practice-20260926-vat-business-unit-taxation": [
           {
             "at": "2026-09-26T07:57:55.835Z",
@@ -3335,6 +3328,13 @@
           {
             "at": "2026-09-26T08:47:42.249Z",
             "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam123-overhead-allocation-recurrence-variant-20260926": [
+          {
+            "at": "2026-09-26T06:41:21.308Z",
+            "choice": 2,
             "correct": true
           }
         ],
@@ -3793,8 +3793,8 @@
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
-        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-vat-business-unit-taxation": true,
+        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-step-fixed-cost": true,
         "practice-20260926-merchandise-profit-loss": true,
         "practice-20260926-ppe-characteristics": true,
@@ -3891,8 +3891,8 @@
         "practice-20260924-overhead-overapplied": false,
         "exam113-total-manufacturing-cost-accrual-wages-variant": false,
         "practice-20260926-income-statement-principles": false,
-        "exam123-overhead-allocation-recurrence-variant-20260926": false,
         "practice-20260926-vat-business-unit-taxation": false,
+        "exam123-overhead-allocation-recurrence-variant-20260926": false,
         "practice-20260926-step-fixed-cost": false,
         "practice-20260926-merchandise-profit-loss": false,
         "practice-20260926-ppe-characteristics": false,
@@ -4079,7 +4079,7 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-10-08T11:27:41.348Z",
+      "updatedAt": "2026-10-11T02:52:53.273Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -4253,10 +4253,10 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "correct": true,
           "passedAt": "2026-09-14T14:00:24.180Z",
           "selfPassed": true,
-          "selfPassedAt": "2026-09-14T14:00:24.180Z"
+          "selfPassedAt": "2026-09-14T14:00:24.180Z",
+          "correct": true
         },
         "1": {
           "voucher": {},
@@ -4372,10 +4372,10 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "correct": true,
           "passedAt": "2026-09-14T14:01:50.620Z",
           "selfPassed": true,
-          "selfPassedAt": "2026-09-14T14:01:50.620Z"
+          "selfPassedAt": "2026-09-14T14:01:50.620Z",
+          "correct": true
         },
         "2": {
           "voucher": {},
@@ -4422,7 +4422,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -4494,7 +4493,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-15T06:42:00.944Z"
+          "passedAt": "2026-09-15T06:42:00.944Z",
+          "correct": false
         },
         "3": {
           "voucher": {},
@@ -4541,7 +4541,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 4,
           "wrongCount": 3,
           "history": [
@@ -4814,7 +4813,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-15T06:45:16.712Z"
+          "passedAt": "2026-09-15T06:45:16.712Z",
+          "correct": false
         },
         "4": {
           "voucher": {},
@@ -4861,7 +4861,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -4999,7 +4998,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-15T06:49:21.386Z"
+          "passedAt": "2026-09-15T06:49:21.386Z",
+          "correct": false
         },
         "5": {
           "voucher": {},
@@ -5046,7 +5046,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -5185,7 +5184,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-15T06:52:54.104Z"
+          "passedAt": "2026-09-15T06:52:54.104Z",
+          "correct": false
         },
         "6": {
           "voucher": {},
@@ -5232,7 +5232,6 @@
             }
           ],
           "graded": false,
-          "correct": true,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -5314,7 +5313,8 @@
           "starred": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-17T09:57:08.344Z",
-          "passedAt": "2026-09-17T09:57:08.344Z"
+          "passedAt": "2026-09-17T09:57:08.344Z",
+          "correct": true
         },
         "7": {
           "attempts": 2,
@@ -5627,10 +5627,10 @@
           ],
           "voucher": {},
           "graded": false,
-          "correct": true,
           "passedAt": "2026-09-17T09:58:22.248Z",
           "selfPassed": true,
-          "selfPassedAt": "2026-09-17T09:58:22.248Z"
+          "selfPassedAt": "2026-09-17T09:58:22.248Z",
+          "correct": true
         },
         "9": {
           "attempts": 5,
@@ -6535,10 +6535,10 @@
           ],
           "voucher": {},
           "graded": false,
-          "correct": false,
           "selfPassed": true,
           "selfPassedAt": "2026-09-25T04:01:00.970Z",
-          "passedAt": "2026-09-25T04:01:00.970Z"
+          "passedAt": "2026-09-25T04:01:00.970Z",
+          "correct": false
         },
         "12": {
           "voucher": {},
@@ -6585,7 +6585,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 3,
           "wrongCount": 2,
           "history": [
@@ -6796,7 +6795,8 @@
           "archived": false,
           "starred": false,
           "restoredAt": "2026-09-30T06:44:13.463Z",
-          "passedAt": "2026-09-30T06:44:24.190Z"
+          "passedAt": "2026-09-30T06:44:24.190Z",
+          "correct": false
         },
         "13": {
           "voucher": {},
@@ -6843,7 +6843,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -6917,7 +6916,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-30T06:48:59.168Z"
+          "passedAt": "2026-09-30T06:48:59.168Z",
+          "correct": false
         },
         "14": {
           "voucher": {},
@@ -6964,7 +6964,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -7047,7 +7046,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-19T06:12:27.629Z"
+          "passedAt": "2026-09-19T06:12:27.629Z",
+          "correct": false
         },
         "15": {
           "voucher": {},
@@ -7094,7 +7094,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -7177,7 +7176,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-19T06:14:47.992Z"
+          "passedAt": "2026-09-19T06:14:47.992Z",
+          "correct": false
         },
         "16": {
           "voucher": {},
@@ -7224,7 +7224,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -7307,7 +7306,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-19T06:17:32.753Z"
+          "passedAt": "2026-09-19T06:17:32.753Z",
+          "correct": false
         },
         "17": {
           "voucher": {},
@@ -7354,7 +7354,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -7437,7 +7436,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-19T06:18:57.946Z"
+          "passedAt": "2026-09-19T06:18:57.946Z",
+          "correct": false
         },
         "18": {
           "voucher": {},
@@ -7504,7 +7504,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 3,
           "wrongCount": 2,
           "history": [
@@ -7775,7 +7774,8 @@
           "archived": false,
           "starred": false,
           "restoredAt": "2026-10-01T07:43:40.874Z",
-          "passedAt": "2026-10-01T07:46:46.310Z"
+          "passedAt": "2026-10-01T07:46:46.310Z",
+          "correct": false
         },
         "19": {
           "attempts": 2,
@@ -7961,8 +7961,8 @@
           ],
           "voucher": {},
           "graded": false,
-          "correct": false,
-          "passedAt": "2026-09-25T03:59:17.305Z"
+          "passedAt": "2026-09-25T03:59:17.305Z",
+          "correct": false
         },
         "20": {
           "voucher": {},
@@ -8475,8 +8475,8 @@
           ],
           "voucher": {},
           "graded": false,
-          "correct": true,
-          "passedAt": "2026-09-25T03:57:04.048Z"
+          "passedAt": "2026-09-25T03:57:04.048Z",
+          "correct": true
         },
         "22": {
           "voucher": {},
@@ -8596,8 +8596,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "correct": true,
-          "passedAt": "2026-09-27T10:49:06.983Z"
+          "passedAt": "2026-09-27T10:49:06.983Z",
+          "correct": true
         },
         "23": {
           "voucher": {},
@@ -9045,13 +9045,13 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false
         },
         "27": {
           "attempts": 0,
@@ -9150,13 +9150,13 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false
         },
         "29": {
           "voucher": {},
@@ -9203,13 +9203,13 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false
         },
         "30": {
           "voucher": {},
@@ -9256,13 +9256,13 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false
         },
         "31": {
           "attempts": 2,
@@ -9389,10 +9389,10 @@
           ],
           "voucher": {},
           "graded": false,
-          "correct": true,
           "selfPassed": true,
           "selfPassedAt": "2026-09-25T03:54:55.358Z",
-          "passedAt": "2026-09-25T03:54:55.358Z"
+          "passedAt": "2026-09-25T03:54:55.358Z",
+          "correct": true
         },
         "32": {
           "attempts": 0,
@@ -9636,10 +9636,10 @@
           ],
           "voucher": {},
           "graded": false,
-          "correct": true,
           "selfPassed": true,
           "selfPassedAt": "2026-09-25T03:53:24.154Z",
-          "passedAt": "2026-09-25T03:53:24.154Z"
+          "passedAt": "2026-09-25T03:53:24.154Z",
+          "correct": true
         },
         "34": {
           "attempts": 0,
@@ -9748,7 +9748,6 @@
             }
           ],
           "graded": false,
-          "correct": true,
           "attempts": 4,
           "wrongCount": 2,
           "history": [
@@ -10024,9 +10023,10 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "draftSession": "1790923900466-0.5327352523532293",
           "passedAt": "2026-10-02T07:12:23.670Z",
-          "restoredAt": "2026-10-02T07:10:45.681Z"
+          "restoredAt": "2026-10-02T07:10:45.681Z",
+          "correct": true,
+          "draftSession": "1790923900466-0.5327352523532293"
         },
         "36": {
           "attempts": 0,
@@ -10605,8 +10605,8 @@
           "voucher": {},
           "graded": false,
           "restoredAt": "2026-09-27T02:27:29.164Z",
-          "correct": true,
-          "passedAt": "2026-09-27T02:27:58.947Z"
+          "passedAt": "2026-09-27T02:27:58.947Z",
+          "correct": true
         },
         "43": {
           "voucher": {},
@@ -10946,10 +10946,10 @@
           "archived": false,
           "starred": false,
           "restoredAt": "2026-09-26T23:56:22.802Z",
-          "correct": true,
           "selfPassed": true,
           "selfPassedAt": "2026-09-27T08:05:30.880Z",
-          "passedAt": "2026-09-27T08:05:30.880Z"
+          "passedAt": "2026-09-27T08:05:30.880Z",
+          "correct": true
         },
         "44": {
           "attempts": 4,
@@ -11274,8 +11274,8 @@
           "voucher": {},
           "graded": false,
           "restoredAt": "2026-09-26T07:27:57.818Z",
-          "correct": true,
-          "passedAt": "2026-09-26T07:28:29.370Z"
+          "passedAt": "2026-09-26T07:28:29.370Z",
+          "correct": true
         },
         "45": {
           "voucher": {},
@@ -11322,7 +11322,6 @@
             }
           ],
           "graded": false,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -11396,7 +11395,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-28T22:37:42.867Z"
+          "passedAt": "2026-09-28T22:37:42.867Z",
+          "correct": true
         },
         "46": {
           "voucher": {},
@@ -11443,7 +11443,6 @@
             }
           ],
           "graded": false,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -11517,7 +11516,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-28T22:35:58.407Z"
+          "passedAt": "2026-09-28T22:35:58.407Z",
+          "correct": true
         },
         "47": {
           "voucher": {},
@@ -11844,8 +11844,8 @@
           "archived": false,
           "starred": false,
           "restoredAt": "2026-09-28T22:34:10.901Z",
-          "correct": true,
-          "passedAt": "2026-09-28T22:34:37.292Z"
+          "passedAt": "2026-09-28T22:34:37.292Z",
+          "correct": true
         },
         "48": {
           "voucher": {},
@@ -12036,8 +12036,8 @@
           "archived": false,
           "starred": false,
           "restoredAt": "2026-09-28T22:25:20.239Z",
-          "correct": true,
-          "passedAt": "2026-09-28T22:29:32.730Z"
+          "passedAt": "2026-09-28T22:29:32.730Z",
+          "correct": true
         },
         "49": {
           "voucher": {},
@@ -12084,7 +12084,6 @@
             }
           ],
           "graded": false,
-          "correct": true,
           "attempts": 7,
           "wrongCount": 6,
           "history": [
@@ -12571,7 +12570,8 @@
           "archived": false,
           "starred": false,
           "restoredAt": "2026-09-28T22:41:42.556Z",
-          "passedAt": "2026-09-28T22:43:13.553Z"
+          "passedAt": "2026-09-28T22:43:13.553Z",
+          "correct": true
         },
         "50": {
           "voucher": {},
@@ -12618,7 +12618,6 @@
             }
           ],
           "graded": false,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -12692,7 +12691,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-28T21:46:24.178Z"
+          "passedAt": "2026-09-28T21:46:24.178Z",
+          "correct": true
         },
         "51": {
           "voucher": {},
@@ -12739,7 +12739,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -12813,7 +12812,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-28T13:43:12.651Z"
+          "passedAt": "2026-09-28T13:43:12.651Z",
+          "correct": false
         },
         "52": {
           "voucher": {},
@@ -12860,7 +12860,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -12934,7 +12933,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-28T13:40:44.255Z"
+          "passedAt": "2026-09-28T13:40:44.255Z",
+          "correct": false
         },
         "53": {
           "voucher": {},
@@ -12981,7 +12981,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -13055,7 +13054,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-28T13:37:26.979Z"
+          "passedAt": "2026-09-28T13:37:26.979Z",
+          "correct": false
         },
         "54": {
           "voucher": {},
@@ -13102,7 +13102,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -13176,7 +13175,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-28T13:35:20.859Z"
+          "passedAt": "2026-09-28T13:35:20.859Z",
+          "correct": false
         },
         "55": {
           "voucher": {},
@@ -13223,7 +13223,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -13297,7 +13296,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-28T13:33:51.153Z"
+          "passedAt": "2026-09-28T13:33:51.153Z",
+          "correct": false
         },
         "56": {
           "voucher": {},
@@ -13344,7 +13344,6 @@
             }
           ],
           "graded": false,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -13418,8 +13417,9 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "draftSession": "1790923900466-0.5327352523532293",
-          "passedAt": "2026-10-02T07:06:51.287Z"
+          "passedAt": "2026-10-02T07:06:51.287Z",
+          "correct": true,
+          "draftSession": "1790923900466-0.5327352523532293"
         },
         "57": {
           "voucher": {},
@@ -13466,13 +13466,13 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false
         },
         "58": {
           "voucher": {},
@@ -13519,13 +13519,13 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false
         },
         "59": {
           "voucher": {},
@@ -13572,7 +13572,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -13646,7 +13645,8 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-10-02T06:38:25.783Z"
+          "passedAt": "2026-10-02T06:38:25.783Z",
+          "correct": false
         },
         "60": {
           "voucher": {},
@@ -13693,7 +13693,6 @@
             }
           ],
           "graded": false,
-          "correct": false,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -13836,7 +13835,8 @@
           "archived": false,
           "starred": false,
           "restoredAt": "2026-10-02T06:40:49.884Z",
-          "passedAt": "2026-10-02T06:41:35.357Z"
+          "passedAt": "2026-10-02T06:41:35.357Z",
+          "correct": false
         },
         "61": {
           "voucher": {},
@@ -13883,7 +13883,6 @@
             }
           ],
           "graded": false,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -13957,8 +13956,9 @@
           "passed": true,
           "archived": false,
           "starred": false,
-          "draftSession": "1790841853294-0.6590137609958774",
-          "passedAt": "2026-10-01T08:08:04.998Z"
+          "passedAt": "2026-10-01T08:08:04.998Z",
+          "correct": true,
+          "draftSession": "1790841853294-0.6590137609958774"
         },
         "62": {
           "voucher": {},
@@ -25690,9 +25690,9 @@
       }
     ]
   },
-  "syncedAt": "2026-10-08T11:27:41.353Z",
+  "syncedAt": "2026-10-11T02:52:53.285Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
+    "name": "모바일"
   }
 }
