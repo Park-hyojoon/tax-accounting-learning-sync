@@ -2,10 +2,12 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-10-11T02:52:53.285Z",
+  "exportedAt": "2026-10-11T11:22:50.379Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
+      "startedAt": "2026-09-14T13:49:18.363Z",
+      "updatedAt": "2026-10-11T11:22:50.334Z",
       "cards": {
         "0": {
           "rows": [],
@@ -62,6 +64,38 @@
           "starred": false
         },
         "2": {
+          "attempts": 2,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "8fd6679f-27f9-41a9-a130-b05184851ba0",
+              "at": "2026-09-15T06:40:04.163Z",
+              "correct": true,
+              "source": "notebook"
+            },
+            {
+              "id": "791ce94b-0b6c-4fb3-8b88-0662a6a5afeb",
+              "at": "2026-10-10T22:30:25.253Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-15T06:40:04.163Z",
+          "passedAt": "2026-10-10T22:30:25.253Z",
+          "timedPending": {
+            "id": "2f722cf6-d08f-4d60-8a57-938025939846",
+            "phase": "running",
+            "startedMs": 1789783983304,
+            "pausedTotalMs": 0,
+            "targetSeconds": 90,
+            "assisted": false
+          },
+          "starred": false,
+          "correct": true,
+          "graded": false,
           "rows": [
             {
               "side": "D",
@@ -95,33 +129,7 @@
               "partner": "",
               "memo": ""
             }
-          ],
-          "graded": false,
-          "attempts": 1,
-          "wrongCount": 0,
-          "history": [
-            {
-              "id": "8fd6679f-27f9-41a9-a130-b05184851ba0",
-              "at": "2026-09-15T06:40:04.163Z",
-              "correct": true,
-              "source": "notebook"
-            }
-          ],
-          "passed": true,
-          "archived": false,
-          "selfPassed": true,
-          "selfPassedAt": "2026-09-15T06:40:04.163Z",
-          "passedAt": "2026-09-15T06:40:04.163Z",
-          "timedPending": {
-            "id": "2f722cf6-d08f-4d60-8a57-938025939846",
-            "phase": "running",
-            "startedMs": 1789783983304,
-            "pausedTotalMs": 0,
-            "targetSeconds": 90,
-            "assisted": false
-          },
-          "correct": true,
-          "starred": false
+          ]
         },
         "3": {
           "attempts": 1,
@@ -1481,8 +1489,9 @@
           "passedAt": "2026-09-22T08:22:19.465Z",
           "rows": [],
           "graded": true,
-          "correct": true,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": true
         },
         "43": {
           "attempts": 1,
@@ -1502,8 +1511,9 @@
           "passedAt": "2026-09-22T08:20:49.127Z",
           "rows": [],
           "graded": true,
-          "correct": true,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": true
         },
         "44": {
           "attempts": 2,
@@ -1770,7 +1780,6 @@
         "54": {
           "rows": [],
           "graded": true,
-          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1786,7 +1795,9 @@
           "selfPassed": true,
           "selfPassedAt": "2026-09-26T12:31:28.302Z",
           "passedAt": "2026-09-26T12:31:28.302Z",
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": true
         },
         "55": {
           "rows": [],
@@ -2016,15 +2027,15 @@
           "starred": false
         },
         "68": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "69": {
           "rows": [],
@@ -2095,13 +2106,14 @@
         "75": {
           "rows": [],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": false
         },
         "76": {
           "rows": [],
@@ -2211,35 +2223,38 @@
         "82": {
           "rows": [],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": false
         },
         "83": {
           "rows": [],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": false
         },
         "84": {
           "rows": [],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": false
         },
         "85": {
           "rows": [],
@@ -2310,13 +2325,14 @@
         "91": {
           "rows": [],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": false
         },
         "92": {
           "rows": [],
@@ -2530,35 +2546,48 @@
         "111": {
           "rows": [],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": false
         },
         "112": {
           "rows": [],
           "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": false
         },
         "113": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "c0a08807-3b0e-4d60-b607-3652f7e77516",
+              "at": "2026-10-10T22:22:19.589Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correct": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-10-10T22:22:19.589Z",
+          "graded": false,
+          "rows": []
         },
         "114": {
           "rows": [],
@@ -2572,15 +2601,15 @@
           "starred": false
         },
         "115": {
-          "rows": [],
-          "graded": false,
-          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "rows": [],
+          "graded": false,
+          "correct": false
         },
         "116": {
           "rows": [],
@@ -2618,6 +2647,18 @@
         "119": {
           "rows": [],
           "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "correctionInitialized": true,
+          "correct": false
+        },
+        "120": {
+          "rows": [],
+          "graded": false,
           "correct": false,
           "attempts": 0,
           "wrongCount": 0,
@@ -2625,16 +2666,428 @@
           "passed": false,
           "archived": false,
           "starred": false
+        },
+        "121": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "122": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "123": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "124": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "125": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "126": {
+          "rows": [
+            {
+              "side": "D",
+              "account": "보통예금",
+              "amount": "12,000,000",
+              "division": "",
+              "partner": "",
+              "memo": "",
+              "summary": ""
+            },
+            {
+              "side": "C",
+              "account": "장기차입금",
+              "amount": "12,000,000",
+              "division": "",
+              "partner": "㈜정모상사",
+              "memo": "",
+              "summary": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "correctionInitialized": true
+        },
+        "127": {
+          "attempts": 1,
+          "wrongCount": 1,
+          "history": [
+            {
+              "id": "3cfdee52-2940-430b-9b96-9c02e381dc39",
+              "at": "2026-10-10T22:29:26.371Z",
+              "correct": false,
+              "source": "notebook"
+            }
+          ],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "selfPassed": false,
+          "selfPassedAt": null,
+          "trainingCenterRestored": true,
+          "restoredAt": "2026-10-10T22:29:26.371Z",
+          "graded": false,
+          "rows": [
+            {
+              "side": "D",
+              "account": "임대보증금",
+              "amount": "20,000,000",
+              "division": "",
+              "partner": "나자비",
+              "memo": "",
+              "summary": ""
+            },
+            {
+              "side": "C",
+              "account": "보통예금",
+              "amount": "20,000,000",
+              "division": "",
+              "partner": "",
+              "memo": "",
+              "summary": ""
+            }
+          ],
+          "correctionInitialized": true
+        },
+        "128": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "129": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "130": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "131": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "132": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "133": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "134": {
+          "rows": [
+            {
+              "side": "D",
+              "account": "외상매입금",
+              "amount": "800,000",
+              "division": "",
+              "partner": "온누리",
+              "memo": "",
+              "summary": ""
+            },
+            {
+              "side": "C",
+              "account": "보통예금",
+              "amount": "800,000",
+              "division": "",
+              "partner": "",
+              "memo": "",
+              "summary": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "correctionInitialized": true
+        },
+        "135": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "136": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "137": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "138": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "139": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "140": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "141": {
+          "rows": [
+            {
+              "side": "D",
+              "account": "이자비용",
+              "amount": "362,500",
+              "division": "",
+              "partner": "",
+              "memo": "",
+              "summary": ""
+            },
+            {
+              "side": "C",
+              "account": "보통예금",
+              "amount": "362,500",
+              "division": "",
+              "partner": "",
+              "memo": "",
+              "summary": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "correctionInitialized": true
+        },
+        "142": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "143": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "144": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "145": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "146": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "147": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "148": {
+          "rows": [
+            {
+              "side": "D",
+              "account": "외상매입금",
+              "amount": "3,000,000",
+              "division": "",
+              "partner": "㈜상문",
+              "memo": "",
+              "summary": ""
+            },
+            {
+              "side": "C",
+              "account": "보통예금",
+              "amount": "3,000,000",
+              "division": "",
+              "partner": "",
+              "memo": "",
+              "summary": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "correctionInitialized": true
         }
       },
-      "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-10-11T02:52:53.261Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-10-03T05:38:52.717Z",
+      "updatedAt": "2026-10-10T22:53:18.846Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -2824,8 +3277,8 @@
         "practice-20260924-overhead-overapplied": 1,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
         "practice-20260926-income-statement-principles": 2,
-        "practice-20260926-vat-business-unit-taxation": 2,
         "exam123-overhead-allocation-recurrence-variant-20260926": 1,
+        "practice-20260926-vat-business-unit-taxation": 2,
         "practice-20260926-step-fixed-cost": 2,
         "practice-20260926-merchandise-profit-loss": 1,
         "practice-20260926-ppe-characteristics": 2,
@@ -3319,6 +3772,13 @@
             "correct": true
           }
         ],
+        "exam123-overhead-allocation-recurrence-variant-20260926": [
+          {
+            "at": "2026-09-26T06:41:21.308Z",
+            "choice": 2,
+            "correct": true
+          }
+        ],
         "practice-20260926-vat-business-unit-taxation": [
           {
             "at": "2026-09-26T07:57:55.835Z",
@@ -3328,13 +3788,6 @@
           {
             "at": "2026-09-26T08:47:42.249Z",
             "choice": 3,
-            "correct": true
-          }
-        ],
-        "exam123-overhead-allocation-recurrence-variant-20260926": [
-          {
-            "at": "2026-09-26T06:41:21.308Z",
-            "choice": 2,
             "correct": true
           }
         ],
@@ -3793,8 +4246,8 @@
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
-        "practice-20260926-vat-business-unit-taxation": true,
         "exam123-overhead-allocation-recurrence-variant-20260926": true,
+        "practice-20260926-vat-business-unit-taxation": true,
         "practice-20260926-step-fixed-cost": true,
         "practice-20260926-merchandise-profit-loss": true,
         "practice-20260926-ppe-characteristics": true,
@@ -3891,8 +4344,8 @@
         "practice-20260924-overhead-overapplied": false,
         "exam113-total-manufacturing-cost-accrual-wages-variant": false,
         "practice-20260926-income-statement-principles": false,
-        "practice-20260926-vat-business-unit-taxation": false,
         "exam123-overhead-allocation-recurrence-variant-20260926": false,
+        "practice-20260926-vat-business-unit-taxation": false,
         "practice-20260926-step-fixed-cost": false,
         "practice-20260926-merchandise-profit-loss": false,
         "practice-20260926-ppe-characteristics": false,
@@ -4079,54 +4532,10 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-10-11T02:52:53.273Z",
+      "updatedAt": "2026-10-11T11:22:50.367Z",
       "cards": {
         "0": {
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
-          "attempts": 3,
+          "attempts": 4,
           "wrongCount": 1,
           "history": [
             {
@@ -4248,17 +4657,78 @@
               "at": "2026-09-14T14:00:24.180Z",
               "correct": true,
               "source": "notebook"
+            },
+            {
+              "at": "2026-10-10T22:42:18.233Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-09-12",
+                "trade": "purchase",
+                "type": "61.현과",
+                "item": "제품 운송비",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "200,000",
+                "vat": "20,000",
+                "supplier": "(주)빠른물류",
+                "electronic": "",
+                "journal": "현금",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금|",
+                  "amount": "20,000",
+                  "division": "",
+                  "summary": "제품 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "운반비",
+                  "accountCode": "",
+                  "accountValue": "운반비|판",
+                  "amount": "200,000",
+                  "division": "판",
+                  "summary": "제품 운송비",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
             }
           ],
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-14T14:00:24.180Z",
-          "selfPassed": true,
-          "selfPassedAt": "2026-09-14T14:00:24.180Z",
-          "correct": true
-        },
-        "1": {
+          "passedAt": "2026-10-10T22:42:18.233Z",
           "voucher": {},
           "rows": [
             {
@@ -4303,7 +4773,10 @@
             }
           ],
           "graded": false,
-          "attempts": 2,
+          "correct": true
+        },
+        "1": {
+          "attempts": 3,
           "wrongCount": 0,
           "history": [
             {
@@ -4367,17 +4840,78 @@
               "at": "2026-09-14T14:01:50.620Z",
               "correct": true,
               "source": "notebook"
+            },
+            {
+              "at": "2026-10-10T22:44:28.121Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-11-06",
+                "trade": "purchase",
+                "type": "57.카과",
+                "item": "행사 기념품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,500,000",
+                "vat": "150,000",
+                "supplier": "새봄기프트",
+                "electronic": "",
+                "journal": "카드",
+                "cardCompanyCode": "",
+                "cardCompany": "신한카드(법인)",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "미지급금",
+                  "accountCode": "",
+                  "accountValue": "미지급금|",
+                  "amount": "1,650,000",
+                  "division": "",
+                  "summary": "행사 기념품",
+                  "autoRole": "counter"
+                },
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금|",
+                  "amount": "150,000",
+                  "division": "",
+                  "summary": "행사 기념품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "복리후생비",
+                  "accountCode": "",
+                  "accountValue": "복리후생비|제",
+                  "amount": "1,500,000",
+                  "division": "제",
+                  "summary": "행사 기념품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
             }
           ],
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-14T14:01:50.620Z",
-          "selfPassed": true,
-          "selfPassedAt": "2026-09-14T14:01:50.620Z",
-          "correct": true
-        },
-        "2": {
+          "passedAt": "2026-10-10T22:44:28.121Z",
           "voucher": {},
           "rows": [
             {
@@ -4422,7 +4956,10 @@
             }
           ],
           "graded": false,
-          "attempts": 1,
+          "correct": true
+        },
+        "2": {
+          "attempts": 2,
           "wrongCount": 0,
           "history": [
             {
@@ -4488,12 +5025,123 @@
                 }
               ],
               "wrongLabels": []
+            },
+            {
+              "at": "2026-10-10T23:28:43.475Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-08-14",
+                "trade": "sales",
+                "type": "22.현과",
+                "item": "제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "1,500,000",
+                "vat": "150,000",
+                "supplier": "박정호",
+                "electronic": "",
+                "journal": "현금",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "부가세예수금",
+                  "accountCode": "",
+                  "accountValue": "부가세예수금|",
+                  "amount": "150,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "1,500,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "C",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
             }
           ],
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-15T06:42:00.944Z",
+          "passedAt": "2026-10-10T23:28:43.475Z",
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "draftSession": "1791674822296-0.6949195750059355",
           "correct": false
         },
         "3": {
@@ -5002,50 +5650,6 @@
           "correct": false
         },
         "5": {
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -5185,6 +5789,50 @@
           "archived": false,
           "starred": false,
           "passedAt": "2026-09-15T06:52:54.104Z",
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
           "correct": false
         },
         "6": {
@@ -6276,7 +6924,8 @@
             }
           ],
           "voucher": {},
-          "graded": false
+          "graded": false,
+          "correctionInitialized": true
         },
         "11": {
           "attempts": 4,
@@ -6917,6 +7566,7 @@
           "archived": false,
           "starred": false,
           "passedAt": "2026-09-30T06:48:59.168Z",
+          "correctionInitialized": true,
           "correct": false
         },
         "14": {
@@ -14624,7 +15274,8 @@
           "graded": false,
           "selfPassed": true,
           "selfPassedAt": "2026-10-01T13:59:52.007Z",
-          "passedAt": "2026-10-01T13:59:52.007Z"
+          "passedAt": "2026-10-01T13:59:52.007Z",
+          "correctionInitialized": true
         },
         "72": {
           "attempts": 0,
@@ -14676,7 +15327,8 @@
               "autoRole": ""
             }
           ],
-          "graded": false
+          "graded": false,
+          "correctionInitialized": true
         },
         "73": {
           "attempts": 0,
@@ -14936,7 +15588,8 @@
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true
         },
         "78": {
           "voucher": {},
@@ -15300,7 +15953,8 @@
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true
         },
         "85": {
           "voucher": {},
@@ -15352,7 +16006,8 @@
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true
         },
         "86": {
           "voucher": {},
@@ -15404,7 +16059,8 @@
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true
         },
         "87": {
           "voucher": {},
@@ -15768,7 +16424,8 @@
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false
+          "starred": false,
+          "correctionInitialized": true
         },
         "94": {
           "voucher": {},
@@ -16811,6 +17468,1542 @@
           "starred": false
         },
         "114": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "correctionInitialized": true
+        },
+        "115": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "116": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "117": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "118": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "119": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "120": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "121": {
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "voucher": {
+            "type": "51.과세",
+            "supply": "10,000,000",
+            "vat": "1,000,000",
+            "supplier": "다온테크㈜",
+            "journal": "혼합",
+            "date": "2024-11-10"
+          },
+          "rows": [
+            {
+              "side": "D",
+              "account": "부가세대급금",
+              "accountCode": "",
+              "accountValue": "부가세대급금|",
+              "amount": "1,000,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "수선비",
+              "accountCode": "",
+              "accountValue": "수선비|제",
+              "amount": "10,000,000",
+              "division": "제",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "C",
+              "account": "보통예금",
+              "accountCode": "",
+              "accountValue": "보통예금|",
+              "amount": "11,000,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "correctionInitialized": true
+        },
+        "122": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "123": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "124": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "125": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "126": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "127": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "128": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "129": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "130": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "131": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "132": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "133": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "134": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "135": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "136": {
+          "voucher": {
+            "type": "51.과세",
+            "supply": "700,000",
+            "vat": "70,000",
+            "supplier": "영포상회",
+            "electronic": "여",
+            "journal": "혼합",
+            "date": "2023-11-30"
+          },
+          "rows": [
+            {
+              "side": "D",
+              "account": "부가세대급금",
+              "accountCode": "",
+              "accountValue": "부가세대급금|",
+              "amount": "70,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "건물",
+              "accountCode": "",
+              "accountValue": "건물|",
+              "amount": "700,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "C",
+              "account": "보통예금",
+              "accountCode": "",
+              "accountValue": "보통예금|",
+              "amount": "770,000",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false,
+          "correctionInitialized": true
+        },
+        "137": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "138": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "139": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "140": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "141": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "142": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "attempts": 0,
+          "wrongCount": 0,
+          "history": [],
+          "passed": false,
+          "archived": false,
+          "starred": false
+        },
+        "143": {
           "voucher": {},
           "rows": [
             {
@@ -25690,9 +27883,9 @@
       }
     ]
   },
-  "syncedAt": "2026-10-11T02:52:53.285Z",
+  "syncedAt": "2026-10-11T11:22:50.379Z",
   "device": {
-    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
-    "name": "모바일"
+    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
+    "name": "PC"
   }
 }
