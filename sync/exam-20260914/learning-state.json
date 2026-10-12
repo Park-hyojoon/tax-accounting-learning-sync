@@ -2,7 +2,7 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-10-12T07:10:10.591Z",
+  "exportedAt": "2026-10-12T07:25:02.431Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
@@ -3024,15 +3024,16 @@
           "selfPassed": false,
           "selfPassedAt": null,
           "restoredAt": "2026-10-10T22:29:26.371Z",
-          "graded": true,
+          "graded": false,
           "rows": [
             {
               "side": "D",
-              "account": "임차보증금",
+              "account": "임대보증금",
               "amount": "20,000,000",
               "division": "",
               "partner": "나자비",
-              "memo": ""
+              "memo": "",
+              "summary": ""
             },
             {
               "side": "C",
@@ -3040,23 +3041,8 @@
               "amount": "20,000,000",
               "division": "",
               "partner": "",
-              "memo": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "amount": "",
-              "division": "",
-              "partner": "",
-              "memo": ""
+              "memo": "",
+              "summary": ""
             }
           ],
           "correctionInitialized": true,
@@ -3365,13 +3351,13 @@
         }
       },
       "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-10-12T07:10:10.563Z",
+      "updatedAt": "2026-10-12T07:25:02.405Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-10-12T07:09:48.828Z",
+      "updatedAt": "2026-10-12T07:24:52.224Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -3510,15 +3496,16 @@
         "paper-20260930-theory-10": true,
         "paper-20260930-theory-05": true,
         "paper-20260930-theory-01": true,
-        "paper-20260930-theory-02": true
+        "paper-20260930-theory-02": true,
+        "daily-20261005-exam124-theory-6": false
       },
       "attempts": {
         "exam121-reliability-variant": 1,
-        "exam121-available-sale-variant": 1,
+        "exam121-available-sale-variant": 2,
         "exam121-contra-asset-variant": 2,
         "exam121-vat-characteristics-variant": 2,
         "exam123-overhead-allocation-variant": 1,
-        "exam124-retained-earnings-appropriation-variant": 2,
+        "exam124-retained-earnings-appropriation-variant": 3,
         "exam124-inventory-nrv-variant": 2,
         "exam124-equivalent-units-methods-variant": 2,
         "exam124-predetermined-overhead-rate-variant": 1,
@@ -3608,7 +3595,8 @@
         "paper-20260930-theory-05": 2,
         "paper-20260930-theory-10": 1,
         "paper-20260930-theory-01": 1,
-        "paper-20260930-theory-02": 1
+        "paper-20260930-theory-02": 1,
+        "daily-20261005-exam124-theory-6": 1
       },
       "history": {
         "exam121-reliability-variant": [
@@ -3622,6 +3610,11 @@
         "exam121-available-sale-variant": [
           {
             "at": "2026-09-14T13:53:37.078Z",
+            "choice": 1,
+            "correct": true
+          },
+          {
+            "at": "2026-10-12T07:23:50.410Z",
             "choice": 1,
             "correct": true
           }
@@ -3665,6 +3658,11 @@
           },
           {
             "at": "2026-09-15T12:13:54.929Z",
+            "choice": 2,
+            "correct": true
+          },
+          {
+            "at": "2026-10-12T07:24:52.224Z",
             "choice": 2,
             "correct": true
           }
@@ -4489,6 +4487,14 @@
             "choice": 1,
             "correct": true
           }
+        ],
+        "daily-20261005-exam124-theory-6": [
+          {
+            "id": "a8544e41-0279-443d-a280-c948c068855b",
+            "at": "2026-10-12T07:24:09.827Z",
+            "correct": false,
+            "source": "notebook"
+          }
         ]
       },
       "passed": {
@@ -4587,7 +4593,8 @@
         "paper-20260930-theory-05": true,
         "paper-20260930-theory-10": true,
         "paper-20260930-theory-01": true,
-        "paper-20260930-theory-02": true
+        "paper-20260930-theory-02": true,
+        "daily-20261005-exam124-theory-6": false
       },
       "archived": {
         "exam121-reliability-variant": false,
@@ -4685,15 +4692,16 @@
         "paper-20260930-theory-05": false,
         "paper-20260930-theory-10": false,
         "paper-20260930-theory-01": false,
-        "paper-20260930-theory-02": false
+        "paper-20260930-theory-02": false,
+        "daily-20261005-exam124-theory-6": false
       },
       "passedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
-        "exam121-available-sale-variant": "2026-09-14T13:53:37.078Z",
+        "exam121-available-sale-variant": "2026-10-12T07:23:50.410Z",
         "exam121-contra-asset-variant": "2026-09-14T13:56:43.362Z",
         "exam121-vat-characteristics-variant": "2026-10-11T02:53:34.790Z",
         "exam123-overhead-allocation-variant": "2026-09-15T04:53:13.153Z",
-        "exam124-retained-earnings-appropriation-variant": "2026-09-15T12:13:54.929Z",
+        "exam124-retained-earnings-appropriation-variant": "2026-10-12T07:24:52.224Z",
         "exam124-equivalent-units-methods-variant": "2026-09-15T12:27:28.539Z",
         "exam124-predetermined-overhead-rate-variant": "2026-09-15T12:28:50.812Z",
         "exam124-inventory-nrv-variant": "2026-09-15T12:29:34.695Z",
@@ -4787,7 +4795,8 @@
       },
       "archivedAt": {},
       "trainingCenterRestored": {
-        "exam121-contra-asset-variant": true
+        "exam121-contra-asset-variant": true,
+        "daily-20261005-exam124-theory-6": true
       },
       "starred": {},
       "starredAt": {},
@@ -4804,12 +4813,14 @@
       "selfPassed": {
         "exam121-reliability-variant": true,
         "exam106-sales-cutoff-variant": true,
-        "inventory-inclusion-20260929-batch2": false
+        "inventory-inclusion-20260929-batch2": false,
+        "daily-20261005-exam124-theory-6": false
       },
       "selfPassedAt": {
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
         "exam106-sales-cutoff-variant": "2026-09-16T22:40:29.905Z",
-        "inventory-inclusion-20260929-batch2": null
+        "inventory-inclusion-20260929-batch2": null,
+        "daily-20261005-exam124-theory-6": null
       },
       "restoredAt": {
         "practice-20260924-inventory-ownership": "2026-09-26T08:55:45.138Z",
@@ -4824,12 +4835,13 @@
         "inventory-inclusion-20260929-batch2": "2026-10-01T13:25:46.762Z",
         "practice-20261001-vat-taxpayers": "2026-10-01T13:39:06.440Z",
         "paper-20260930-theory-05": "2026-10-03T05:35:19.672Z",
-        "exam121-contra-asset-variant": "2026-10-12T07:09:48.828Z"
+        "exam121-contra-asset-variant": "2026-10-12T07:09:48.828Z",
+        "daily-20261005-exam124-theory-6": "2026-10-12T07:24:09.827Z"
       }
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-10-12T07:10:10.577Z",
+      "updatedAt": "2026-10-12T07:25:02.421Z",
       "cards": {
         "0": {
           "voucher": {},
@@ -5442,24 +5454,42 @@
           "correct": false
         },
         "3": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "2026-10-24",
+            "trade": "purchase",
+            "type": "54.불공",
+            "item": "운동기구",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "2,000,000",
+            "vat": "200,000",
+            "supplier": "(주)편안생활",
+            "electronic": "여",
+            "journal": "혼합",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "",
+            "deductReason": "②사업과 직접 관련 없는 지출"
+          },
           "rows": [
             {
               "side": "D",
-              "account": "",
+              "account": "가지급금",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "가지급금|",
+              "amount": "2,200,000",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "운동기구",
+              "autoRole": "base"
             },
             {
-              "side": "D",
-              "account": "",
+              "side": "C",
+              "account": "보통예금",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "보통예금|",
+              "amount": "2,200,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -5485,9 +5515,9 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "attempts": 4,
-          "wrongCount": 3,
+          "graded": true,
+          "attempts": 7,
+          "wrongCount": 5,
           "history": [
             {
               "at": "2026-09-15T06:43:38.818Z",
@@ -5753,13 +5783,217 @@
                 }
               ],
               "wrongLabels": []
+            },
+            {
+              "at": "2026-10-12T07:17:05.551Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-24",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "운동기구",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,000,000",
+                "vat": "200,000",
+                "supplier": "(주)편안생활",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "가지급금",
+                  "accountCode": "",
+                  "accountValue": "가지급금|",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "운동기구",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "불공제사유"
+              ]
+            },
+            {
+              "at": "2026-10-12T07:17:17.211Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-24",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "운동기구",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,000,000",
+                "vat": "200,000",
+                "supplier": "(주)편안생활",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "원재료",
+                  "accountCode": "",
+                  "accountValue": "원재료|",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "운동기구",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-10-12T07:17:28.243Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-10-24",
+                "trade": "purchase",
+                "type": "54.불공",
+                "item": "운동기구",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "2,000,000",
+                "vat": "200,000",
+                "supplier": "(주)편안생활",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": "②사업과 직접 관련 없는 지출"
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "가지급금",
+                  "accountCode": "",
+                  "accountValue": "가지급금|",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "운동기구",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "보통예금",
+                  "accountCode": "",
+                  "accountValue": "보통예금|",
+                  "amount": "2,200,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
             }
           ],
           "passed": true,
           "archived": false,
           "starred": false,
-          "passedAt": "2026-09-15T06:45:16.712Z",
-          "correct": false
+          "passedAt": "2026-10-12T07:17:28.243Z",
+          "correct": true,
+          "draftSession": "1791789017014-0.811242177651947",
+          "restoredAt": "2026-10-12T07:17:17.211Z"
         },
         "4": {
           "attempts": 2,
@@ -10063,24 +10297,42 @@
           "graded": false
         },
         "28": {
-          "voucher": {},
+          "voucher": {
+            "deleted": false,
+            "date": "2022-11-07",
+            "trade": "sales",
+            "type": "16.수출",
+            "item": "제품",
+            "quantity": "",
+            "unitPrice": "",
+            "supply": "50,400,000",
+            "vat": "",
+            "supplier": "글로벌인더스트리",
+            "electronic": "",
+            "journal": "혼합",
+            "cardCompanyCode": "",
+            "cardCompany": "",
+            "serviceFee": "",
+            "zeroRate": "①직접수출(대행수출 포함)",
+            "deductReason": ""
+          },
           "rows": [
             {
-              "side": "D",
-              "account": "",
+              "side": "C",
+              "account": "제품매출",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "제품매출|",
+              "amount": "50,400,000",
               "division": "",
-              "summary": "",
-              "autoRole": ""
+              "summary": "제품",
+              "autoRole": "base"
             },
             {
               "side": "D",
-              "account": "",
+              "account": "외상매출금",
               "accountCode": "",
-              "accountValue": "",
-              "amount": "",
+              "accountValue": "외상매출금|",
+              "amount": "50,400,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -10106,14 +10358,83 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "attempts": 0,
+          "graded": true,
+          "attempts": 1,
           "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "history": [
+            {
+              "at": "2026-10-12T07:13:05.135Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2022-11-07",
+                "trade": "sales",
+                "type": "16.수출",
+                "item": "제품",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "50,400,000",
+                "vat": "",
+                "supplier": "글로벌인더스트리",
+                "electronic": "",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "①직접수출(대행수출 포함)",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "C",
+                  "account": "제품매출",
+                  "accountCode": "",
+                  "accountValue": "제품매출|",
+                  "amount": "50,400,000",
+                  "division": "",
+                  "summary": "제품",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "D",
+                  "account": "외상매출금",
+                  "accountCode": "",
+                  "accountValue": "외상매출금|",
+                  "amount": "50,400,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
           "starred": false,
-          "correct": false
+          "correct": true,
+          "draftSession": "1791789017014-0.811242177651947",
+          "passedAt": "2026-10-12T07:13:05.135Z"
         },
         "29": {
           "voucher": {},
@@ -15654,10 +15975,146 @@
           "correctionInitialized": true
         },
         "73": {
-          "attempts": 0,
-          "wrongCount": 0,
-          "history": [],
-          "passed": false,
+          "attempts": 2,
+          "wrongCount": 1,
+          "history": [
+            {
+              "at": "2026-10-12T07:14:41.823Z",
+              "correct": false,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-08-18",
+                "trade": "purchase",
+                "type": "55.수입",
+                "item": "부품T",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "3,600,000",
+                "vat": "360,000",
+                "supplier": "WEI사",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "원재료",
+                  "accountCode": "",
+                  "accountValue": "원재료|",
+                  "amount": "3,600,000",
+                  "division": "",
+                  "summary": "부품T",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "당좌예금",
+                  "accountCode": "",
+                  "accountValue": "당좌예금|",
+                  "amount": "3,600,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": [
+                "공급처",
+                "분개 선택·계정·판/제·적요"
+              ]
+            },
+            {
+              "at": "2026-10-12T07:15:46.908Z",
+              "correct": true,
+              "voucher": {
+                "deleted": false,
+                "date": "2026-08-18",
+                "trade": "purchase",
+                "type": "55.수입",
+                "item": "부품T",
+                "quantity": "",
+                "unitPrice": "",
+                "supply": "3,600,000",
+                "vat": "360,000",
+                "supplier": "인천세관",
+                "electronic": "여",
+                "journal": "혼합",
+                "cardCompanyCode": "",
+                "cardCompany": "",
+                "serviceFee": "",
+                "zeroRate": "",
+                "deductReason": ""
+              },
+              "rows": [
+                {
+                  "side": "D",
+                  "account": "부가세대급금",
+                  "accountCode": "",
+                  "accountValue": "부가세대급금|",
+                  "amount": "360,000",
+                  "division": "",
+                  "summary": "부품T",
+                  "autoRole": "base"
+                },
+                {
+                  "side": "C",
+                  "account": "당좌예금",
+                  "accountCode": "",
+                  "accountValue": "당좌예금|",
+                  "amount": "360,000",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                },
+                {
+                  "side": "D",
+                  "account": "",
+                  "accountCode": "",
+                  "accountValue": "",
+                  "amount": "",
+                  "division": "",
+                  "summary": "",
+                  "autoRole": ""
+                }
+              ],
+              "wrongLabels": []
+            }
+          ],
+          "passed": true,
           "archived": false,
           "starred": false,
           "voucher": {
@@ -15670,7 +16127,7 @@
             "unitPrice": "",
             "supply": "3,600,000",
             "vat": "360,000",
-            "supplier": "WEI사",
+            "supplier": "인천세관",
             "electronic": "여",
             "journal": "혼합",
             "cardCompanyCode": "",
@@ -15682,10 +16139,10 @@
           "rows": [
             {
               "side": "D",
-              "account": "원재료",
+              "account": "부가세대급금",
               "accountCode": "",
-              "accountValue": "원재료|",
-              "amount": "3,600,000",
+              "accountValue": "부가세대급금|",
+              "amount": "360,000",
               "division": "",
               "summary": "부품T",
               "autoRole": "base"
@@ -15695,7 +16152,7 @@
               "account": "당좌예금",
               "accountCode": "",
               "accountValue": "당좌예금|",
-              "amount": "3,600,000",
+              "amount": "360,000",
               "division": "",
               "summary": "",
               "autoRole": ""
@@ -15721,8 +16178,11 @@
               "autoRole": ""
             }
           ],
-          "graded": false,
-          "draftSession": "1791768744900-0.26450384278702"
+          "graded": true,
+          "draftSession": "1791789017014-0.811242177651947",
+          "restoredAt": "2026-10-12T07:14:41.823Z",
+          "correct": true,
+          "passedAt": "2026-10-12T07:15:46.908Z"
         },
         "74": {
           "attempts": 0,
@@ -28273,7 +28733,7 @@
       }
     ]
   },
-  "syncedAt": "2026-10-12T07:10:10.591Z",
+  "syncedAt": "2026-10-12T07:25:02.431Z",
   "device": {
     "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
     "name": "모바일"
