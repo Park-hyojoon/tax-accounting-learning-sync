@@ -2,12 +2,10 @@
   "format": "tax-accounting-training-center-backup",
   "version": 1,
   "season": "exam-20260914",
-  "exportedAt": "2026-10-11T11:22:50.379Z",
+  "exportedAt": "2026-10-12T01:25:59.013Z",
   "states": {
     "practical": {
       "schemaVersion": "exam-20260914-practical-schema",
-      "startedAt": "2026-09-14T13:49:18.363Z",
-      "updatedAt": "2026-10-11T11:22:50.334Z",
       "cards": {
         "0": {
           "rows": [],
@@ -64,38 +62,6 @@
           "starred": false
         },
         "2": {
-          "attempts": 2,
-          "wrongCount": 0,
-          "history": [
-            {
-              "id": "8fd6679f-27f9-41a9-a130-b05184851ba0",
-              "at": "2026-09-15T06:40:04.163Z",
-              "correct": true,
-              "source": "notebook"
-            },
-            {
-              "id": "791ce94b-0b6c-4fb3-8b88-0662a6a5afeb",
-              "at": "2026-10-10T22:30:25.253Z",
-              "correct": true,
-              "source": "notebook"
-            }
-          ],
-          "passed": true,
-          "archived": false,
-          "selfPassed": true,
-          "selfPassedAt": "2026-09-15T06:40:04.163Z",
-          "passedAt": "2026-10-10T22:30:25.253Z",
-          "timedPending": {
-            "id": "2f722cf6-d08f-4d60-8a57-938025939846",
-            "phase": "running",
-            "startedMs": 1789783983304,
-            "pausedTotalMs": 0,
-            "targetSeconds": 90,
-            "assisted": false
-          },
-          "starred": false,
-          "correct": true,
-          "graded": false,
           "rows": [
             {
               "side": "D",
@@ -129,7 +95,39 @@
               "partner": "",
               "memo": ""
             }
-          ]
+          ],
+          "graded": false,
+          "attempts": 2,
+          "wrongCount": 0,
+          "history": [
+            {
+              "id": "8fd6679f-27f9-41a9-a130-b05184851ba0",
+              "at": "2026-09-15T06:40:04.163Z",
+              "correct": true,
+              "source": "notebook"
+            },
+            {
+              "id": "791ce94b-0b6c-4fb3-8b88-0662a6a5afeb",
+              "at": "2026-10-10T22:30:25.253Z",
+              "correct": true,
+              "source": "notebook"
+            }
+          ],
+          "passed": true,
+          "archived": false,
+          "selfPassed": true,
+          "selfPassedAt": "2026-09-15T06:40:04.163Z",
+          "passedAt": "2026-10-10T22:30:25.253Z",
+          "timedPending": {
+            "id": "2f722cf6-d08f-4d60-8a57-938025939846",
+            "phase": "running",
+            "startedMs": 1789783983304,
+            "pausedTotalMs": 0,
+            "targetSeconds": 90,
+            "assisted": false
+          },
+          "correct": true,
+          "starred": false
         },
         "3": {
           "attempts": 1,
@@ -1489,9 +1487,9 @@
           "passedAt": "2026-09-22T08:22:19.465Z",
           "rows": [],
           "graded": true,
+          "correct": true,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": true
+          "correctionInitialized": true
         },
         "43": {
           "attempts": 1,
@@ -1511,9 +1509,9 @@
           "passedAt": "2026-09-22T08:20:49.127Z",
           "rows": [],
           "graded": true,
+          "correct": true,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": true
+          "correctionInitialized": true
         },
         "44": {
           "attempts": 2,
@@ -1780,6 +1778,7 @@
         "54": {
           "rows": [],
           "graded": true,
+          "correct": true,
           "attempts": 1,
           "wrongCount": 0,
           "history": [
@@ -1796,8 +1795,7 @@
           "selfPassedAt": "2026-09-26T12:31:28.302Z",
           "passedAt": "2026-09-26T12:31:28.302Z",
           "starred": false,
-          "correctionInitialized": true,
-          "correct": true
+          "correctionInitialized": true
         },
         "55": {
           "rows": [],
@@ -2027,15 +2025,15 @@
           "starred": false
         },
         "68": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false,
-          "rows": [],
-          "graded": false,
-          "correct": false
+          "starred": false
         },
         "69": {
           "rows": [],
@@ -2106,14 +2104,14 @@
         "75": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": false
+          "correctionInitialized": true
         },
         "76": {
           "rows": [],
@@ -2223,38 +2221,38 @@
         "82": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": false
+          "correctionInitialized": true
         },
         "83": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": false
+          "correctionInitialized": true
         },
         "84": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": false
+          "correctionInitialized": true
         },
         "85": {
           "rows": [],
@@ -2325,14 +2323,14 @@
         "91": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": false
+          "correctionInitialized": true
         },
         "92": {
           "rows": [],
@@ -2546,28 +2544,31 @@
         "111": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": false
+          "correctionInitialized": true
         },
         "112": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": false
+          "correctionInitialized": true
         },
         "113": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 1,
           "wrongCount": 1,
           "history": [
@@ -2581,13 +2582,10 @@
           "passed": false,
           "archived": false,
           "starred": false,
-          "correct": false,
           "selfPassed": false,
           "selfPassedAt": null,
           "trainingCenterRestored": true,
-          "restoredAt": "2026-10-10T22:22:19.589Z",
-          "graded": false,
-          "rows": []
+          "restoredAt": "2026-10-10T22:22:19.589Z"
         },
         "114": {
           "rows": [],
@@ -2601,15 +2599,15 @@
           "starred": false
         },
         "115": {
+          "rows": [],
+          "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
-          "starred": false,
-          "rows": [],
-          "graded": false,
-          "correct": false
+          "starred": false
         },
         "116": {
           "rows": [],
@@ -2647,14 +2645,14 @@
         "119": {
           "rows": [],
           "graded": false,
+          "correct": false,
           "attempts": 0,
           "wrongCount": 0,
           "history": [],
           "passed": false,
           "archived": false,
           "starred": false,
-          "correctionInitialized": true,
-          "correct": false
+          "correctionInitialized": true
         },
         "120": {
           "rows": [],
@@ -3082,12 +3080,14 @@
           "correctionInitialized": true
         }
       },
+      "startedAt": "2026-09-14T13:49:18.363Z",
+      "updatedAt": "2026-10-12T01:25:58.991Z",
       "fileName": "일반전표_새학습_학습기록_2026-09-14",
       "koAuto": true
     },
     "theory": {
       "startedAt": "2026-09-14T13:51:41.229Z",
-      "updatedAt": "2026-10-10T22:53:18.846Z",
+      "updatedAt": "2026-10-11T02:53:34.790Z",
       "answers": {
         "exam121-reliability-variant": 2,
         "exam121-available-sale-variant": 1,
@@ -3232,7 +3232,7 @@
         "exam121-reliability-variant": 1,
         "exam121-available-sale-variant": 1,
         "exam121-contra-asset-variant": 1,
-        "exam121-vat-characteristics-variant": 1,
+        "exam121-vat-characteristics-variant": 2,
         "exam123-overhead-allocation-variant": 1,
         "exam124-retained-earnings-appropriation-variant": 2,
         "exam124-inventory-nrv-variant": 2,
@@ -3277,8 +3277,8 @@
         "practice-20260924-overhead-overapplied": 1,
         "exam113-total-manufacturing-cost-accrual-wages-variant": 1,
         "practice-20260926-income-statement-principles": 2,
-        "exam123-overhead-allocation-recurrence-variant-20260926": 1,
         "practice-20260926-vat-business-unit-taxation": 2,
+        "exam123-overhead-allocation-recurrence-variant-20260926": 1,
         "practice-20260926-step-fixed-cost": 2,
         "practice-20260926-merchandise-profit-loss": 1,
         "practice-20260926-ppe-characteristics": 2,
@@ -3352,6 +3352,11 @@
         "exam121-vat-characteristics-variant": [
           {
             "at": "2026-09-14T13:56:54.899Z",
+            "choice": 2,
+            "correct": true
+          },
+          {
+            "at": "2026-10-11T02:53:34.790Z",
             "choice": 2,
             "correct": true
           }
@@ -3772,13 +3777,6 @@
             "correct": true
           }
         ],
-        "exam123-overhead-allocation-recurrence-variant-20260926": [
-          {
-            "at": "2026-09-26T06:41:21.308Z",
-            "choice": 2,
-            "correct": true
-          }
-        ],
         "practice-20260926-vat-business-unit-taxation": [
           {
             "at": "2026-09-26T07:57:55.835Z",
@@ -3788,6 +3786,13 @@
           {
             "at": "2026-09-26T08:47:42.249Z",
             "choice": 3,
+            "correct": true
+          }
+        ],
+        "exam123-overhead-allocation-recurrence-variant-20260926": [
+          {
+            "at": "2026-09-26T06:41:21.308Z",
+            "choice": 2,
             "correct": true
           }
         ],
@@ -4246,8 +4251,8 @@
         "practice-20260924-overhead-overapplied": true,
         "exam113-total-manufacturing-cost-accrual-wages-variant": true,
         "practice-20260926-income-statement-principles": true,
-        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-vat-business-unit-taxation": true,
+        "exam123-overhead-allocation-recurrence-variant-20260926": true,
         "practice-20260926-step-fixed-cost": true,
         "practice-20260926-merchandise-profit-loss": true,
         "practice-20260926-ppe-characteristics": true,
@@ -4344,8 +4349,8 @@
         "practice-20260924-overhead-overapplied": false,
         "exam113-total-manufacturing-cost-accrual-wages-variant": false,
         "practice-20260926-income-statement-principles": false,
-        "exam123-overhead-allocation-recurrence-variant-20260926": false,
         "practice-20260926-vat-business-unit-taxation": false,
+        "exam123-overhead-allocation-recurrence-variant-20260926": false,
         "practice-20260926-step-fixed-cost": false,
         "practice-20260926-merchandise-profit-loss": false,
         "practice-20260926-ppe-characteristics": false,
@@ -4397,7 +4402,7 @@
         "exam121-reliability-variant": "2026-09-14T13:52:52.724Z",
         "exam121-available-sale-variant": "2026-09-14T13:53:37.078Z",
         "exam121-contra-asset-variant": "2026-09-14T13:56:43.362Z",
-        "exam121-vat-characteristics-variant": "2026-09-14T13:56:54.899Z",
+        "exam121-vat-characteristics-variant": "2026-10-11T02:53:34.790Z",
         "exam123-overhead-allocation-variant": "2026-09-15T04:53:13.153Z",
         "exam124-retained-earnings-appropriation-variant": "2026-09-15T12:13:54.929Z",
         "exam124-equivalent-units-methods-variant": "2026-09-15T12:27:28.539Z",
@@ -4532,9 +4537,53 @@
     },
     "voucher": {
       "startedAt": "2026-09-14T10:08:47.880Z",
-      "updatedAt": "2026-10-11T11:22:50.367Z",
+      "updatedAt": "2026-10-12T01:25:59.003Z",
       "cards": {
         "0": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
           "attempts": 4,
           "wrongCount": 1,
           "history": [
@@ -4729,6 +4778,9 @@
           "archived": false,
           "starred": false,
           "passedAt": "2026-10-10T22:42:18.233Z",
+          "correct": true
+        },
+        "1": {
           "voucher": {},
           "rows": [
             {
@@ -4773,9 +4825,6 @@
             }
           ],
           "graded": false,
-          "correct": true
-        },
-        "1": {
           "attempts": 3,
           "wrongCount": 0,
           "history": [
@@ -4912,6 +4961,9 @@
           "archived": false,
           "starred": false,
           "passedAt": "2026-10-10T22:44:28.121Z",
+          "correct": true
+        },
+        "2": {
           "voucher": {},
           "rows": [
             {
@@ -4956,9 +5008,6 @@
             }
           ],
           "graded": false,
-          "correct": true
-        },
-        "2": {
           "attempts": 2,
           "wrongCount": 0,
           "history": [
@@ -5097,50 +5146,6 @@
           "archived": false,
           "starred": false,
           "passedAt": "2026-10-10T23:28:43.475Z",
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
           "draftSession": "1791674822296-0.6949195750059355",
           "correct": false
         },
@@ -5465,50 +5470,6 @@
           "correct": false
         },
         "4": {
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -5647,9 +5608,98 @@
           "archived": false,
           "starred": false,
           "passedAt": "2026-09-15T06:49:21.386Z",
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
+          "draftSession": "1791687255906-0.7051304610118655",
           "correct": false
         },
         "5": {
+          "voucher": {},
+          "rows": [
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            },
+            {
+              "side": "D",
+              "account": "",
+              "accountCode": "",
+              "accountValue": "",
+              "amount": "",
+              "division": "",
+              "summary": "",
+              "autoRole": ""
+            }
+          ],
+          "graded": false,
           "attempts": 2,
           "wrongCount": 1,
           "history": [
@@ -5789,50 +5839,6 @@
           "archived": false,
           "starred": false,
           "passedAt": "2026-09-15T06:52:54.104Z",
-          "voucher": {},
-          "rows": [
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            },
-            {
-              "side": "D",
-              "account": "",
-              "accountCode": "",
-              "accountValue": "",
-              "amount": "",
-              "division": "",
-              "summary": "",
-              "autoRole": ""
-            }
-          ],
-          "graded": false,
           "correct": false
         },
         "6": {
@@ -27883,9 +27889,9 @@
       }
     ]
   },
-  "syncedAt": "2026-10-11T11:22:50.379Z",
+  "syncedAt": "2026-10-12T01:25:59.013Z",
   "device": {
-    "id": "fd1b95e3-b04d-4688-b01d-f677bda20af5",
-    "name": "PC"
+    "id": "8cf668a9-30ae-4086-b10e-6a4899f31e9a",
+    "name": "모바일"
   }
 }
